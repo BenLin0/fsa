@@ -1,0 +1,5 @@
+a80ExpertY ==
+
+<["that" !hasCL:CL++ H] [CL:^.xCL]> [!infinitive] 
+<[NP:H] <["who|which|that":^.synS] [@VC:^^.mCL CL++ finite H]>> [BR|@VC] 
+[VTH|VSS] <["that":^.Z] [CL:H]> 

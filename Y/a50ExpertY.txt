@@ -1,0 +1,58 @@
+a50ExpertY ==
+
+<["did|do|does":^.Z] <[NP|proNN !nom|timeRB:^^.S H] [PP:^.M]*3> [VB:CL++ VG finite H]> 
+<[yVC dative|send:H] ^PP[PP:^.recipientC] [^PP.Z TO]> 
+<[0 A:^.CN NG] [CM] [CC:^.Z] [0 A:AP++ H]> [BR] 
+<['by':^.Z] [Ving VP:PP++ manner H]> 
+<[finite:H] ^V[Ving:^.mannerR] [^V.Z 'by']> 
+<[NN|nc !per|plu:H] <['which|that':^.synS] [VBZ VP !hasSubj:^^.mCL H]>> 
+<[NNS|nc !per:H] <['which|that':^.synS] [finite VP !hasSubj !VBZ:^^.mCL H]>> 
+<["what":^.O] [NP:^.synS] [finite|VB !hasObj:CL++ wh H]> [BR]
+<[VP|CL:H] ["and|or"] [VP:^.CN]> 
+<[linkV !hasArg:VP++ vi H] [PP:^.C]> [BR] 
+<[NP:H] ^PP[PP:^.M] [^PP.Z "of"]> 
+<['make':VP++ H] [A|AP:^.C]> 
+<[NP:H] <["of":^.Z] [NC:^^.M PP++ H]>> [BR|VC|P] 
+<["however":RP++ concession H] [CL hasSubj:^.xCL]> [BR] 
+<[yVC vS !hasO|hasoCL|hasC:VP++ H] ["that"] [CL:^.oCL]> [BR] 
+<[yVC vS hasO|hasoCL|hasC:VP++ H] ["that"] [CL:^.rCL]> [BR] 
+<["when|while":CL++ SC rCL timeUnit- H] [CL:^.xCL]> [BR] 
+<["nor|neither":^.Z] ["do|does|did":^.Z] [PRP:^.S] [VB|vc:CL++ SV neg pres H]> [BR] 
+<["nor|neither":^.Z] ["did":^.Z] [PRP:^.S] [VB|vc:CL++ SV neg past H]> [BR] 
+<["nor|neither":^.Z] [MD:^.Z] [PRP:^.S] [VB|vc:CL++ SV neg modal H]> [BR] 
+<[title:^.Z] [dot !spaceQ:^.X]? [@nN !yVC:NP++ MN H]> [!OOV|caseAb] 
+<['have|help|make':VP++ H] [NP:^.O] [VB:^.oVP VP]> [BR|PP] 
+[BR] <[NC unit:^.M] ["of":^.X] [NC:NP++ MN H]>  
+<[PP FULLSTRING 'for-':^.synS] [infinitive:H]> 
+<[NP|NG|N !yVC|xC:H] ^PP[PP:^.M] [^PP.Z "of|from"]> 
+[beC] <[N|NG|NP] [infinitive !vS:^.Z]> 
+[beC] <[N|NG|NP] [infinitive vS:^.Z]> [!wh]
+<[NP|NG vS:NP++ H] ["that"] [CL:^.mCL]> [BR] 
+[BR] <[vS:H] ["that"] [PP:^.R]> [BR] 
+<[@vV VB CL:CL++ H] [0 'and|or'] [@vV VB:^.CN]> [BR] 
+<<["too"] [A:AP++ H]> <[PP FULLSTRING 'for-':^.S] [infinitive:^^.C VP++ H]>> [BR] 
+<<["too":^.veryR] [A:AP++ H]> [infinitive:^.C VP]> [BR] 
+<['answer|key':H] [PP FULLSTRING 'to-':^.M]> 
+<[0 'how_to':^.Z] [VB:VG++ infinitive howQ H]> 
+<[0 'in_order_to':^.Z] [VB:VG++ infinitive purpose H]> 
+[CL !hasO] <[@NC !dir:H] [PP FULLSTRING 'on-':^.M]> [BR|RB] 
+[CL !hasO] <[PP:H] [PP !per FULLSTRING 'for-':^.M]> [BR|RB] 
+<[PP] [PP FULLSTRING "of-":^.M]> [!PP] 
+<[0 "like":SC]> 
+<[NP|NG] [PP FULLSTRING "behind-":^.M]> [!PP] 
+<[NP|NG per] [PP !time FULLSTRING "in-":^.M]> [!PP] 
+<[A|AC|ac FULLSTRING "as-"] [PP FULLSTRING "as-":^.R]> 
+<[DE dur:NP++ H] [0 "left":^.mVP Ven V+]> 
+<[@NC:H] <["of":^.Z] [Ving:^^.mVP PP VP- H]>> [BR] 
+<[@nN per] ^CL[CL:^.mCL] [^CL.synS "who"]> [BR] 
+<[0 "why"] [CL:^.xCL]> 
+<[NP|NG loc] [PP FULLSTRING "in-":^.M]> [!PP] 
+[BR] <[PP:^.S] [0 beC:CL H] ["where|when" hasxCL:^.oCL]> [BR] 
+<[VNPPP !vS|hasforC|hastoC] [@NC !time:^.O] [PP !"of-":^.C]> [BR] 
+<[VNPPP vS !hasforC|hastoC] [@NC !time|wh:^.O] [PP !"of-"|"about-":^.C]> [BR] 
+<[@NC:H] <[0 'whom|which|that':^.O] [CL !hasObj:^^.mCL H]>> [V] 
+<[FULLSTRING '-able|-unable' infinitive beC:^.Z] [infinitive:VG++ finite H]> 
+<[FULLSTRING '-able|-unable' !infinitive beC:^.Z] [infinitive:VG++ finite infinitive- H]> 
+[BR] <[dur|time:PoP++ timeRB H] ["ago":^.Z]> 
+<[VTH NP|N|NG] [CL:^.mCL]> [BR] 
+

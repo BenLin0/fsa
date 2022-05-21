@@ -1,0 +1,61 @@
+a40ExpertY ==
+
+<[N|nc:H] <["that|which":^.Z] [NP:^.S] [VG:^^.mCL H]>> [BR] 
+<[N|nc:H] [FULLSTRING PP 'of-':^.M]> [BR] 
+<['response':H] <['to':^.Z] [NP:^^.C PP++ H]>> 
+<['by':^.Z] [Ving VP:PP++ manner H]> 
+<[NN|nc !per|plu:H] <['which|that':^.synS] [VBZ VP !hasSubj:^^.mCL H]>> 
+<[NNS|nc !per:H] <['which|that':^.synS] [finite VP !hasSubj !VBZ:^^.mCL H]>> 
+<['have|help|make' !passive:VP++ vVBSat H] [PRP|NP:^.O] [VB:^.oVP V+ VP]> [BR|PP] 
+<[beC:VP++ H] ["there|here":^.R] [infinitive:^oVP purpose]> 
+<[VNPPPdir:VP++ H] [@NC:^.O] ^PP[PP:^.C] [^PP.Z "to"]> 
+<['see':VP++ H] ['light|dark':^.O NP]> [BR] 
+<[NP unit|quant:^.M] ["of"] [N:NP++ H]> 
+<['dedicated|dedicate':H] [RC:^.R]? [PP FULLSTRING 'to-':^.C]> 
+<[participle passive:^.CN] [CM]? [0 "and|or"] [participle passive:H]> 
+<[participle passive:^.CN] [CM] [0 "and|or"] [participle passive:H] [CM]> 
+[BR] <[0 "are|is|am|was|were":CL++ H] [NP:^.S]> 
+<["seems|seem|appears|appear"] [infinitive perfect "been"] [Ving:V+ perfect progressive present H]> 
+<["seemed|appeared"] [infinitive perfect "been"] [Ving:V+ perfect progressive past H]>
+<["seemed|appeared"] [infinitive:VG++ V+ past infinitive- H]> 
+<["seem|seems|appears|appear"] [infinitive:VG++ V+ present infinitive- H]> 
+[BR|NP] <[@nN !yVC:NP++ H] [0 Ved|Ven vt !hasO:^.mVP]> [0 'by'] 
+<[beC:VP++ H] [timeRB nc:^.O]> [!SC] 
+[BR] <[0 "have|has"] [PRP|NC !acc:^.synS] [RC:^.R]? [Ven !hassS:CL++ finite perfect pres nonPred- H]>  
+[BR] <[0 "had"] [PRP|NC !acc:^.synS] [RC:^.R]? [Ven !hassS:CL++ finite perfect past nonPred- H]>  
+<[NC:H] [0 "named|called"] [NNP|NE|N:^.equivM]> 
+<['why':^.Z] [V|V0|v quantChg:VG whyQ V+]> 
+<["nor|neither":^.Z] ["do|does|did":^.Z] <[PRP:^.S] [VB|vc:CL++ SV neg pres H]>> [BR] 
+<["nor|neither":^.Z] ["did":^.Z] <[PRP:^.S] [VB|vc:CL++ SV neg past H]>> [BR] 
+<["nor|neither":^.Z] [MD:^.Z] <[PRP:^.S] [VB|vc:CL++ SV neg modal H]>> [BR] 
+<[VBZ:^.CN] [CC:^.X] [VBZ:CN H]> 
+<[title:^.Z] [dot !spaceQ:^.X]? [@nN !yVC:NP++ MN H]> [!OOV|caseAb] 
+[BR] <[NC unit:^^.M] <["of"]> [NC: H]> [!NC]  
+[BR] <[NC !xC|PRP|proNN|unit:H] <["of":^.Z] [NC:^^.M PP++ H]>> [BR|VC|P] 
+
+[BR] <['he|she|it':^.S] [VBZ !xC:CL++ V+ nN- H]> 
+
+<['not':^.X] [infinitive:neg H]> 
+
+<[0 "has":^.Z] [RC|PP:^.R]? [Ven|ed: VG++ sg3p perfect V+ nN- H]> 
+<[0 "have":^.Z]  [RC|PP:^.R]?  [Ven|ed: VG++ pres perfect V+ nN- H]> 
+
+<['help|make|let' hasO:VP++ H] [VB|vc !finite|infinitive|Ving:^.C V+ VP]> [BR|RB|PP] 
+<['help|make|let' !hasO:VP++ H] [0 VB|vc:^.oVP V+ VP]> [BR|RB|PP] 
+
+<[pres|past prog "going":^.Z] [infinitive:VG++ infinitive- modal H]> 
+
+<[PP FULLSTRING 'for-':^.synS] [infinitive:SV H]> 
+
+<["nor|neither":^.Z] [yesnoQ:yesnoQ- neg H]> 
+
+<[VC 'leave|put|place|throw':VP++ VO++ HC++ V+ H] [@nN !yVC !nom:^.O NP] [PP 'on-|in-':^.C]> [BR] 
+
+<['go':VP++ H] [0 Ving:^.oVP]> [BR] 
+
+<['music':AP++ pred H] <[0 "to":^.Z] [@nN:^^.C PP++ H]>> 
+
+[BR] <[nN anim:^.S] ["like":CL++ V+ P- love vt H]> [NP|NG|N|nc|Ving] 
+
+<[@vV VB !hassS:VG++ H] [0 'and|or'] [@vV VB:^.CN]> [BR] 
+<[@vV VB CL:CL++ H] [0 'and|or'] [@vV VB:^.CN]> [BR] 

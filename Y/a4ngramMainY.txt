@@ -1,0 +1,15 @@
+a4ngramMainY ==
+
+<['web'] ['site':DE++ www H] [COLN|CM]? < ([!UH] [dot])*3 [alpha:^^.equivM DE++ www +++ H]>> 
+<['website|web':DE++ www H] [COLN|CM]? < ([!UH] [dot])*3 [alpha:^^.equivM DE++ www +++ H]>> 
+<['http|https':DE++ www +++ H] [COLN] ["/"] ["/"] ([!UH] [dot])*3 [alpha]> 
+<['www':DE++ www +++ H] [dot] ([alpha] [dot])*3 [alpha]> 
+<[alpha:DE++ www +++ H] [dot] ([alpha] [dot])*3 ['com|edu|gov|net']> 
+
+<[contactC:DE++ contact +++ H] ["international|domestic|local"]?  [dot]? [COLN|CM|"at|@"]? ["+"]? [digit]>  
+
+<["©|copyright":NEW SYM +++ /copyright/ H] ([0]? ["©"])? [d4:DE year]> 
+
+<["+"]? [digit]? [OPAR] [d3] [CPAR] [d3] [DDSH] [d4 spaceHou:DE++ contact phone +++ H]>  
+
+

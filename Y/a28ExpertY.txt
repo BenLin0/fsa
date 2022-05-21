@@ -1,0 +1,77 @@
+a28ExpertY ==
+
+<['which|what':^.M] [NC:NP++ whQ H]>   
+<[N] ["&"] [NE com|org:+++ H]> 
+[BR] <[N]? [alpha:NEW NE++ com H] [CM] ["inc"] [dot]?> 
+<[N|NG|nc:NG++ H] <[Ved|Ven:^^.mVP cliche H] ["herein|thereon"]>> 
+<["more":orQ H] [CM] ["less|fewer":^.CN] ["or":^.Z] []? ["same":^.CN]> 
+<["more":^.CN] ["or":^.Z] ["less|fewer":orQ H]> 
+<[N|nc:H] <["of":^.Z] [N|nc:^^.M PP++ H]>> [BR] 
+<[MD:^.Z] ['not|never|rarely|hardly'] [RB]? [VG passive: VG++ negative modal H]>  
+<[MD:^.Z] ['not|never|rarely|hardly'] [VB|V0:VG++ modal negative H]>  
+<[MD: VG++ negative H] ['not|never|rarely|hardly']> [BR] 
+<["neither":^.Z] [N|nc:^.CN] ["nor"] [N:NP++ negative H]> 
+<["the"]? [NNP:NE++ H] [caseAb "group"]> 
+<[!Punc:H] [OPAR] [!CPAR]*2 [!Punc:^.Z] [CPAR]> 
+<["been":^.X] [Ving: VG++ perfect prog H]> 
+<["has":^.Z] [RB:^.R]? [Ved:VG++ perfect present 3pSg H]> 
+<["had":^.Z] [RB:^.R]? [Ved:VG++ perfect past H]> 
+<["to":^.Z] [V:VG++ infinitive H]> 
+<[!UH:H] <[OPAR] ["or|namely|called|named":^.Z] [!UH:^^.equivL H] [CPAR]>> 
+<[0 "'s"|"'m"|"'re"|beC:^.X] [RB:^.R]? ["going":^.Z] ["to"] [VB:VG++ modal nonPred- nN- NN- H]> 
+<[DT:^.Z] [A:^.M]? ['kind|type|sort':^.M] ["of"] [NN|NNS:NP++ det0 H]> 
+[BR|V] <[0 NNS:^.CN] [CC:^.Z] [0 NNS:NG++ H]> [BR] 
+<[VB|VBZ|VBD:H] ['back|off|away|on|up|down':^.Z]> [P|TO] 
+
+<['a_lot|much|way|far':^.Z emph] ["more|less|fewer":emphasis H]> 
+<['a_lot|much|way|far':^.Z emph] [comparative:emphasis H]> 
+<["there":^.Z] [beC:CL++ vt H]> 
+<["believe":RP++ UH +++ H] ["it"] ["or"] ["not"]> 
+<["gets|get|got":^.Z] [Ved|Ven:VG++ finite passive H]> 
+<[P] ["which":NEW EX +++ xC idiomPP H]> [DT|PRP|NNP] 
+<[0 "the|this|a|an":^.Z X] [NN:NP++ det0 N+ H]> [BR|P|DT|VBZ|Ved|RC|MD|finite|PRP] 
+<[0 "the|these|those":^.Z X] [0 "honored":^.M]? [0 "dead":NP N+ per H]> [BR|NP|MD|finite] 
+<[0 "so":^.veryR] [RB ly:H]> 
+<[0 "the|a|an":^.Z X] [Ved|Ven|A|AP:^.M] [NN VB:NP++ det0 N+ H]> [!N|NG|nc] 
+<[CM] ["rather|however":RP++ sRB] [CM]> 
+<["we|us|you|they|them":^.corefL] <[0 "the":^.X] [0 "living":NP++ Ving- per det0 H]>> [!N|NG|nc] 
+<[0 "the":^.X] [0 "living":NP++ Ving- per det0 H]> [!N|NG|nc] 
+<[MD !caseAb:^.Z] [0 "little|rarely|hardly":^.Z] [VB:VG++ modal V+ nN- neg H]> 
+<["fitting":^.CN X A+] ["and"] ["proper":H]> 
+<[0 "resting"] [place:NEW NG++ N nc loc +++ /place/ H]> 
+<["created":H] [0 "equal":^.C]> [!N] 
+[0 "this|the|a|an|my|your|his|our|their"] [VB NN:N+]  
+<[N brand:H] [CD|OOVs:^.X type]> 
+<[NNP prod:H] [CD|OOVs:^.X type]> 
+<["in"] ["general":NEW RP++ sRB idiom +++ H]> [BR|nom|NNP] 
+<["in"] ["particular":NEW RP++ sRB idiom +++ H]> [BR] 
+<["so":^.veryR] ["many|much":emph H]> 
+[BR] <["what":^.Z] <["a|an":^.Z] [A|modJJ:^.M]? [0 NN|nc:CL++ exclamation H]>> [BR] 
+[BR] <["what":^.Z] <["a|an":^.Z] [A|modJJ:^.M]? [0 NN|nc:^^.C exclamation H]> [nN:^.S] [beC:CL++ exclamation SV HC H]> [BR] 
+<[0 V|vc:V+ nN- H] [0 'out':^.z]>  
+[BR] <[0 V|vc:V+ nN- H] [0 'down|up|off|on|away|inside|behind|over':^.z]> [BR|RC]  
+<[0 chgLoc:V+ nN- HC H] ['here|there|home':^.C]> 
+<[NNP|nc:modJJ poss H] [!spaceQ POS:^.X] [0 !spaceQ 's':^.X]> 
+<["time":^.S] ["flies":VP++ vi H]> 
+<[0 V|vc:+++ H] ["over|around"]> ["to"|P] 
+<<["my":^.possM] [@nN:^^.CN det0 NP++ H]> [CC:^.X] [0 'i':NP PRP+ H]> 
+<[0 "only|about|around|over|more_than|less_than"] [CD:H]> 
+<[vVing:VP++ H] [Ving:^.oVP VP]> [BR] 
+<[0 vc:V+ +++ H] [0 "past"]> [JM|Punc] 
+[!DT|yourC|POS] <[0 "bark":V+ vtt +++ H] ["at"]> 
+<["do|did":^.Z] [VB vc:VP++ H]> 
+[BR|@nN !A] <[yVC|VC !beC:V++ H] [RB:^.R]> ["and|or"]
+<[digit:^.M] ["pm|am":NP++ time]> 
+<[digit:DE ratio +++ H] <["out_of":^.Z] [digit:^^.M PP H]>> 
+
+<[0 "upon":^.X] [V]> 
+<[MD:^.Z] [0 "be"] [RC:^.R]? [Ving:VG++ modal prog V+ nN- H]> 
+<[0 "the"] [0 superl:H]> 
+<<["this"] ["nation":NP++ det0 H]> <[CM] ["under":^.Z] ["god":^^.M PP cliche X H] [CM]>>  
+<[0 JS2 "are":CL++ vS] [0 "you":^.S] [0 "sure|certain":^.C]> 
+<[0 "all":^.S] [0 "'s":CL++ H]> 
+<["both"]? [Ved:^.CN] ["and"] [Ved:VG++ H]> 
+<["either"]? [Ved:^.CN] ["or"] [Ved:VG++ H]> 
+<["both"]? [A:^.CN] ["and"] [A:AP++ H]> 
+<["either"]? [A:^.CN] ["or"] [A:AP++ H]> 
+<["anything|nothing|everything|something|somebody|someone|anyone|nobody"] [A|AP|ac !P:^.M]> [!N|NG|nc] 

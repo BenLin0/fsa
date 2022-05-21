@@ -1,0 +1,8 @@
+a90ExpertY == 
+
+<[CL:H] <[CM] [0 "nor|neither":^.Z] [@VC:^^.CN neg] [CM]?>> 
+<[NP loc:H] ['where' hasxCL:^.mCL]> 
+<[NP:H] <["who|which|that":^.synS] [@VC:^^.mCL CL++ H]>> [BR|@VC] 
+
+<["being":VP++ VC H] [adv|UH|durR:^.R]* [AP|enVG !PP:^.cAP]>
+

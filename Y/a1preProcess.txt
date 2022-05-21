@@ -1,0 +1,36 @@
+a1preProcess ==
+
+[!NC|VC|AC|xC: N] 
+["there"] <[POS] ["s" !spaceQ:NEW beC VBZ 'is' +++ H]>
+[PRP] <[POS] ["s" !spaceQ:NEW beC haveC VBZ 'is' +++ H]> 
+<[POS] ["s" !spaceQ:NEW POS +++ H]> 
+
+<['p'] ['/'] ['n': NEW acronym in12 'part_number' +++ H]> 
+<['part'] ['no':NEW N acronym in12 'part_number' +++ H] [dot]?>
+<['part'] [NEWL] ['no|number':NEW acronym in12 'part_number' +++ H] [dot]?> 
+
+<[!Punc:spaceHou]> [Punc|JM|cQuot !DDSH] 
+[JS|JM|OPAR|oQuot] <[!Punc:spaceQian]> 
+
+<["?"] ["?":NEW NEWFONT JS rStop BR string0 +++ H] ["?"]> 
+<['!'] ['!']*3 ['!':NEW NEWFONT JS++ rStop BR string0 +++ H]>  
+
+<["!" spaceQ spaceH:NEW NEWL BR]>  
+
+<[caseAB !spaceH:NEW H] ["-" !spaceH] [digit] ["_" !spaceQ|spaceH] [] ["_" !spaceQ|spaceH] [] ["_" !spaceQ|spaceH] [] ([SLASH] [digit])?> 
+<["no": 'number' acronym H] [dot !spaceQ]> [digit] 
+<[title|acronym:N+ H] [dot]> [!JM] 
+<[digit:NEW CD+ ordinal H] [HYPHEN]? ['st|nd|rd|th']> 
+<[CD] [DDSH] [length unit: hyphenated modJJ DE++ H]> 
+
+<["and":H] ["/"] ["or":^.Z]> 
+
+[CM] <[alpha] ["select":NEW string1Suf +++ H]> 
+<[color: string1Suf +++ H] ([SLASH|CM] [color])?> 
+<['type': NEW string1Suf +++ H] [d1]> [BR] 
+<['type': NEW string1Suf +++ H] ([d1 !spaceH] [l1])> 
+<['type': NEW string1Suf +++ H] ([d1 !spaceH] [l1 !spaceQ]? ["-" !spaceQ|spaceH]? [d1|l1 !spaceQ])> 
+
+[HYPH !spaceQ|spaceH:HYPHEN]  
+
+[!P] <[0 VB|Ving|N|A alpha !caseab !rStop] [N|VB|A !rStop]? [string1Head !string1:NG++ string1 +++ H] ["-"] [string1Suf]>  

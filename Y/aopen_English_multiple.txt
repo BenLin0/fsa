@@ -1,0 +1,188 @@
+
+air: Bearing clean  Countenance  Demeanor  disseminate  gas  gas  publish   
+appeal: Ability call  Demeanor  document  emotion  fact  request  request   
+arch: CausePartMove CausePartMove  curved  facilities  important  part  round  shape   
+balance: Amount AmountTo  balanced  CauseToDo  compare  equal  estimate  Rate   
+bar: block BlockUp  furniture  InstitutePlace  part  part  shape  symbol   
+bare: disseminate empty  empty  exposure  few  naked  reveal  StripOff   
+base:  facilities part 
+bear: bear beast  cherish  contain  endure  forming  PropUp  reproduce   
+beat: attack beat  cheat  damage  defeat  defeat  MakeMisunderstand  mix   
+bill: bill disseminate  document  money  part  part  readings  wealth   
+block: block BlockUp  exercise  facilities  NounUnit  obstruct  part  place   
+board: arrive edible  institution  material  part  part  reside  shape   
+bond: ally coupon  document  expenditure  fasten  GetMarried  part  Pertinence   
+bow: CausePartMove CausePartMove  fact  part  part  salute  shape  surrender   
+branch: branch part 
+bubble: AlterForm aspiration  Circumstances  jet  MakeSound  shape 
+burn: burn damage  disease  peppery  StateChange   
+call: call 
+calm: AtEase calm gentle peaceful quiet 
+capture: catch obtain 
+cast: throw produce 
+channel: facilities method  route 
+check: bill check 
+circle: circle circulate  coil  community  image  shape 
+circulation: circulate  
+class: community fact  group  Kind Rank 
+clean: clean PropertyValue  spotless  wash  wipe 
+close: careful cease  finish  intimate  
+collect: assemble collect  ComeTogether  gather   levy 
+collection: account artifact  collect  gather  levy   
+composition: compile component  contain  forming  music  produce 
+compound: chemical complicated place 
+contract: associate  document  shrink  
+copy: artifact copy  imitate  NounUnit produce  readings  record   
+counter: facing  furniture  location  reply  
+course: direction facilities  fact  food  knowledge  part  process  route   
+court: facilities 
+cover: contain  cover  
+crack: addict FormChange location  refined  sound 
+crash: bump end mishap OutOfOrder   
+credit: Ability affairs  believe  emotion  fund  Glory 
+cross: BeAcross BeBeyond  cross  shape  symbol 
+cut: carve cut dig split 
+deep: deep  
+deposit: Amount expenditure  money  SetAside 
+discharge: discharge drain excrete release 
+draft: bill compile draw 
+draw: attract collect  draw 
+drive: drive 
+dull: blunt boring foolish 
+duplicate: alike BeSimilar  copy  imitate  print  produce  readings  repeat   
+end: cease  end  finish 
+evil: Disadvantage fact  humanized  inferior  SocialMode  vicious  wicked   
+extend: delay  disperse  enlarge  
+extension: AlterForm AlterMeasurement  delay  disperse  enlarge  
+extract: artifact compile  gather  part  PickOut  SqueezeOut   
+exuberant: bustling excited  exuberant  flourishing  many  strong  sturdy  sufficient   
+feed: eat feed fill foster   
+field: dispatch facilities  land part  space   
+figure: Amount calculate Form  image  mark  part  symbol   
+film: shows TakePicture tool 
+fine: beautiful expenditure  fine  HighQuality  punish  refined 
+flash: appear fact  illuminate  news ShowOff 
+flush: Appearance AppearanceChange  damage  excited  red  time  wash  water   
+fork: FormChange part  pick  route  shape  tool   
+form: Appearance contain  document  establish  Form  forming  part  Pattern   
+foundation: community establish  part  
+frame: damage image  NounUnit  part  
+fuse: break burn  merge  part  part  part  StateChange  tool   
+generally: extensive FuncWord  general  insubstantial  often  public  regular  roughly   
+get: arrive become  CauseToDo  collect  fulfil  obtain  own  SufferFrom   
+great: BestQuality big  fantastic  grand  great  GreaterThanNormal  important  strong   
+grow: become BecomeMore  cultivate  foster  grow  happen  keep  planting   
+guard: defend defend  human  human  human  human  human  PayAttention   
+handle: handle information  part  part  part  part  reason  start   
+heart: location mental  part  part  part  part  purpose  thought   
+heavy: BehaviorValue big  effortful  GreaterThanNormal  heavy  LowVoice  serious  strong   
+hit: arrive beat  disseminate  firing  fit  fulfil  succeed  touch   
+hold: be BeMember  cherish  contain  defend  hold  load  manage   
+honest: decent earnest  fair  faithful  frank  honest  righteous  unacquisitive   
+honestly: cautious earnest  fair  faithful  frank  honest  righteous  unacquisitive   
+key: adjust important  Kind  method  part  part  part  result   
+lead: Amount guide  human  information  material  material  metal  order   
+lift: copy cut  facilities  lift  machine  pick  remove  StripOff   
+light: bright flighty  GoodTaste  gracious  insufficiently  light  lighting  lights   
+line: expression facilities  inlay  NounUnit  place  plans  put  reason   
+look: Appearance Appearance  be  become  Color  Countenance  experience  facing   
+loose: BadSocial big  flexible  improper  lascivious  loose  loosen  unattached   
+love: BeInLove emotion  emotion  emotion  emotion  FondOf  like  love   
+lower: BecomeLess elementary  LessThanNormal  LowRank  MakeLower  MakeLower  MoveItDown  subtract   
+make: arrive build  CauseToDo  CauseToDo  conduct  cook  create  do   
+master: BeAble control  human  human  human  human  human  human   
+mean: Amount average  despicable  Interest  lascivious  mean  miser  vulgar   
+model: example example  human  human  imitate  Kind  produce  produce   
+mount: BecomeMore decorate  GoUp  GoUp  inlay  install  land  livestock   
+movement: AlterLocation fact  fact  function  part  part  SelfMove  start   
+net: catch catch  net  Rate  shape  SportTool  tool  tool   
+note: letter letter  mention  part  part  perception  readings  SoundQuality   
+number: Amount AmountTo  count  few  NounUnit  Pattern  PutInOrder  symbol   
+odd: abnormal incomplete  many  many  many  over  QuantityValue  queer   
+open: begin begin  broad  broadminded  CausePartMove  CircumstancesValue  CircumstancesValue  dig   
+original: artifact creative  document  extraordinary  inanimate  original  past  readings   
+outside: err external  foreign  irrelevant  location  location  location  part   
+pack: ComeTogether human  inanimate  load  NounUnit  part  tool  wrap   
+pass: accept cross  decide  document  document  GoThrough  GoThrough  part   
+peak: Boundary Circumstances  fulfil  location  part  part  part  part   
+pit: facilities facilities  GoDown  InstitutePlace  land  part  part  part   
+place: arrange InstitutePlace  location  place  provide  put  PutInOrder  Sequence   
+plain: concise informal  land  lucid  plain  pure  simple  thrifty   
+plate: apply fittings  image  mark  material  part  shape  tool   
+play: display disseminate  do  drill  kick  perform  recreation  recreation   
+point: guide image  location  NounUnit  part  part  place  symbol   
+poor: barren crude  few  human  inferior  miserable  negligible  poor   
+position: affairs arrange  Circumstances  location  Occupation  place  put  standpoint   
+post: affairs announce  dispatch  document  facilities  Occupation  part  part   
+power: electricity expression  PhysicsPower  place  Power  Strength  Strength  Strength   
+present: appear donate  GiveAsGift  physical  present  propose  put  recommend   
+press: community InstitutePlace  InstitutePlace  press  publications  SqueezeOut  Strength  tool   
+project: CausePartMove display  fact  FormChange  illuminate  plan  send  shoot   
+punch: alcohol beat  fact  machine  press  split  stab  tool   
+raise: add add  add  BecomeMore  CausePartMove  foster  foster  gather   
+range: change Distance  Distance  facilities  put  Range  Range  roam   
+rank: arrange community  PutInOrder  Rank  Rank  Rank  Rank  shape   
+regular: constant formal  GeoRegular  neat  normal  ordinary  regular  regular   
+release: announce drain  express  loosen  publish  release  release  text   
+relieve: AtEase discharge  disconnect  exempt  help  remove  rescue  weaken   
+resolution: analyze aspiration  decide  handle  Performance  result  text  Will   
+reverse: alter backward  deny  fact  hind  mishap  MoveItBack  reverse   
+right: correct expression  FuncWord  location  location  proper  right  rights   
+rise: appear arise  BecomeMore  BecomeMore  begin  GoUp  GoUp  GoUp   
+roll: account bend  grind  press  press  roll  rotate  shape   
+root: establish expression  part  part  part  part  push  put   
+Rouble: money money  money  money  money  money  money  money   
+round: ActUnit coil  complete  cross  DoSum  ExpressAgainst  location  round   
+run: engage fact  fact  function  function  manage  manage  run   
+scale: GoUp part  part  Range  Rank  remove  shape  tool   
+screen: check choose  cover  filter  part  part  perform  tool   
+section: component image  NounUnit  part  part  part  part  part   
+sense: cherish experience  information  know  perception  reason  sense  thinking   
+set: adjust clothing  constant  delimit  GoDown  inlay  install  MakeAppointment   
+settle: arrange calculate  cease  establish  finish  fulfil  fulfil  handle   
+shade: Abstruseness Color  cover  cover  cover  HideTruth  Hue  place   
+shed: facilities GoDown  house  lose  lose  remove  spray  spread   
+shell: firing part  part  part  SportTool  StripOff  StripOff  StripOff   
+smash: AlterForm beat  break  bump  damage  defeat  destroy  destroy   
+snap: break fact  fittings  FormChange  hold  MakeSound  sound  speak   
+solid: durable hard  intimate  many  physical  steady  substantial  sufficient   
+sound: be BehaviorValue  fantastic  healthy  MakeSound  measure  qualified  sound   
+space: Area celestial  Content  location  location  sky  space  symbol   
+spread: apply disperse  disseminate  enlarge  infect  separate  spread  unfold   
+square: accurate DoSum  draw  frank  fulfil  image  InstitutePlace  planar   
+start: begin start  time  
+stop: block cease end 
+stretch: AlterMeasurement  disperse  FormChange 
+style: Behavior Demeanor Pattern  Style 
+subscription: Amount buy  donate  expenditure  money  
+surface: appear Appearance  part   
+surplus: Amount redundant  surplus  thing  wealth 
+temper: Behavior  cultivate  emotion  
+tender: tender frail  gentle  
+thick: concentrated  dense NotLight  TasteStrong  thick 
+thin: bony dilute  fine  insubstantial TasteLight  
+tie: fasten fittings 
+tip: information  part  payment 
+title: Name naming  Occupation Rank  
+tone: Color Hue Style  
+top: first HighRank  part  
+tower: building  facilities 
+trace: follow  information  investigate  mark  NounUnit  trace 
+track: follow image  part route  trace   
+transfer: alter dispatch  give  issue  sell  submit  TakeAway   
+trim: cut  level  neat  PutInOrder 
+turn: alter become CauseToDo  change  fact  location  
+twist: bend  circle  coil  fact  FormChange  
+volume: Amount  Bulk  NounUnit Size  SoundVolume  Volume 
+wave: CausePartMove fly  shake  shape  water  wave   
+weak: frail irresolute  light  powerless  TasteLight  unhealthy  weak   
+well: advantageous benevolent  BeWell  expression  facilities  FuncWord  
+wing: community house location  part 
+work: affairs do  engage  fact  function  publications  result  
+
+break: break disobey remove 
+charge: expenditure accuse enrich fill feed 
+drop: drop shape NounUnit cease lose 
+move: AlterLocation CausePartMove excite TakeAway transport 
+stand: stand CauseToMoveInDirection facilities tool SupportWeight 
+take: take choose catch occupy receive 

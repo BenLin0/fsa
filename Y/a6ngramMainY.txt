@@ -1,0 +1,13 @@
+@state == (province|l2 !NN)  
+
+a6ngramMainY ==
+
+<['email|mail':DE++ email H] [COLN|CM]? < [alpha:^^.equivM DE++ +++ H] [alpha|dot]*3 [alpha] ["@"]  ([alpha] [dot])*2 [alpha]>> 
+<[alpha] ([dot] [alpha])*2 ["@"] ([alpha] [dot])? [alpha:DE++ email +++ H]> 
+
+<['do':VP++ H] ["so":^.O]> [BR]  
+<["every":^.m] ["day":NEW RP timeRB freq mn n RB +++ H]> 
+<["patato":^.m] ['head':NE++ nnn H]> 
+
+<[contactC:DE++ contact]  [COLN]? [DE contact: H]>  
+<[contactC:DE++ contact]  [COLN]? <[digit|Punc]*6 [digit:NEW DE contact +++ H]>>  

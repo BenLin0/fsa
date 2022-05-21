@@ -1,0 +1,48 @@
+,:  CM CMDH Punc xC BR
+/:  SLASH CC Punc xC
+<:  SYM OPAR xC newBR BR rStop
+>:  SYM CPAR xC BR
+?:  JM Q Punc xC BR
+;:  JM Punc xC newBR BR rStop
+\':  OPAR Punc xC QUOT POS
+«:  SYM OPAR xC newBR BR rStop  
+»:  SYM CPAR xC BR
+
+\:: COLN Punc xC newBR BR rStop
+":  SYM QUOT Punc xC newBR BR rStop
+“:  SYM oQuot QUOT Punc xC newBR BR rStop
+”:  SYM cQuot QUOT Punc xC newBR BR rStop
+
+[:  SYM OPAR Punc xC newBR BR rStop
+]:  SYM CPAR Punc xC BR
+
+{:  SYM OPAR Punc xC newBR BR rStop
+}:  SYM CPAR Punc xC BR
+|:  SYM CC Punc xC
+~:  SYM Punc DDSH xC
+!:  JM Punc xC newBR BR rStop
+?!: JM Punc xC newBR BR rStop
+!?: JM Punc xC newBR BR rStop
+@:  SYM Punc xC
+#:  SYM Punc xC
+$:  SYM Punc xC
+%:  SYM percent xC
+&:  SYM CC Punc xC
+*:  SYM Punc xC
+(:  SYM OPAR Punc xC newBR BR rStop
+):  SYM CPAR Punc xC BR
+-:  HYPH DDSH Punc xC
+–:  HYPH DDSH Punc xC '-'
+=:  SYM Punc xC
+_:  SYM DDSH Punc xC
+—: DDSH Punc xC '-'
+―: DDSH Punc xC '-'
++:  SYM Punc xC
+…: dots Punc xC
+...: dots Punc xC '…'
+....: dots Punc xC '…'
+.....: dots Punc xC '…'
+......: dots Punc xC '…'
+……: dots Punc xC '…'
+.: dot Punc xC
+x: SYM l1 xC

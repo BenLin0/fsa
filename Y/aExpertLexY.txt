@@ -1,0 +1,21 @@
+aExpertLexY == 
+<['color':H] ['or':^.Z] ['black_and_white':^.CN]> 
+<["could"] ["have"] ["been"] [nt:VG pt nt- H]>
+<^["keep":V comfortW +++ H] ["up"]>  
+<^["cut":troubleW vt +++ H] ["tie"] ["with"]>
+<^["take":VP++ comfortW +++ H] ["the"] ["lead"]>
+<["lack":NP++ H] ["of"] ["side_effect":pW nW-]>
+<^H[do:VP++ comfortW idiom H] ["what"] ["it"] ['be'] ["supposed"] ["to"] ["do"]>
+<[pureDT:^.M] ["us|them|you|u|it|these|those|which|whom":NP H]>
+<[pureDT:^.M] ["you"] ['guy':NP H]>
+<[quant:^.M] ["of"] ["us|them|you|u|it|these|those|which|whom":NP H]>
+<[quant:^.M] ["of"] ["you"] ["guy":NP H]> 
+<[DT:^.M] [A]? ["majority|few":^.M] ["of"] ["us|them|you|u|it|these|those|which|whom":NP H]> 
+<[DT:^.M] [A]? ["majority|few":^.M] ["of"] ["you"] ['guy':NP H]>
+<[DT:^.M] [A]? [CD:^.M] ["of"] ["us|them|you|u|it|these|those|which|whom":NP H]> 
+<[DT:^.M] [A]? [CD:^.M] ["of"] ["you"] ['guy':NP H]>
+<["rain":VP++ +++ vi idiom H] ["cats"] ["and"] ["dogs"]>
+
+['a|an'] [NN VB:N+ VB-] 
+[BR] <[0 "this|that":^.Z] [NN VB:NP++ det0 N+ VB- H]> [BR|DE|P|RC|finite|VBZ] 
+ 

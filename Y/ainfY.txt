@@ -1,0 +1,9 @@
+infY ==
+[!nc !vc "-s":Xs NNS VBZ] 
+[vc "-s":Xs VBZ] 
+[nc "-s":Xs NNS] 
+[v "-ed":Ved]
+[!v "-ed":Ved A modJJ] 
+["-ing":Ving] 
+[a|A "-ly":ly] 
+[n|N|v|V "--wise": RB sRB] 

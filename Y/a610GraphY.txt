@@ -1,0 +1,12 @@
+a610Graph ==
+
+[beC] [^.sS nN:^2.S2] [^.C A !hasS2] 
+[Ving !hasSubj !passive:^1.S2] [^.~mCL nN] 
+[beC] [^.Subj per:^2.corefL] [^.O per !hascorefL] 
+[NC:^2.S2]~~[^.~S VC]~~[^Q.purposeR infinitive !hasSubj] 
+[hasO] [^.O NC|nc]++[^.next "that":^.next-] [^Q.xCL:^1.mCL ^Q.xCL-] 
+
+[CL|VP dative hasoCL !hastoC:CL] [^.O human|org:^.O- ^.toC] 
+[vS] [^.O "that":^.O-] [^Q.xCL:^Q.xCL- ^.oCL] 
+[Ving !hassS:^1.attendantR] [^.next CL:^.next-] [^Q.S:^.S2] 
+

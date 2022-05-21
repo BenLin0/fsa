@@ -1,0 +1,3 @@
+\n: newLINE newBR BR
+\f: newFONT JS rStop newBR BR string0
+\tab: TAB SPACE CM CMDH Punc xC BR

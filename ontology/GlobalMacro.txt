@@ -1,0 +1,19 @@
+@whoWhom == (NC !Mod !Adjunct org|human|NNP)  
+@who == (NC !Obj !Mod !Adjunct org|human|NNP)  
+@whom == (NC !Subj !Mod org|human|NNP)  
+
+@why == (VC|AC|NC !c1 !xC !Adjunct !Mod)
+
+@aA == (aA !PP|NP|NG|VG|VP|RP|CL)
+@nN == (nN !PP|VG|VP|AP|PP|CL|finite)
+@vV == (vV !NG|NP|AP|PP|RP)
+@NC == (N|NG|NP|NE) 
+@VC == (V|VG|VP) 
+@AC == (A|AP) 
+
+@noSA == (!factNo|NegEmo|Pro|Con|PosEmo|Needed|Neutral|NEUTRAL)
+
+@FeatureCore == (country|loc|per|prod|org|container|job|brand|disease|symptom|bodyPart|unit|metal|animal|color|time|artifact|clothing|edible|food|beverage|flower|plant|meds|chem|material|service|event|timeUnit|relatives|taste|odor|behavior|daxingC|attributeC|move|chg|stateV|mental|aspir|CD|PRP|dur|length|money|price|area|speed|size|pro|con|passion|ntN0|ntV|ntN|attr|Key|curse|OOV|deverbal|measure|idiom|perF|animalF|animF)
+
+
+@@VC == (V|VG|VP)

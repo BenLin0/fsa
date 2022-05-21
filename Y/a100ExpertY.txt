@@ -1,0 +1,5 @@
+a100ExpertY ==
+
+<[CL] [hasxCL 'if':^.ifR]> 
+[BR] <[0 'and|but|so|for|yet|nor|or':^.Z] [yVC:H]> [BR] 
+[BR] <^AP[AP:^.C] [^AP.R "how"] [CL hasS|hassynS !hasO|hasC|hasoCL:CL++ H]> [BR] 

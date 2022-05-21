@@ -1,0 +1,39 @@
+a20MeasureY ==
+
+<[percent:H] ['or'] ['more']>  
+
+<[CD] ['year'] ['old':AP++ +++ age H]> 
+
+<[DE address:H] [CM|JM]? <[digit] [NNP:^^.Z DE address H] [CM|JM]? [NE country]>> 
+
+<["no":DE++ ordinal H] [dot]? [0 digit:^.Z]>  
+[BR] <[0 N|nc:^.M] ["no":DE++ ordinal H] [dot]? [0 digit:^.Z]>  
+
+<['date':H] [date: ^.Z]>  
+
+[PRP] <["'" !spaceQ|spaceH] ["ve":+++ haveC 'have' H]> 
+<['number':NG++ H] [digit:^.Z]> 
+<[NNP alpha] [NNP alpha]* [NNP:NE++ +++ H]>  
+[P] <[A:^.M] [A:^.M]* [N|nc !plural:^.M]* [N|nc:NP++ H]> [BR]
+<[beC:^.Z] [Ved:VG++ passive H]> 
+<[DT:^.Z] [ordinal:^.M] [A:^.M]* [N|nc !plural:^.M]* [N|nc:NP++ H]> [BR] 
+<["page|revision|chapter|lesson|section":DE++ H] [0 CD:^.Z]> 
+[BR] <[A:^.M] [N|nc:NP++ H]> [BR] 
+
+<[digitAlpha:H] [digit|alpha|digitAlpha !spaceQ]> 
+<[spaceQ CD !spaceH] [!spaceH]*3 [alpha !spaceH:digitAlpha +++ H] [spaceH !spaceQ]> 
+<[CD !spaceH] [POS:length unit] [CD !spaceH] [OPAR:AP++ +++ DE length unit OPAR- H]>  
+<[CD !spaceH] [OPAR|POS:AP++ +++ DE length unit OPAR- H]> [prod|NE|measure] 
+<[CD] [DDSH !spaceQ|spaceH:^.x] [unit:AP++ DE hyphenated +++ H]> 
+[vtoV] <[TO] [VB:VG++ V+ infinitive H]> 
+<[N:H] [OPAR] <[!UH !Punc]*5 [!UH !Punc: ^^.equivL +++ H]> [CPAR]> 
+<[CD:^.M] [unit:DE measure DT+ +++ H]> 
+<[month:DE date +++ H] [CD:^.Z]> 
+<[CD:^.m] [timeUnit:DE dur +++ H]> 
+
+<[@nN %F@FeatureCore:^.CN NG] [CC] [@nN !NP %F:NG++ N+ H]> [!N] 
+
+<[NE city:^.M] [CM]? [DE address: H] [CM]? [NE country:^.M]?>  
+
+<['phone|tel|telephone|cell|cellphone|fax|wechat':DE++ contact H] [COLN|CM]? ["+"]? [digit:^.equivM]> 
+

@@ -1,0 +1,84 @@
+Lookup Lex: ../Y/aLexY-EnglishPunctuate.txt
+
+Lookup Spelling: aspellingCheck.txt
+
+Lookup Lex: alexY.txt, alexY_3colons.txt, alexY_forms.txt, aLEXICON_1.txt, acompoundY.txt, acompoundNE.txt 
+
+Lookup Customer:  acurrency.txt  currency acronym
+Lookup Customer:  aacronym.txt  acronym
+
+Stemming: ainfY.txt, astemY.txt, alexY_3colons.txt, acompoundY.txt, acompoundNE.txt, aopen_English1.txt, aopen_English2.txt, aopen_English3.txt, aopen_English_multiple.txt, aopen_EnglishPOS.txt 
+
+CASES
+
+Lookup Compound: aLEXICON_2.txt, acompoundY_forms.txt, acompoundY_3colons.txt  
+
+Lookup defLex: alexControl.txt
+Lookup defLex: lexHyphen.txt
+
+FSA a1preProcess.txt
+
+FSA a4ngramMainY.txt 
+FSA a5ngramMainY.txt 
+FSA a6ngramMainY.txt 
+
+FSA a8DEdate.txt 
+FSA a8DEaddress.txt 
+FSA a8DEcontact.txt 
+
+FSA a10CDsY.txt 
+
+FSA a12-concatenate.txt 
+
+FSA a20MeasureY.txt 
+
+FSA aruleLexiconY.txt
+FSA ExpertLexY.txt  
+
+FSA a28ExpertY.txt 
+FSA a28GrammarY.txt 
+
+FSA a30ExpertY.txt 
+FSA a30GrammarY.txt 
+
+FSA a35Expert.txt 
+FSA a35Grammar.txt 
+
+FSA a40ExpertY.txt 
+FSA a40GrammarY.txt 
+
+FSA a50ExpertY.txt  
+FSA a50GrammarY.txt 
+
+FSA a60ExpertY.txt 
+FSA a60GrammarY.txt 
+
+FSA a70ExpertY.txt 
+FSA a70GrammarY.txt 
+
+FSA a80ExpertY.txt 
+FSA a80GrammarY.txt 
+
+SHALLOW COMPLETE 
+
+FSA a90ExpertY.txt 
+FSA a90GrammarY.txt 
+
+FSA a100ExpertY.txt 
+FSA a100GrammarY.txt 
+
+FSA a150ExpertY.txt 
+FSA a150GrammarY.txt 
+
+
+DAGFSA a590Graph.txt 
+DAGFSA a600GraphY.txt
+DAGFSA a610GraphY.txt
+DAGFSA a620Graph.txt
+DAGFSA a630Graph.txt
+
+
+DAGFSA a999intent.txt 
+DAGFSA a999slot.txt 
+
+

@@ -1,0 +1,19 @@
+a8DEdate ==
+
+<[CD] ['hundred|thousand|million|trillion|billion':CD +++ H]> 
+
+<[month] ["."]? [d2|d1:NEW DE++ rStop date +++ H] ["/|-|,"] [d4|d2:year spaceHou]> 
+<[month:NEW DE++ rStop date +++ H]  ["/|-|,"]? [d4 '1-|2-' spaceHou]> 
+<[month] ["/|,"] [d2|d1:NEW DE++ rStop date +++ H] ["/|-|,"] [d4|d2:year spaceHou]>  
+<[d2] [CM|DDSH]? [month:NEW DE++ rStop date +++ H]  ["/|-|,"]? [d4 '1-|2-' spaceHou]> 
+<[d2|d1:NEW DE++ rStop date +++ H] [month] ["/|-|,"] [d4|d2:year spaceHou]>        
+
+<[d2|ordinal '0-|1-|2-|3-':NEW DE++ rStop date +++ H] [month] [dot]? ["/|-|,"]? [d4 '1-|2-':year spaceHou]> 
+<[d1:NEW DE++ rStop date +++ H] [month] [dot]? ["/|-|,"]? [d4 '1-|2-':year spaceHou]>  
+
+<[month] ["."]? ["/|-|,"]? [d2|ordinal '1-|2-|3-':NEW DE++ rStop date +++ H] ["/|-|,"]? [d4 '1-|2-' spaceHou year]> 
+
+<[d4 '1-|2-':year] ["/|-"] [d2 '0-|1-':month] ["/|-"]? [d2 '0-|1-|2-|3-':NEW DE++ rStop date +++ spaceHou H]> 
+<[d2|d1:month] ["/|-"]? [d2|d1:NEW DE++ rStop date +++ H] ["/|-"]  [d4 '1-|2-':year spaceHou]> 
+<[d2|d1:month] ["/"] [d2|d1:NEW DE++ rStop date +++ H] ["/"]  [d2 '0-|1-|2-':year spaceHou]> 
+<[d2|d1:month] ["/"] [d2|d1:NEW DE++ rStop date +++ H] ["/"]  [d4 '1-|2-':year spaceHou]> 

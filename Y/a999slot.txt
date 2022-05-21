@@ -1,0 +1,75 @@
+a999slot ==
+
+[NNP Intent='SelectStock':%Exchange%]++['exchange']
+[exchangeW Intent='SelectStock':%Exchange%]
+[sectorW Intent='SelectStock':%Sector%] 
+['price|stock_price' Intent='SelectStock']~~[^Q.Link2 CD|priceW:+++ %StockPrice%] 
+[candlestickW Intent='SelectStock': +++ %Candlestick%] 
+
+['PE' hasKid Intent='SelectStock': +++ %PE%]
+['PE']~~[^Q.Dist2 CD: +++ %PE%]
+['PE']++[linkV !neg] [^Q.Link1 CD: +++ %PE%]
+['PB' hasKid Intent='SelectStock': +++ %PB%]
+['PB']~~[^Q.Dist2 CD: +++ %PB%]
+['PB']++[linkV !neg] [^Q.Link1 CD: +++ %PB%]
+['PS' hasKid Intent='SelectStock': +++ %PS%]
+['PS']~~[^Q.Dist2 CD: +++ %PS%]
+['PS']++[linkV !neg] [^Q.Link1 CD: +++ %PS%]
+['sales_growth' Intent='SelectStock']~~[^Q.Link1 linkV]~~[^Q.Link1 AC|NC: +++ %SalesGrowth%]
+
+
+['earn' !neg Intent='SelectStock': %NetProfit%] [^.Kid 'money']
+["looks|is" !neg Intent='SelectStock'] [^.Kid conceptW: %Concept%]
+
+
+win=20 [recommendedW !neg Intent='SelectStock'] [ 'stock':%Recommended%]
+["guaranteed" !neg Intent='SelectStock'] [^.Link1 'stock':%Recommended%]
+[salesGrowthW Intent='SelectStock'] [^.Link1 goodW|badW:%SalesGrowth%]
+
+
+[newIPOw Intent='SelectStock': %IPOdate%]
+[marketCapW Intent='SelectStock': %MarketCap%]
+
+
+win=3 ['market_capitalization']~~[CD:%MarketCap%]
+
+
+['profitable|profitability':+++ %Profit%]
+
+
+['high|low'|&量变: %Profit%] [^.Link1 'profit']
+
+
+['stock'] [^Q.Link1 'soar':%Stock%]
+
+
+[percent:%Percent%]~~[comparative]
+
+
+['stock'] ['profit'] [^Q.Link1 &量变:%Profit%]
+
+
+
+['pe|median|price':%Item1%]~~[^.Dist5 comparative:%Comparison%]
+[comparative]~~['pe|median|price':%Item2%]
+
+
+['chairman|CEO|president':%Position%]  [^Q.Link2 age: %Age%]
+['chairman|CEO|president':%Position%] [^Q.Link2 'have'] [^Q.Obj 'degree'] [^Q.Link1 NC !xC: %Degree%]
+
+
+[stockCodeW: %StockCode%]
+['current_ratio': %CurrentRatio%]
+
+
+
+['return_on_assets']~~[^Q.Dist2 CD: +++ %ReturnOnAssets%]
+['return_on_assets']++[linkV !neg] [^Q.Link1 CD: +++ %ReturnOnAssets%]
+
+['profit']++['of'] [^Q.Link1 CD: %Profit%]
+['profit']~~[^Q.Radius2 CD: +++ %Profit%]
+['profit']++[linkV !neg] [^Q.Link1 CD: +++ %Profit%]
+['profit']~~[^Q.Radius3 &量变: %Profit%] 
+['profit']~~['fall':%Profit%]
+
+

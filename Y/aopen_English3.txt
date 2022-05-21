@@ -1,0 +1,1574 @@
+abbreviation: ize Name part subtract 
+ablaze: bright burn hot StateChange 
+absorption: absentminded absorb drink GetKnowledge 
+abuse: damage ExpressAgainst phenomena use 
+accept: accept detain exchange receive 
+accessory: human part 
+acclamation: agree congratulate fact praise 
+accompany: act associate follow 
+accomplishment: accomplishment fulfil Rank succeed 
+account: account cause explain readings 
+accumulation: BecomeMore ComeTogether gather 
+acknowledgement: admit document emotion thank 
+acoustics: Effectivity knowledge music 
+acquire: add buy cultivate earn 
+act: act conduct part perform 
+action: accuse act fact 
+active: active animate guilty PropertyValue 
+acute: clever perceptive strong urgent 
+add: add DoSum enrich 
+addict: addict human indulge 
+address: express handle location naming 
+adhesion: disease endorse fasten Strength 
+adjuvant: help human medicine secondary 
+administration: affairs human institution manage 
+admiration: admire appreciate emotion praise 
+admire: admire appreciate love praise 
+admittance: admit GoInto include Performance 
+adopt: accept conduct foster RegardAs 
+adulterate: add fake forge mix 
+advance: accomplishment GoForward propose prosper 
+advanced: BestQuality HighRank profound progressive 
+advancement: MakeEarlier propose prosper urge 
+advocate: disseminate endorse human 
+affect: excite infect influence pretend 
+agent: chemical human 
+aggressive: active arrogant autocratic FondOf 
+agitate: excite incite MakeTrouble urge 
+agitation: excite fact incite MakeTrouble 
+agree: agree express fit MakeAppointment 
+agreeable: able accordant harmonious 
+agreement: agree agreement fit Property 
+alarm: experience frighten information MakeTrouble 
+Albanian: human language RelatingToCountry 
+alert: clever information PayAttention understand 
+alien: different human humanized 
+alienation: emotion from ize separate 
+alight: GoDown leave StateChange 
+align: ally coordinate MakeEqual obey 
+alignment: ally MakeEqual obey result 
+allowance: agree Amount Boundary indulge 
+alternate: able BeAcross InSequence PropertyValue 
+alternative: able choose result 
+American: earth human PatternValue RelatingToCountry 
+amphibian: able aircraft animal LandVehicle 
+amusement: emotion fact please recreation 
+anchor: CeaseCauseTOMove human part stay 
+angle: Angle catch image seek 
+anguish: emotion experience upset 
+animal: animal AnimalHuman beast PropertyValue 
+animate: animate CauseToLive sturdy urge 
+annoy: emotion irritate MakeWorried upset 
+annulment: cease exempt remove 
+answer: reply respond result 
+antagonistic: antagonistic backward discordant FondOf 
+antecedent: early fact human symbol 
+antique: buy gracious treasure unfashionable 
+anxiety: emotion fact worried 
+appear: appear become BeSimilar undergo 
+appearance: appear Appearance 
+applause: cry praise ShowGoodEmotion sound 
+apple: computer fruit tool tree 
+application: apply conduct document request 
+apply: apply conduct request use 
+appointment: affairs appoint fact MakeAppointment 
+appreciate: appreciate BecomeMore distinguish estimate 
+appreciation: appreciate BecomeMore emotion estimate 
+approach: approach method route thinking 
+appropriate: issue proper steal 
+archive: document facilities InstitutePlace store 
+area: Area part 
+argument: debate information reason text 
+arm: part provide 
+arouse: excite LookBack ResultIn urge 
+arrangement: arrange issue MakeAppointment PutInOrder 
+art: Ability affairs inanimate knowledge 
+article: artifact part text 
+articulate: connect fasten lucid MakeSound 
+articulation: connect fasten Lucidity MakeSound 
+ascertain: check decide distinguish investigate 
+ask: ask entrust invite request 
+aspect: Appearance Circumstances location part 
+assemble: assemble ComeTogether gather meet 
+assembly: ComeTogether compile component fact 
+assign: dispatch entrust issue 
+assignment: affairs appoint dispatch 
+assimilation: absorb GetKnowledge ize phenomena 
+associate: associate connect secondary 
+association: associate community connect thing 
+assume: be bear conduct guess 
+atmosphere: gas Occasion part 
+attack: attack ExpressAgainst happen 
+attendance: affairs engage Rate TakeCare 
+attendant: associate human 
+attraction: Ability attract thing 
+audience: human location 
+authentic: alike faithful reliable true 
+authority: human institution Power 
+autograph: character sign text 
+average: affairs Amount AmountTo average 
+award: grant reward 
+awkward: cumbersome embarrassed NotQuick ungracious 
+baby: animal human small 
+background: experience Intimacy part Relationship 
+backward: backward direction hind regressive 
+bad: able disadvantageous inferior wicked 
+badly: serious strong very wicked 
+bag: animal NounUnit obtain tool 
+bail: expenditure guarantee human release 
+ball: fact part shape SportTool 
+ballast: physical provide stone tool 
+ban: discharge law prohibit 
+band: community tool 
+bang: beat part sound 
+bank: block facilities fly human 
+barrel: load part tool Unit 
+barter: affairs betray exchange 
+basement: facilities part room 
+baton: shape SportTool tool 
+batter: bump damage food human 
+beard: part resist tool 
+beauty: beautiful Beauty human 
+bed: furniture location part 
+before: early location past time 
+bell: sound tool 
+belly: FormChange part 
+benefit: Advantage benefit enjoy fact 
+berth: arrange CeaseCauseTOMove facilities location 
+best: BestQuality sufficient surpass thing 
+betray: betray disloyal disobey exposure 
+bid: aspiration pay Price propose 
+bind: coil delimit fasten fix 
+bit: image NounUnit part 
+bitter: bitter fierce miserable Taste 
+bitterness: mishap phenomena Taste unfriendly 
+black: black dark disgraced human 
+blackmail: cheat deceive seek 
+blank: artifact Content pure stupefied 
+blast: attack ExpressAgainst FormChange wind 
+blaze: burn fire lights mark 
+blazing: bright hot overt StateChange 
+blemish: damage Demerit trace 
+blend: mix produce StateChange weave 
+blind: CauseToDo disable fittings rash 
+blow: beat excrete exhale 
+blunt: blunt discourage frank inanimate 
+blush: AlterColor Appearance excited red 
+body: part physical thing 
+bolt: flee grow part 
+book: account buy publications 
+boost: endorse MakeHigher MoveItUp ShowOff 
+border: BeNear part 
+bore: dig Fineness part split 
+both: double human thing wholly 
+bottom: Color part 
+bound: Boundary Circumstances jump 
+boundary: Boundary mark part 
+box: beat part tool 
+brace: endorse fittings symbol 
+brake: cease FlowerGrass part 
+brand: ExpressAgainst mark Name naming 
+brazenly: fierce overt PropertyValue rash 
+breach: disobey FormChange location part 
+break: separate split time 
+breath: gas respire wind 
+breed: cultivate foster Kind reproduce 
+breeding: affairs Breeding mating reproduce 
+bridge: bridge build enrich fact 
+brief: concise explain text 
+bright: bright clever promissing 
+brilliant: able bright lucid magnificent 
+brilliantly: able bright magnificent wise 
+brink: Boundary land location part 
+brisk: active flourishing new nimble 
+broad: broad extensive profound substantial 
+broker: benefit human undertake 
+bronze: apply brown metal tool 
+brother: expression human 
+bruise: offend phenomena rub trace 
+brush: fact tool wipe 
+buffet: attack edible InstitutePlace 
+bug: bacteria Demerit InsectWorm listen 
+build: build create establish Form 
+bulge: AlterForm Form FormChange protruding 
+bulk: AlterForm Amount Bulk FormChange 
+bum: human part roam slack 
+bump: bump CauseToMove Form shiver 
+bundle: NounUnit shape tool 
+burning: ardent burn hot StateChange 
+burst: damage FormChange happen 
+bust: image InDebt LookFor Size 
+butcher: human InstitutePlace 
+butt: BeNear bump connect information 
+cable: letter material 
+camouflage: clothing ColorValue method 
+camp: community facilities 
+canvass: attract discuss fact investigate 
+capacity: Ability Amount Volume 
+capital: community fund important place 
+capsule: aircraft load part 
+card: account document letter 
+care: emotion handle maintain PayAttention 
+carriage: LandVehicle part Posture 
+carrier: human InstitutePlace shape 
+carry: bring contain pick publish 
+cascade: arrange flow part water 
+case: Circumstances example fact part 
+cash: exchange fund money pay 
+casual: accidental careless human informal 
+catch: Amount attract catch 
+categorically: extreme resolute strong wholly 
+cause: affairs cause CauseToDo ResultIn 
+cell: facilities part room 
+center: community human InstitutePlace location 
+central: central centre important location 
+centre: InstitutePlace location part 
+champion: BestQuality endorse human 
+change: alter change exchange replace 
+chant: cry music recite text 
+chapter: community NounUnit part 
+character: Behavior character human 
+charm: Ability Appearance attract 
+charter: agreement borrow document 
+chastity: Behavior chaste Chastity Morality 
+chatter: human sound speak talk 
+cheat: cheat deceive disloyal engage 
+check: punish restrain SetAside shape 
+checkout: check part time undergo 
+childish: BehaviorValue child naif unable 
+chill: cold cool disease experience 
+Chinese: human language PatternValue 
+chip: break coupon food part 
+chirp: cry sound 
+chisel: carve cheat dig tool 
+choke: BlockUp obstruct pant part 
+chop: beat break cut split 
+chorus: community fact 
+circuit: facilities part process shape 
+circular: information readings round text 
+circulate: circulate disseminate publish 
+circumference: image Length shape 
+citation: part praise quote reward 
+claim: announce collect fact request 
+clash: bump fact fight quarrel 
+cleanse: clean spotless wash wipe 
+clear: CauseNotToBe clear earn euphonious 
+clearness: clear Clearness lucid Lucidity 
+click: MakeSound sound touch 
+clip: break NounUnit part PutInOrder 
+clog: BlockUp fact part recreation 
+close: near shut stuffy tight 
+closeness: approach emotion Intimacy intimate 
+club: beat InstitutePlace part shape 
+clump: grow MakeSound shape sound 
+cluster: ComeTogether group NounUnit 
+coach: human LandVehicle part 
+coddle: cook indulge like 
+code: document symbol 
+coil: circle coil FormChange NounUnit 
+cold: disease fever indifferent weather 
+collar: catch part PutOn tool 
+collateral: able collateral indirect simultaneous 
+collection: physical publications readings store 
+colour: AlterColor Color material Property 
+column: facilities part 
+comb: LookFor MakeUp part tool 
+come: arrive come 
+comfort: cosy emotion experience soothe 
+command: control order part text 
+commitment: detain emotion fact fund 
+common: extensive ordinary popular public 
+commonly: extensive ordinary popular public 
+commute: alter control fact TakeVehicle 
+compact: concise document fast refined 
+compensation: expenditure fact recompense Role 
+complaint: disease ExpressDissatisfaction text 
+complement: chemical enrich part 
+complete: complete finish fulfil wholly 
+complex: chemical complicated emotion InstitutePlace 
+compose: compile contain 
+composite: chemical complicated produce wholly 
+con: cheat human negative 
+conceive: guess pregnant ResultIn think 
+concentrate: assemble ComeTogether PayAttention physical 
+concern: InstitutePlace PayAttention relate worried 
+conclude: cease compile fulfil judge 
+conclusion: cease MakeAppointment text thought 
+concoct: forge mix produce think 
+condition: cause Circumstances Health restrain 
+conduct: Behavior conduct fact perform 
+cone: food image part shape 
+confer: discuss grant 
+confinement: Boundary delimit fact labour 
+confuse: confuse deceive ize 
+confused: chaotic disorder dizzy FeelingByBad 
+confusion: chaotic confuse deceive MakeMisunderstand 
+conglomerate: assemble InstitutePlace stone various 
+connection: associate connect Pertinence relate 
+conscientious: bear careful cautious sensible 
+consideration: fact PayAttention regard 
+consignment: artifact detain physical submit 
+consult: discuss read request 
+consummate: BestQuality fulfil ize MakeBetter 
+consumption: Amount disease spend 
+contact: associate location tool touch 
+contend: compete debate ExpressAgainst HaveContest 
+content: Amount Content emotion satisfied 
+contradict: FitNot offend oppose refute 
+contradiction: FitNot oppose phenomena refute 
+contrast: compare CompareTo comparison Similarity 
+contribution: accomplishment donate money result 
+conversion: alter CauseToBe change exchange 
+convert: alter CauseToBe change exchange 
+convey: disseminate express tell transmit 
+conveyance: express fact transmit transport 
+cool: chilly cold cool fashionable 
+core: location part 
+correct: amend correct expression 
+corrugation: ize part shape trace 
+corrupt: entice GiveAsGift immoral ize 
+cotton: artifact crop material 
+counsel: human persuade propose 
+count: be calculate contain count 
+counterbalance: balanced equal Strength 
+counterfeit: deceive fake forge physical 
+counterpoise: balanced equal Strength 
+couple: connect fasten human NounUnit 
+court: institution location 
+cover: part protect 
+coverage: cover Range Rate 
+craft: Ability aircraft knowledge plan 
+cramp: obstruct phenomena tool twitch 
+crank: BadTemper fittings rotate TurnOn 
+cream: food human medicine part 
+credit: lend money part 
+criminal: criminal engage guilty human 
+crisp: bright crisp easy euphonious 
+critical: dangerous important serious 
+crooked: curved disable dishonest slanted 
+crop: break crop NounUnit Pattern 
+crowd: ComeTogether group human NounUnit 
+crown: clothing endorse grant part 
+crude: coarse crude fierce material 
+crumble: end FormChange OutOfOrder separate 
+crush: bump damage FormChange grind 
+crust: BeRecovered part 
+cry: aspiration cry sound 
+crystal: clear FormValue material NaturalThing 
+curl: bend CausePartMove coil FormChange 
+current: electricity fact present shape 
+curse: damage ExpressAgainst expression sound 
+curve: CausePartMove Curvature place round 
+cutting: carve cut part sharp 
+cylinder: image part shape 
+cypher: AlterProperty human symbol translate 
+dainty: edible GoodTaste gracious refined 
+dam: BlockUp facilities livestock 
+dance: fact music recreation shows 
+dangle: CausePartMove GoDown hang hesitate 
+dart: run SportTool throw weapon 
+dash: destroy fact GoForward jet 
+date: decide fact fruit meet 
+dawdle: lavish slack walk 
+dawn: happen lights time 
+deal: affairs agreement handle 
+decision: decide judge plans text 
+decline: BecomeLess decline Prospect reject 
+decoration: Appearance decorate tool 
+decree: announce document law order 
+dedication: donate emotion fact result 
+deduction: Amount deduce fact result 
+deed: accomplishment document fact result 
+default: disappear disobey fund owe 
+defence: affairs defend fact protect 
+defend: defend endorse refute 
+defile: part place pollute route 
+defy: despise disobey refuse urge 
+degenerate: BadSocial become BeRecovered decline 
+degree: Circumstances Degree Measurement Status 
+deliberate: careful cautious discuss idle 
+delicate: beautiful difficult frail gracious 
+delight: emotion fact joyful please 
+deliver: announce post reproduce rescue 
+delivery: post reproduce submit 
+demand: aspiration beg need request 
+demolish: attack destroy FormChange remove 
+den: house NounUnit place reside 
+dense: concentrated dense exuberant NotLight 
+depress: decline delay discourage 
+depressed: disappointed disheartened FeelingByBad sad 
+depression: decline disease emotion 
+deserted: abandon desolate empty inactive 
+design: image Pattern plan plans 
+designate: appoint delimit naming RegardAs 
+desolate: desolate ize miserable wane 
+develop: CauseToAppear CauseToGrow change enlarge 
+development: appear CauseToAppear CauseToGrow change 
+devil: expression human humanized 
+devotion: Behavior donate emotion result 
+dial: mark part tool 
+diaphragm: part tool 
+die: die OutOfOrder tool 
+diet: edible institution subtract 
+difference: distinguish Divergence result Similarity 
+difficulty: cause Circumstances Easiness Effortfulness 
+dim: blurred dark ize vague 
+direct: bear direct guide 
+direction: direction method order Prospect 
+dirty: BadSocial despicable dirty lascivious 
+disc: shape tool 
+discipline: Discipline part punish regulation 
+discover: LookFor perception reveal 
+disgrace: degrade emotion phenomena PlayDown 
+dishonour: disgraced mating PlayDown refuse 
+dismal: dark dismal miserable stuffy 
+dismiss: cease discharge dismiss farewell 
+disorder: MakeTrouble mishap phenomena 
+dispatch: dispatch document information send 
+dispirited: disappointed disheartened FeelingByBad inactive 
+displace: CauseToMove replace SelfMove 
+display: display exposure show ShowOff 
+dispose: arrange dispatch finish handle 
+dispute: debate Divergence fact refute 
+dissolve: cease disappear remove separate 
+distance: disconnect Distance 
+distend: enlarge FormChange StomachTrouble 
+distillation: fact GoUp refine 
+distort: alter FormChange OutOfOrder turn 
+distortion: alter BeBad OutOfOrder turn 
+distribute: arrange issue 
+distribution: fact issue phenomena 
+disturbance: fact MakeTrouble MakeWorried mix 
+dive: fact GoDown 
+division: DoSum Kind method NounUnit 
+do: alive CauseToLive do produce 
+dock: facilities location pull 
+domestic: artificial family location native 
+domestically: artificial location native ordinary 
+domination: Advantage control Power 
+donation: donate money physical 
+dormancy: Circumstances quiet sleep 
+double: add BecomeMore double KindValue 
+draft: part text write 
+drain: drain dredge exhaust facilities 
+draw: GetKnowledge inhale MakeEqual PickOut 
+dream: aspiration cherish dream perception 
+dress: Attire clothing decorate 
+drift: facilities float part roam 
+drill: drill stab teach 
+drive: Strength transmit 
+drone: aircraft human InsectWorm sound 
+drug: addict drug medicine 
+dry: boring dried dry waterless 
+dub: compile MakeSound naming translate 
+dullness: blunt dark NotQuick stiff 
+dully: boring dark foolish NotQuick 
+dump: dump facilities reverse sell 
+duplication: artifact BeSimilar copy imitate 
+dusk: lights Scene time 
+dynamic: active SituationValue strong sturdy 
+ear: grow part 
+easy: cosy easy gradual idle 
+eat: bite damage eat 
+echo: CauseToDo information MakeSound obey 
+edge: Advantage GoForward part 
+edition: ActUnit Kind readings thing 
+egg: food incite part 
+either: double FuncWord thing 
+elasticity: Adaptability Performance Strength Tightness 
+element: component human part 
+elevation: Circumstances Height image 
+embellish: beautify boast decorate MakeBetter 
+embellishment: beautify boast decorate MakeBetter 
+emission: Amount drain jet physical 
+employment: affairs employ engage use 
+enclosure: include part surround 
+encounter: fact fight meet 
+end: location part 
+endorsement: agree endorse 
+endurance: Ability endure Strength withstand 
+engage: connect employ engage 
+engineer: human plan 
+enliven: CauseToLive excited ize 
+entangle: coil fasten MakeTrouble twine 
+entertainment: affairs entertain recreation WellTreat 
+entrance: attract CauseToDo GoInto location 
+entry: GoInto location part 
+envy: admire emotion jealous ShowLove 
+equal: alike equal fair 
+equivalent: alike equal expression Quantity 
+erect: build CauseToMoveInDirection install put 
+erection: build install put upmove 
+escort: follow protect transport weapon 
+essential: aspiration important necessary part 
+establishment: establish facilities forming institution 
+even: balanced double FuncWord 
+evolve: appear change grow prosper 
+examination: analyze check diagnose fact 
+example: example human regulation 
+exchange: communicate exchange InstitutePlace 
+exclude: contain discharge expel remove 
+exercise: conduct drill exercise 
+exhaust: excrete exhaust quote tool 
+exhibition: display fact InstitutePlace 
+expand: CauseToGrow enlarge grow MakeBetter 
+expansion: CauseToGrow enlarge FormChange grow 
+expedient: able flexible method plans 
+explosion: BecomeMore fact FormChange happen 
+express: express fast LandVehicle post 
+expression: Countenance express expression information 
+extensive: BehaviorValue broad extensive substantial 
+exterior: Appearance location part Scene 
+external: external foreign location part 
+extortion: cheat rob seek 
+extra: add expenditure human many 
+extraction: gather PickOut SqueezeOut 
+extraordinarily: extraordinary fantastic special very 
+eye: experience location look part 
+face: Appearance Countenance facing part 
+fail: decline fail OutOfOrder 
+faint: blurred dark dizzy vague 
+faintly: blurred dark LowVoice vague 
+fair: equal fact fair InstitutePlace 
+faith: emotion experience standpoint 
+fall: become BecomeLess FallDown GoDown 
+family: family group human NounUnit 
+fan: human incite 
+fancy: Ability luxurious queer think 
+fantastic: difficult fantastic queer wrong 
+fantastically: difficult fantastic queer wrong 
+farm: affairs engage InstitutePlace 
+fascinating: Attitude attractive bewitching interesting 
+fat: fat fertile material part 
+fatness: fat Fatness part 
+fault: Demerit Disadvantage ExpressAgainst part 
+favour: agree emotion 
+feast: edible entertain fact 
+feature: Appearance display Peculiarity Property 
+feel: cherish feel perception regard 
+female: animal female human plant 
+feminine: female feminine Kind PatternValue 
+fen: land Unit 
+ferment: fact ize produce StateChange 
+fever: fever phenomena StateChange Temperature 
+fight: endeavour fact 
+fighter: human weapon 
+file: accuse AlterForm document record 
+fill: BeFull CauseToExist exist fill 
+filter: filter part tool 
+finance: affairs knowledge provide 
+finely: beautiful dense HighQuality refined 
+finish: cease end finish fulfil 
+fire: burn discharge fact fire 
+firm: durable InstitutePlace resolute steady 
+first: early first FuncWord ordinal 
+fish: catch fish food seek 
+fishy: abnormal fishy queer stinky 
+fit: angry fit install obey 
+fix: decide delimit fix install 
+flag: communicate draw mark tool 
+flaming: ardent red StateChange strong 
+flap: beat CausePartMove part shake 
+flat: AlterForm boring flat house 
+flattery: fact help please text 
+flavour: adjust Odor Property Taste 
+fleet: community float part ship 
+float: establish float LandVehicle QuantityChange 
+flood: exist GoUp mishap spill 
+floor: Boundary frighten part 
+flourish: pregnant prosper shake 
+flower: FlowerGrass part pregnant time 
+flutter: fly shiver 
+fly: drive fly InsectWorm 
+focus: adjust assemble location part 
+foil: fact obstruct shape SportTool 
+fold: facilities fold part shut 
+follow: engage follow GoOn imitate 
+foot: part Unit 
+force: army force Power 
+Ford: human InstitutePlace LandVehicle Name 
+foreign: alien foreign location place 
+forfeit: abandon expenditure lose 
+formula: document drinks expression law 
+formulate: delimit explain forming use 
+forward: forward InFront issue location 
+fragment: inanimate part 
+fraudulence: cheat deceive fact 
+free: empty free FreeOfCharge idle 
+freeze: cool perception restrain StateChange 
+French: human language PatternValue RelatingToCountry 
+front: community facing location part 
+frost: ice RainSnow StateChange weather 
+fruit: accomplishment fruit part result 
+full: complete dense full many 
+fun: emotion fact interesting 
+function: expression function Role succeed 
+furrow: land part trace 
+fury: emotion Strength 
+fusion: burn merge StateChange 
+future: future Prospect time 
+gain: Advantage BecomeMore earn obtain 
+gallant: dignified human magnificent 
+gallop: GoForward jump run SelfMove 
+game: compete fact 
+gap: Disadvantage location split time 
+gas: gas material 
+gather: assemble ComeTogether gather 
+gathering: ComeTogether fact gather 
+gear: alter part tool 
+general: general human primary public 
+generation: appear Clan 
+German: human language PatternValue RelatingToCountry 
+giant: big celestial human InstitutePlace 
+gift: Ability artifact GiveAsGift physical 
+girth: GoRound Length Size tool 
+give: CauseToDo decide display express 
+globe: earth place shape 
+gloomy: dark disheartened sad upset 
+go: become go LeaveFor OutOfOrder 
+good: able Advantage advantageous benevolent 
+gore: bump part 
+gorge: eat land part 
+gossip: information talk TalkNonsense text 
+governor: human tool 
+grab: hold occupy rob 
+gracious: amiable gentle gracious polite 
+grade: classify estimate part PutInOrder 
+grain: crop material part 
+grand: dignified exuberant fantastic grand 
+grant: agree give grant 
+grasp: hold know understand use 
+grave: carve dangerous dignified facilities 
+grease: material part waste 
+green: able green land PropertyValue 
+grip: attract hold part pick 
+groove: carve land regulation shape 
+ground: bump grind land part 
+group: classify community establish group 
+guidance: control direction guide order 
+guide: guide human 
+gully: dig land waters 
+gum: excrement material part 
+gun: firing part weapon 
+hack: break damage method pant 
+hail: cry RainSnow SayHello WeatherBad 
+hand: human part 
+harass: damage MakeTrouble upset 
+harbour: CeaseCauseTOMove cherish facilities hide 
+hard: difficult diligent hard miserable 
+harmonious: coordinate euphonious harmonious proper 
+harness: control drive prepare tool 
+harsh: coarse severe stiff unfriendly 
+harshly: fierce severe stiff unfriendly 
+harvest: gather phenomena result 
+hasten: SelfMove SpeedUp urge VieFor 
+hate: blame disgust emotion hate 
+have: CauseToDo cherish drink eat 
+hawk: bird clean cry disseminate 
+head: guide human image 
+heap: BecomeMore NounUnit put shape 
+hear: investigate know perception start 
+hearing: Ability fact information 
+heat: knowledge Strength Temperature WarmUp 
+hedge: fittings KeepSilence part surround 
+height: Height location part Stature 
+heighten: add AlterForm MakeBetter MakeHigher 
+hereafter: FuncWord future time 
+hide: cover hide HideTruth material 
+high: expensive GreaterThanNormal high HighRank 
+hint: express information mean 
+hold: occupy own regard restrain 
+hollow: dented empty flighty insubstantial 
+home: facilities family GoBack house 
+homely: ordinary thrifty ugly unattractive 
+honour: exchange Glory obey respect 
+hook: clothing detain fact propose 
+hoop: part shape tighten tool 
+host: animate entertain human machine 
+hot: flourishing hot peppery PropertyValue 
+house: contain detain house 
+how: DegreeValue FuncWord 
+humble: despicable LowRank modest negligible 
+humbly: despicable LowRank modest negligible 
+hump: CausePartMove Form land part 
+hurt: beat CauseToDo damage offend 
+husk: part StripOff 
+idle: DoNot idle lazy rotate 
+illusion: experience phenomena Scene thought 
+illustration: describe example explain image 
+implication: contain fact information Intimacy 
+improvement: BeRecovered improve prosper result 
+in: FuncWord location 
+inauguration: begin fact 
+incense: irritate NounUnit spread tool 
+inch: GoForward GoUp Unit 
+incisive: accurate perceptive profound strong 
+incisively: accurate perceptive profound strong 
+inclination: emotion image Prospect tilt 
+increase: add BecomeMore MakeHigher 
+index: classify document symbol 
+indication: information mean Performance 
+indistinct: blurred dark lucid vague 
+inebriate: CauseToDo dizzy entice excited 
+inflame: burn inflamed irritate lighting 
+infuse: cook feed soak teach 
+infusion: cook feed medicine soak 
+ingeniously: able clever dexterous fantastic 
+initial: elementary original StageEarly write 
+initiate: begin establish human ResultIn 
+initiation: begin establish part ResultIn 
+initiative: active Activeness aspiration text 
+inscription: carve sign text 
+insignificant: few insubstantial negligible unimportant 
+inspect: check investigate supervise 
+inspection: check investigate supervise 
+instant: able prompt soon time 
+instruction: information order teach 
+instrument: human implement MusicTool tool 
+interest: Advantage emotion Interest wealth 
+interior: facilities land location 
+intermediary: human physical 
+intermission: cease Distance time 
+interpose: engage insert MakeTrouble propose 
+intersection: BeAcross location 
+interval: Distance time 
+intervene: engage MakeTrouble mediate 
+interview: fact investigate talk 
+intoxicate: CauseToDo entice excite joyful 
+introduce: CauseToDo guide 
+inundation: mishap spill water 
+inventory: account Amount artifact quote 
+inverse: backward hind reverse treacherous 
+invigoration: CauseToLive Life MakeBetter urge 
+involvement: duty engage experience 
+iron: AlterForm metal press 
+irregularity: disobey GeoIrregular phenomena 
+issue: admit announce issue 
+Italian: human language PatternValue RelatingToCountry 
+item: fact Kind part 
+itself: animal human inanimate 
+jam: BlockUp food MakeTrouble suffer 
+Japanese: human language PatternValue RelatingToCountry 
+jet: aircraft jet material 
+job: affairs engage 
+join: ally ComeTogether connect include 
+joint: associate collective connect drug 
+joke: fact information tease text 
+judge: estimate human 
+judiciary: human institution law part 
+juggle: deceive IllTreat perform shows 
+jumble: damage ize merge phenomena 
+junior: elementary human junior LowRank 
+just: accurate fair FuncWord past 
+kamikaze: human part weapon 
+keen: clever perceptive profound sharp 
+keenly: clever GreaterThanNormal perceptive profound 
+keenness: emotion perceptive Perceptiveness Sharpness 
+keep: associate congratulate foster keep 
+kernel: part reproduce 
+kid: deceive human livestock 
+kind: amiable benevolent Kind 
+knot: AlterForm fasten fittings part 
+Korean: human language RelatingToCountry 
+label: express judge mark tool 
+labour: affairs Amount do human 
+laggard: human inferior lazy slow 
+land: arrive land 
+lane: part route 
+lapse: BecomeLess BeRecovered pass result 
+lash: beat bump part 
+last: exhaust FuncWord GoOn last 
+late: AgeValue die late past 
+later: future late soon time 
+lather: appear apply gas shape 
+laurel: FlowerGrass mark reward tree 
+layer: bird part 
+league: ally community 
+leak: exposure leak 
+lean: barren bony CausePartMove CauseToDo 
+leave: farewell leave part PassOn 
+lecture: ExpressAgainst fact speak teach 
+leech: doctor human InsectWorm 
+leg: human part 
+leggings: clothing fittings 
+length: Distance Length TimeLength 
+level: AlterForm level part 
+liberal: advantageous Behavior erudite generous 
+lie: deceive LieDown situated text 
+life: fact Life Living RiseFall 
+light: NotHeavy relax TasteLight tool 
+lighting: facilities fact illuminate lights 
+lightly: flighty gentle gracious weak 
+line: regulation route shape 
+liquid: liquid PhysicState StateLiquid 
+liquidate: estimate fulfil remove return 
+liquidation: estimate fulfil remove sell 
+live: alive MakeLiving PropertyValue 
+lively: bustling interesting nimble sturdy 
+living: alive animate Living true 
+load: Amount artifact duty feed 
+loan: expression lend money 
+lobby: human persuade room 
+lock: fix NounUnit part tool 
+lofty: great high HighRank noble 
+loop: bend image part tool 
+lopsided: improper malformed pieced slanted 
+lose: CauseToDo defeated disappear exhaust 
+loss: defeated fact InDebt lose 
+lot: Amount Fate gamble Intimacy 
+lovely: able beautiful BestQuality bewitching 
+low: beneath Boundary despicable LessThanNormal 
+Lu: metal place surname waters 
+lust: aspiration emotion expect 
+luxuriant: exuberant fertile many 
+magic: Ability method queer shows 
+magnanimous: broadminded earnest extensive generous 
+maiden: first human 
+mail: letter physical post 
+main: important part primary 
+mainstay: human important organization part 
+maintenance: affairs expenditure keep maintain 
+major: human important knowledge primary 
+man: control expression human 
+manage: fulfil handle manage 
+mandate: ExpressAgreement manage place text 
+manifest: account display lucid mean 
+manifestation: appear display fact phenomena 
+manifold: many NounUnit produce various 
+manner: Bearing Behavior Demeanor 
+mantle: clothing cover FormChange part 
+march: fact GoForward walk 
+margin: Boundary location part Rate 
+marine: human location part waters 
+mark: commemorate draw estimate 
+marrow: part vegetable 
+marshal: guide human PutInOrder 
+masculine: BehaviorValue Kind male masculine 
+mask: cover fact physical pretend 
+masquerade: engage fact MakeUp 
+mass: Amount assemble ComeTogether extensive 
+mat: put tool undergo 
+match: equal fact fit human 
+mate: human mating 
+material: InfoElement material 
+matter: fact important physical problem 
+maudlin: AptTo emotion frail passionate 
+meagre: few insubstantial miserable negligible 
+measure: Amount measure method part 
+measurement: Amount estimate measure Measurement 
+medium: InfoCarrier intermediate medium 
+meet: ComeTogether fit fulfil meet 
+mellow: become GoodTaste idle ize 
+membership: Attachment human Status 
+memorial: artifact document facilities 
+mesh: coil connect part shape 
+mess: edible food MakeTrouble 
+mighty: great powerful strong sturdy 
+milk: drinks feed gather part 
+mill: cut house InstitutePlace tool 
+mime: human imitate shows 
+mind: disgust mental PayAttention TakeCare 
+mine: dig gather human InstitutePlace 
+minimum: elementary LessThanNormal nonextensive small 
+mining: affairs dig gather put 
+minor: human knowledge music secondary 
+minute: detailed small text time 
+mire: GoDown place stone 
+misery: Circumstances miserable mishap phenomena 
+miss: despise disappear fail human 
+mission: affairs community institution 
+mix: add confuse mix produce 
+moat: facilities location 
+mode: Behavior Kind method Style 
+moderate: human intermediate weak weaken 
+modification: adjust alter amend describe 
+mole: beast facilities human part 
+moment: Strength time 
+monitor: human part supervise tool 
+mood: Circumstances emotion Kind Property 
+moral: Behavior experience mental moral 
+mortar: material tool weapon 
+mortgage: borrow money pawn physical 
+most: extreme many most 
+motley: BecomeMore colored mixed thing 
+mould: bacteria cultivate produce tool 
+moult: lose replace 
+mouse: beast human LookFor part 
+mouthpiece: human part SportTool tool 
+mud: pollute stone 
+muddy: blurred dirty pollute soft 
+multiplication: add BecomeMore method reproduce 
+multiply: add DoSum reproduce 
+municipal: AttachmentValue fact local place 
+murmur: MakeSound sound 
+mustard: gas material part vegetable 
+nail: decide fix part tool 
+narrative: able fact text 
+narrow: narrow narrowminded nonextensive shrink 
+national: human native place wholly 
+natural: honest natural NaturalThing original 
+nature: Behavior humanized NaturalThing Property 
+Nauru: language place RelatingToCountry 
+neat: level neat symmetrical tidy 
+need: aspiration FuncWord lack need 
+negative: Amount negative 
+nice: GoodLooking GoodTaste HighQuality polite 
+nobility: community HighRank human noble 
+node: disease location part 
+note: SoundVolume symbol text 
+nucleus: important part 
+nurse: cherish feed human 
+nut: gather part 
+object: oppose part physical purpose 
+obscure: blurred ize Notwellknown vague 
+obstruction: block BlockUp obstruct Strength 
+oddity: fact Habit thing treasure 
+offensive: able attack cacophonic fact 
+offhand: accidental prompt unintentional unready 
+official: formal human public 
+offset: equal recompense time weaken 
+offspring: beast bird human part 
+oil: congratulate lubricate material 
+old: aged AgeOlder past TimeLong 
+once: ActUnit ActUnitValue FuncWord past 
+open: establish free from open 
+operate: control doctor fight function 
+operation: calculate control fact 
+opposite: backward DirectioningValue expression part 
+order: buy document group order 
+orderliness: Behavior Consistency neat Sequence 
+orderly: human InSequence neat 
+organ: institution MusicTool part publications 
+origin: Lineage part place 
+outlet: fittings InstitutePlace location route 
+outline: describe draw part 
+overall: clothing FuncWord overall 
+overlook: despise facing forget look 
+pace: Distance measure Posture Speed 
+pacification: attack calm restrain resume 
+packing: load material Packing 
+pad: account boast NounUnit part 
+page: LookFor naming NounUnit part 
+paint: apply describe draw image 
+pair: establish human mating NounUnit 
+pale: dark grey light white 
+panel: inlay part 
+paper: decorate material publications text 
+parallel: double mark relevant simultaneous 
+part: component farewell human part 
+particular: extraordinary part special specific 
+partisan: army community human 
+pass: part pass qualified 
+passage: cross Distance GoThrough NounUnit 
+passion: aspiration emotion 
+passive: inactive passive Property PropertyValue 
+past: FuncWord past Performance phenomena 
+paste: apply fasten food material 
+patch: artifact NounUnit part repair 
+pattern: example law Pattern tool 
+pay: CauseToDo pay 
+penetrate: GoInto GoThrough influence know 
+penetrating: accurate detailed GoInto perceptive 
+penetration: GoInto GoThrough influence know 
+percussion: beat bump method music 
+perennial: AttachmentValue plant TimeLong 
+perfect: BestQuality complete fantastic MakeBetter 
+performance: Behavior conduct fact 
+perfume: apply material Odor spread 
+period: phenomena symbol time 
+periphery: location part 
+permit: agree CauseToDo document 
+pertinacity: aspiration resolute Resoluteness stubborn 
+perturbed: chaotic rash uneasy upset 
+perverse: BadTemper covert fierce stubborn 
+perversely: abnormal backward fierce stubborn 
+petition: accuse document fact information 
+petty: difficult narrowminded trivial unimportant 
+phase: adjust arrange Circumstances part 
+physical: AttachmentValue concrete knowledge Strength 
+pick: choose gather pick PickOut 
+picket: defend human 
+picture: describe image 
+piece: NounUnit part produce 
+piecemeal: FormChange incomplete InSequence stepwise 
+piercing: cacophonic clever cold shrill 
+pile: NounUnit part put 
+pilot: drive guide human 
+pin: fasten obstruct tool 
+pinch: break pick press SqueezeOut 
+pinnacle: Circumstances part 
+pioneer: cultivate human start 
+pipe: material part shape 
+pirate: human print readings 
+pitch: facilities material place PropUp 
+placard: announce mark readings text 
+plainly: lucid plain simple thrifty 
+plan: arrange image plan plans 
+plane: aircraft AlterForm image level 
+plant: install InstitutePlace plant planting 
+plaster: apply medicine shape 
+play: recreation RegardAs shows TakeAway 
+pledge: announce pawn physical swear 
+plot: draw fact part plan 
+pluck: choose Courage gather recreation 
+plug: fittings insert part 
+plump: fat fertile sufficient widediameter 
+plunder: artifact rob 
+plunge: fact fund GoDown put 
+plus: Amount DoSum Merit over 
+ply: function NounUnit VehicleGo 
+pointless: blunt insubstantial pointless rash 
+poison: chemical damage kill physical 
+police: defend institution part 
+pool: community fact gather waters 
+pose: Behavior forming Posture propose 
+positive: Amount positive 
+possession: Ability own place thing 
+poster: image readings text 
+pound: beat money shiver Unit 
+pour: dump fill flow irrigate 
+powder: apply grind material medicine 
+practice: affairs conduct drill 
+precipitation: Amount hasty separate WeatherBad 
+predecessor: human physical 
+preeminence: able Advantage fantastic Power 
+premier: display human 
+prescription: document Effectivity medicine regulation 
+presentation: express GiveAsGift location submit 
+presently: present prompt soon TimeShort 
+pretence: deceive mark pretend speak 
+prevail: exist prosper succeed surpass 
+preview: display experiment look shows 
+price: ask decide express Price 
+primary: elementary fact important 
+principal: fund human 
+principle: Property reason regulation Standard 
+print: image material print publish 
+produce: artifact create display produce 
+profess: announce express naming speak 
+professional: human permanent 
+profile: image part Reputation text 
+profit: Advantage advantageous earn obtain 
+profound: GreaterThanNormal intimate perceptive profound 
+program: compile fact plans 
+programme: fact plans shows 
+progressive: BecomeMore human progressive PropertyValue 
+prologue: compile part 
+prominence: fantastic Importance important lights 
+promotion: endorse MakeBetter upgrade urge 
+prompt: effortless fast nimble prompt 
+proof: check document example information 
+prop: endorse HoldWithHand part 
+proper: AttachmentValue correct proper suitable 
+property: Attribute Circumstances Property wealth 
+prospect: expect investigate predict Prospect 
+protest: accuse fact protest text 
+protocol: agreement document polite regulation 
+provision: artifact InstitutePlace part provide 
+provoke: excite incite incur irritate 
+prune: destroy fruit PutInOrder 
+puff: exhale food pant tool 
+pupil: human part 
+pursue: attack catch chase conduct 
+pursuit: attack chase conduct LookFor 
+putter: beat MakeLiving SelfMove SportTool 
+quack: boast human MakeSound 
+quality: HighQuality Property Quality Rank 
+quarter: cardinal reside separate time 
+queasy: chaotic ill peaceful vomit 
+queer: abnormal eccentric fishy queer 
+quibble: debate quarrel reason text 
+quiet: calm peaceful plain quiet 
+quietly: covert peaceful quiet silent 
+quit: abandon cease leave 
+quote: part quote tell 
+race: compete fact Kind tribe 
+rack: MakeBad seek tool 
+radical: chemical human part progressive 
+rail: ExpressAgainst fittings material process 
+raise: lift MakeBetter MakeHigher propose 
+rake: AlterForm LookFor split tilt 
+rally: BeRecovered ComeTogether fact 
+ram: beat bump feed livestock 
+rape: mating part rob vegetable 
+rare: few precious rarely watery 
+rarity: few rarely thing treasure 
+rave: cry fact MakeSound speak 
+reach: AmountTo arrive fulfil SelfMoveInManner 
+realistic: honest possible substantial true 
+rear: establish foster hind location 
+reason: Ability cause explain reason 
+rebound: BecomeMore BeRecovered GoBackward jump 
+receipt: bill include receive 
+receive: bear entertain meet receive 
+reception: collect entertain fact receive 
+reckon: calculate estimate guess regard 
+recognition: admit distinguish emotion 
+recognize: admit distinguish know 
+recoil: BeRecovered CausePartMove GoBackward 
+record: accomplishment account document fact 
+recorder: human tool 
+recover: BeRecovered doctor 
+recovery: BeRecovered doctor 
+recruit: call employ human include 
+recuperate: BeRecovered maintain rest 
+redeem: enrich redeem resume 
+reduce: BecomeLess defeat doctor shrink 
+reduction: BeRecovered doctor shrink subtract 
+reed: FlowerGrass MusicTool part 
+refine: gracious MakeBetter produce refine 
+refinement: Abstruseness adjust Grace MakeBetter 
+reflection: illuminate image mean think 
+regard: emotion expression part regard 
+register: account part post 
+regret: emotion regret repent 
+rehabilitation: BeRecovered cultivate resume 
+reinforce: add help MakeBetter strengthen 
+reinforcement: add army help MakeBetter 
+rejection: abandon discharge fact prohibit 
+relax: AtEase enjoy loosen weaken 
+relaxation: enjoy fact relax weaken 
+reliably: Reliability reliable safe steady 
+relief: exempt Form help human 
+remainder: other part surplus symbol 
+remains: be exist part 
+remit: exempt post 
+remittance: exempt money post 
+remote: DistanceValue far fittings TimeLong 
+rent: borrow expenditure lend 
+repayment: money payment recompense return 
+repel: discharge expel obstruct reject 
+replacement: discharge fittings replace thing 
+reply: information letter reply text 
+report: disseminate news tell text 
+reproduce: appear print produce reproduce 
+reproduction: artifact print produce 
+requisition: aspiration levy request 
+reserve: fund human physical 
+resistance: Ability reject resist Resistance 
+resolve: aspiration decide handle separate 
+rest: other rest sleep symbol 
+resurgence: awake BeRecovered SufferFrom 
+resurrect: BeRecovered resume 
+return: GoBack process return 
+review: check drill estimate 
+revise: adjust amend compile drill 
+revision: adjust amend compile drill 
+revolution: circle fact GoRound rotate 
+revolve: circle coil GoRound rotate 
+reward: fact payment recompense reward 
+rhyme: compile method shows sound 
+rib: food IllTreat part 
+rich: fertile human many NotLight 
+rim: inlay part 
+ring: communicate facilities MakeSound 
+roar: cry MakeSound roll 
+rock: CausePartMove music roll shake 
+rosy: able joyful optimistic red 
+rotten: BadSocial decline immoral OutOfOrder 
+rough: careless coarse explain fierce 
+rouse: call excite excited urge 
+row: drive NounUnit quarrel 
+ruin: damage destroy mishap 
+rule: judge manage Power regulation 
+rush: FlowerGrass LeaveFor part TimeShort 
+Russian: human language PatternValue RelatingToCountry 
+rust: BeBad chemical damage FormChange 
+rustic: BestQuality place uncouth vulgar 
+rut: land regulation time trace 
+sack: discharge furniture rob tool 
+safe: peaceful safe steady tool 
+sail: drive part start 
+salt: add chemical Interest material 
+sample: check choose example savor 
+save: economize rescue SetAside 
+scab: BeRecovered human part trace 
+scan: forming look read take 
+scattered: few incomplete rarely sparse 
+scene: facilities Occasion part 
+scent: Odor perception smell 
+score: obtain publications symbol 
+scourge: beat cause damage mishap 
+scout: human scout weapon 
+scrap: abandon part quarrel remove 
+scratch: disease rub scratch trace 
+script: character Pattern publications text 
+scrub: remove tool tree wipe 
+seal: beast cover shut tool 
+seam: location part 
+season: adjust fit time 
+second: endorse FuncWord next ordinal 
+secure: guarantee protect safe stabilize 
+sedate: composed dignified feed peaceful 
+sediment: inanimate physical stay waste 
+see: meet perception read 
+seed: community human part planting 
+segment: NounUnit part 
+seize: catch hold obtain occupy 
+seizure: catch happen obtain occupy 
+senior: HighRank human senior 
+sensible: clever reasonable sensible wise 
+sentence: expression fact judge 
+separate: alone disconnect from individual 
+sequester: cease deprive punish subtract 
+serious: cautious dangerous important serious 
+serve: engage entertain provide shoot 
+service: affairs fact repair shoot 
+set: NounUnit put 
+settle: handle MakeAppointment reside undergo 
+settlement: establish handle MakeAppointment place 
+setup: install institution part Pattern 
+sever: break cut disconnect separate 
+severe: disadvantageous serious strict strong 
+shaft: part route 
+shake: excite shake shiver sound 
+shape: Appearance exercise Form forming 
+share: bear component coupon fund 
+sharp: accurate clever perceptive profound 
+sheer: extreme steep TurnRound wholly 
+sheet: NounUnit shape 
+shelter: cover facilities InstitutePlace protect 
+shield: cover part protect 
+shift: alter give replace TakeAway 
+shine: AlterBrightness illuminate lights StateChange 
+shiny: bright polished StateChange WeatherFine 
+ship: InstitutePlace ship transport 
+shit: Amount excrement excrete expression 
+shock: attack dizzy fear frighten 
+shoot: firing part reproduce shoot 
+shooting: fact firing 
+shop: buy InstitutePlace 
+short: insufficient LengthShort StatureShort TimeShort 
+shot: fact firing Scene sound 
+shoulder: bear CarryOnBack part 
+show: display exposure express guide 
+shower: RainSnow tool wash WeatherBad 
+showily: colored flighty luxurious magnificent 
+shrink: decline FormChange GoBackward shrink 
+shutter: fittings part shut tool 
+side: group location part 
+sight: Ability experience Occasion perception 
+sign: forming information mark sign 
+silence: KeepSilence obstruct quiet restrain 
+silver: metal money PropertyValue tool 
+simple: honest plain pure simple 
+sing: cry recite recreation sing 
+singing: Ability sing sound 
+single: choose pure single unmarried 
+sink: BecomeLess destroy GoDown 
+size: classify Range Size 
+sketch: draw image text 
+skill: Ability method 
+skin: part StripOff wounded 
+slack: loose relax slack wane 
+slacken: loosen relax slack weaken 
+slash: beat cut land subtract 
+slender: bony fine gracious StatureTall 
+slice: cut NounUnit part shape 
+slick: ize physical polished sly 
+slide: part route slide tool 
+slight: despise IllTreat insufficiently negligible 
+sling: fittings throw tool 
+slip: document FallDown GoDown result 
+slope: part route Slope tilt 
+sloppily: careful careless lazy sloppy 
+sloppy: careful careless flighty lazy 
+slovenly: careless flighty lazy sloppy 
+sludge: stone trace 
+sluggish: inactive lazy slow tired 
+smack: beat emotion fact Taste 
+smart: beautiful clever dexterous wise 
+smear: apply pollute slander trace 
+smirch: Demerit pollute slander trace 
+smoke: addict CloudMist cook 
+smooth: AlterForm discharge easy fluent 
+smoothness: Deftness easy fluent SmoothFinish 
+snipe: bird ExpressAgainst firing hide 
+snivel: ExpressDissatisfaction ill part weep 
+soak: dizzy moisten propose soak 
+soft: euphonious frail gentle LowVoice 
+soften: ize MakeLower surrender weaken 
+sole: alone fish only part 
+solely: alone FuncWord only single 
+solemn: austere dignified earnest stately 
+solicitation: attract beg information seek 
+solidly: durable hard steady substantial 
+solo: alone music perform sing 
+solution: liquid method plans result 
+some: certain human roughly some 
+sorrow: emotion sad sorrowful 
+sound: steady talking tool true 
+sour: dark OutOfOrder sour Taste 
+source: human part Source 
+span: cross Distance Range situated 
+spare: bony economize grudge PropertyValue 
+spark: fire tool TurnOn 
+spatter: disperse GoDown pollute spray 
+spearhead: human part undertake 
+specialist: human special 
+speciality: Ability affairs artifact Peculiarity 
+speed: drug run Speed SpeedUp 
+spell: MakeSound mean time write 
+spice: add CauseToDo emotion material 
+spike: happen part stab 
+spill: dump spill spray spread 
+spin: produce rotate shape turn 
+spirit: humanized medicine mental 
+splendid: beautiful bright fantastic interesting 
+splendidly: beautiful bright fantastic interesting 
+split: CausePartMove FormChange location result 
+spoil: damage lavish like MakeTrouble 
+sponge: material physical wipe 
+sponsor: grant handle human 
+spot: distinguish location scout trace 
+spray: apply chemical jet spray 
+spring: jump part time waters 
+spur: facilities irritate part 
+squint: CausePartMove look 
+stack: arrange facilities NounUnit put 
+stage: facilities part perform shape 
+stagger: arrange BeAcross walk wave 
+stain: AlterColor material PlayDown pollute 
+stake: gamble HaveContest part 
+stall: delay end InstitutePlace OutOfOrder 
+stamp: CausePartMove coupon draw kick 
+standard: example law qualified Rank 
+star: celestial HighQuality human 
+starch: apply ize liquid material 
+state: AttachmentValue Circumstances explain PhysicState 
+station: dispatch facilities InstitutePlace 
+steadiness: Constancy Steadiness steady Will 
+steel: cultivate MakeBetter metal 
+stem: obstruct part 
+step: ActUnit Distance part 
+stereo: image shape sound tool 
+sterile: barren PropertyValue unable uninventive 
+stern: austere part severe strict 
+stick: apply fasten shape stab 
+still: constant FuncWord 
+sting: damage irritate peppery sting 
+stir: excite incite mix PlayWith 
+stock: artifact coupon food fund 
+stockpile: artifact physical SetAside store 
+stone: kill part stone 
+stopper: part tool 
+story: fact news part 
+stout: alcohol fat resolute sturdy 
+straighten: adjust amend CausePartMove straighten 
+strain: filter Kind strong wounded 
+strand: bump NounUnit suffer 
+strange: abnormal alien queer special 
+strangely: abnormal queer special unfamiliar 
+straw: FlowerGrass part 
+streak: image run SelfMoveInManner 
+streamer: fittings mark part 
+stress: emphasize MakeSound part ParticularAbout 
+strike: attack beat bump cease 
+string: fasten MusicTool NounUnit part 
+strip: deprive shape shows StripOff 
+stroke: attack fact paralyse part 
+strong: durable powerful strong sturdy 
+stub: bill mark part 
+stud: decorate Height livestock tool 
+study: discuss research room study 
+stuff: artifact eat fill human 
+sturdy: durable resolute steady sturdy 
+subject: AttachmentValue Content human knowledge 
+subordinate: AttachmentValue human obey part 
+substantial: durable rich substantial sufficient 
+substitute: human replace 
+succeed: follow KeepOn replace succeed 
+suck: absorb drink GetKnowledge PickOut 
+suffocating: able hot stuffy unable 
+suggestion: information propose recommend text 
+suit: clothing fact fit NounUnit 
+sum: Amount describe fund result 
+summit: fact part 
+sumptuous: extravagant luxurious magnificent many 
+superb: beautiful BestQuality extreme fantastic 
+superior: BestQuality HighQuality HighRank human 
+support: endorse grant help HoldWithHand 
+suppose: FuncWord guess predict regard 
+suppress: attack frighten obstruct prohibit 
+suppression: attack prohibit restrain 
+sure: believe fixed FuncWord lucid 
+surge: BecomeMore excited flow GoUp 
+surprise: attack CauseToDo Graduality surprise 
+survey: Circumstances investigate measure 
+suspend: delay hang obstruct 
+suspension: delay float hang obstruct 
+sustain: endure GoOn suffer SupportWeight 
+suture: fasten location material 
+sweet: euphonious food fragrant happy 
+switch: alter connect facilities part 
+syndicate: community establish 
+system: part system 
+table: delay document furniture SportTool 
+tablet: computer mark medicine Name 
+tack: fasten include part plans 
+tackle: handle kick part tool 
+tail: follow part 
+take: TakeVehicle use 
+talk: discuss fact speak talk 
+tally: accomplishment count document DoSum 
+tangerine: fruit red tree yellow 
+tap: beat listen part 
+target: AimAt Amount thing tool 
+tarnish: Color FormChange PlayDown slander 
+tart: food human sour Taste 
+taste: be Behavior emotion experience 
+tasteful: GoodLooking GoodTaste gracious refined 
+tasteless: boring GoodTaste PoorTaste tasteless 
+tax: affairs expenditure levy 
+tea: drinks fact material tree 
+tear: location part split 
+tease: IllTreat incur loosen mock 
+temperament: Behavior Temperament 
+tend: ProvideFor TakeCare 
+tense: ize Property Timing uneasy 
+term: aspiration expression part symbol 
+terminal: computer facilities last 
+terrace: land part shape 
+terrible: able expression inferior 
+terribly: able extreme strong 
+terror: emotion fact human thing 
+test: check experiment fact 
+Thai: human language PatternValue RelatingToCountry 
+them: human inanimate 
+then: FuncWord future past 
+thicken: AlterForm AlterMeasurement StateChange 
+this: ActUnit NounUnit self 
+thoroughly: detailed extreme profound pure 
+thread: fasten information part 
+thunder: cry sound thunder WeatherBad 
+tick: InsectWorm MakeSound symbol write 
+tight: experience lack narrow tight 
+time: ActUnit record Speed time 
+times: ActUnit DoSum time Unit 
+tin: apply metal NounUnit tool 
+toast: congratulate cook food 
+toil: endeavour fact plans tired 
+tolerance: Boundary endure indulge lenient 
+toll: Amount expenditure 
+toss: abandon roll shiver throw 
+total: Amount AmountTo overall 
+touch: associate emotion excite part 
+tough: difficult durable fierce 
+town: InstitutePlace part place 
+trade: affairs buy engage 
+traffic: Circumstances fact transport 
+trail: Bearing follow inferior 
+transit: cross GoThrough TakeVehicle tool 
+translation: AlterLocation readings text translate 
+trap: catch entice facilities fact 
+treat: doctor edible handle treat 
+treatise: publications text 
+trespass: attack GoInto MakeTrouble 
+trial: exam experiment fact interrogate 
+tribute: artifact emotion fact payment 
+trick: Ability deceive method 
+trifling: negligible trivial unimportant weak 
+trip: fact FallDown reverse 
+trouble: disease Easiness fact MakeTrouble 
+trough: Boundary Circumstances facilities tool 
+truly: earnest faithful FuncWord honest 
+trust: believe document emotion entrust 
+truth: Accuracy Circumstances reason text 
+try: aspiration interrogate start try 
+tub: LandVehicle tool 
+tube: facilities material part 
+tune: adjust music sound SoundQuality 
+tunnel: dig facilities route 
+turn: part place pull rotate 
+type: Kind tool write 
+unaffected: earnest honest impossible thrifty 
+uncertain: doubt fixed irresolute unfixed 
+uncouth: fierce NotQuick uncouth vulgar 
+underground: covert facilities location 
+understanding: Ability amiable pity thought 
+undertake: bear conduct engage undertake 
+uneven: asymmetrical different GeoIrregular level 
+unfortunate: able human miserable misfortunate 
+uniform: alike balanced clothing 
+unit: army component implement InstitutePlace 
+universal: EffectivityValue extensive international RoleValue 
+unofficial: AttachmentValue informal public unimportant 
+unrefined: crude LowRank uncouth unprocessed 
+unrestrained: frank free PropertyValue rash 
+unsettled: changeable fixed impossible unfixed 
+unusually: abnormal extraordinary queer rarely 
+upgrade: MakeBetter prosper undergo upgrade 
+upright: frank righteous straight upright 
+upset: irritate MakeTrouble reverse upset 
+upsurge: BecomeMore fact GoUp water 
+urgency: affairs Urgency urgent 
+useless: disadvantageous redundant unable useless 
+vacancy: Amount Content house Occupation 
+value: Amount estimate like 
+vamp: entice human merge part 
+van: human LandVehicle location 
+variable: celestial changeable Property symbol 
+variation: change fact music Similarity 
+vary: change differ ize 
+vast: big broad extensive great 
+vehicle: LandVehicle physical tool vehicle 
+vein: InstitutePlace part 
+venomous: disadvantageous poisonous unfriendly wicked 
+vent: clean drain facilities location 
+version: Kind readings text thing 
+vest: BeMember clothing give grant 
+vet: check doctor human 
+vice: fact secondary tool 
+view: experience image look Range 
+vigorous: dignified flourishing strong sturdy 
+vigorously: dignified flourishing strong sturdy 
+violate: damage disobey MakeBad mating 
+violation: damage disobey fact MakeBad 
+virtue: Behavior Chastity Merit Morality 
+virulent: able disadvantageous unfriendly wicked 
+vision: Ability experience thinking thought 
+voice: aspiration express Property sound 
+void: empty excrete ineffective insubstantial 
+volunteer: army human willing 
+voucher: bill coupon document human 
+wake: awake fact result trace 
+walk: err guide Posture route 
+want: aspiration choose LookFor need 
+warrant: document guarantee order reason 
+waste: desolate land lavish useless 
+watch: defend look supervise tool 
+water: feed irrigate water waters 
+way: Behavior method route 
+weaken: decline dilute restrain weaken 
+weakly: frail irresolute unhealthy weak 
+weakness: Demerit frail irresolute 
+weed: FlowerGrass remove 
+weigh: AmountTo estimate measure think 
+weight: part symbol tool Weight 
+what: DegreeValue FuncWord 
+wheel: circle part push tool 
+wide: broad extensive wide widediameter 
+wild: desolate fierce rash wild 
+wilful: free intentional NotSensible rash 
+wilfully: fierce intentional NotSensible rash 
+wind: circle coil crawl FormChange 
+wink: CausePartMove Countenance time 
+wire: arrange material tell tool 
+wish: aspiration congratulate expect expression 
+withdraw: CausePartMove GoBackward MoveItBack 
+withdrawal: CausePartMove GoBackward MoveItBack 
+wonder: phenomena Scene surprise willing 
+wood: material PropertyValue tree wood 
+word: character expression information text 
+worm: human InsectWorm part remove 
+worry: bite emotion fact sad 
+wound: damage disease emotion 
+wreck: damage mishap ship 
+writing: character compile document expression 
+wrong: IllTreat misunderstand phenomena result 
+yard: facilities InstitutePlace part Unit 
+year: Age Rank time Unit 
+yield: Amount produce surrender wealth 
+Yong: place surname waters 
+young: AgeYounger animal child human 
+zigzag: become crawl curved shape 

@@ -1,0 +1,24 @@
+a70ExpertY ==
+
+<[wh NP:^.O] [NP:^.synS] [finite|VB !hasObj:CL++ wh H]> [BR] 
+<['help|make|let' !vVBSat:VP++ vVBSat] [V|v|V0:^.oVP V+ VP]> [BR|RB|PP] 
+<[NP:H] <["who|which|that":^.synS] [@VC:^^.mCL CL++ H]>> [BR|@VC] 
+<["however":RP++ concession H] [CL hasSubj:^.xCL]> [BR] 
+[VTH|VSS] <["that":^.Z] [CL:H]> 
+
+[!BR] <["but" !hasCL:CL++ rCL H] [CL:^.xCL]> [BR] 
+<['ask|question':VP++ H] ['if' hasCL:^.oCL 'whether']> 
+<['waiting':H] <[CM] [NNP|NE:^^.Z sRB H] [CM]> [PP FULLSTRING 'for-':^.C]> [BR] 
+<['wait':H] [PP FULLSTRING 'for-':^.C]> [BR] 
+<[N|NP|NG:H] [0 "that"] [yVC !CL:^.M]> [BR] 
+<[N|NP|NG:H] [0 "that"] [yVC CL:^.mCL]> [BR] 
+[BR] <[0 wh:^.R] [0 beC:CL++ H] [CL:^.xCL]> [BR] 
+<[NP loc:H] ['where' hasxCL:^.mCL]> 
+<[@NC] ["of":^.X] [Ving !hassS:^.mVP]> [BR] 
+<[@nN] [CM:^.X] [Ved !hassS:^.mVP] [CM:^.X]> [BR !"and|or"] 
+<[time] ["when" hasxCL:^.mCL]> [BR] 
+<[CL] [hasxCL 'if':^.ifR]> [BR]
+<[CL] [hasxCL !'if-':^.rCL]> [BR] 
+[BR] <[PP:^.S] [0 beC:CL H] ["where|when" hasxCL:^.oCL]> [BR] 
+[beC] <[NP] [infinitive !hassS:^.Z]> [BR] 
+<[Ved|Ven !hasSubj:^.CN] [CM]? [0 "and|or"] [Ved|Ven !hasSubj:H]> [BR] 

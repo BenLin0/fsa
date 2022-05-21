@@ -1,0 +1,11 @@
+8DEcontact ==
+
+<[DE contact:+++ H] [digit|Punc]*6 [digit]>   // PHONE: (858) 627-6000 ! FAX: (858) 627-6601; Phone: +33 1 56 06 10 00 ! Fax : +33 1 56 06 10 10
+
+<(["+"]? [digit])? [OPAR]? [d3] [CPAR]? [d3] [HYPHEN] [d4:DE++ rStop contact phone H]> // typical phone number format: (860) 660-9014
+
+<["+"] [digit]? [dot]?  ([OPAR]? [digit] [CPAR]?)? ([OPAR] [digit] [CPAR])? [digit] ([DDSH|dot]? [digit])*3 [DDSH|dot]? [digit:NEW DE++ rStop contact phone +++ H]>  // +86 (858) 627-6000 !
+
+[contactC] [COLN]? <[digit]? [dot]?  ([OPAR]? [digit] [CPAR]?)? ([OPAR] [digit] [CPAR])? [digit] ([DDSH|dot]? [digit])*3 [DDSH|dot]? [digit:NEW DE++ rStop contact phone +++ H]>  // phone: (858) 627-6000 !
+
+<[contactC|'international|domestic|local':NEW DE++ rStop contact +++ H] []?  [dot|SYM|Punc]*3 [digit|Punc]  [digit|Punc]*13 [digit|Punc] [digit spaceHou]> // COLN|CM|"at|@" PHONE: (858) 627-6000 ! FAX: (858) 627-6601; Phone: +33 1 56 06 10 00 ! Fax : +33 1 56 06 10 10

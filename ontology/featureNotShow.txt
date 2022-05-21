@@ -1,0 +1,17 @@
+NEW
+F
+mXP
+VerbNom
+Nom 
+NomSubj
+NomObj 
+va
+VI
+ovt
+VhisNG
+objNot
+attrNot
+obj0
+pv
+id
+cPB

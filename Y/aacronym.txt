@@ -1,0 +1,126 @@
+BA: title
+BS: title
+BSc: title
+MA: title
+MD: title
+MS: title
+MSc: title
+MBA: title
+PHD: title
+
+B.A: title
+B.A.: title
+B.S: title
+B.S.: title
+B.Sc: title
+B.Sc.: title
+M.A: title
+M.A.: title
+M.D: title
+M.D.: title
+M.S: title
+M.S.: title 
+M.Sc: title
+M.Sc.: title
+Ph.D: title
+Ph.D.: title
+
+rd: NNP road
+st: NNP road
+blvd: NNP nc road
+ave: NNP road
+pkwy: NNP nc road
+dr: NNP road title
+
+rd.: NNP road
+st.: NNP road
+blvd.: NNP nc road
+ave.: NNP road
+pkwy.: NNP nc road
+dr.: NNP road title
+
+jan:NNP nc month human
+feb: NNP nc month
+mar: NNP nc month
+apr: NNP nc month
+jun: NNP nc month
+jul: NNP nc month
+aug: NNP nc month
+sep: NNP nc month
+sept: NNP nc month
+oct: NNP nc month
+nov: NNP nc month topN2
+dec: NNP nc month
+
+jan.:NNP nc month human
+feb.: NNP nc month
+mar.: NNP nc month
+apr.: NNP nc month
+jun.: NNP nc month
+jul.: NNP nc month
+aug.: NNP nc month
+sep.: NNP nc month
+sept.: NNP nc month
+oct.: NNP nc month topN2
+nov.: NNP nc month topN2
+dec.: NNP nc month
+
+tel:N  phone
+cell:N phone
+tel.:N  phone
+cell.:N phone
+
+CO2: N nc nt chemical
+FDA: NNP NE org
+NASA: NNP NE org
+OB: N nc per 
+Owo: SYM nEMO
+
+p-3: NN;
+am: xC time sufM
+pm: xC time sufM
+a.m.: xC time sufM
+p.m.: xC time sufM
+msec.: N nc timeUnit
+ps: NN;
+p.s.: RB;
+p_/_e: NNP  
+
+oy: N nc comHN
+oyj: N nc comHN
+oz: N nc unit weight quant
+oz.: N nc unit weight quant
+oz.ap.: N nc unit quant
+oz.t.: N nc unit quant
+
+a.k.a.: CC 
+abb: NN com nc
+
+b: A LS NN topN2; SC
+b-52: N; nc hyphenated tool
+b-58: NN;
+b-cell: NN;
+b-cells: NNS;
+b.c.e.: RB;
+b.t.u.: NN nc unit;
+b.th.u.: N nc unit;
+b/c: SC
+b4: P P0; RB SC advX earliness qianhouW time timing 'before'
+
+bzd: NNP;
+bzra: NNP;
+c: LS NNP topN2;
+c$:  
+c'mon: UH VB vc; VPP
+c-horizon: N; nc hyphenated
+c-minus: A;
+c-plane: NN;
+c-ration: N; nc artifact hyphenated
+c-section: N; nc hyphenated
+c-word: NN;
+cpu: N nc tool
+c.p.u.: N nc part tool 'cpu'
+
+ca: NNP nc province topN2 MD 
+
+jv: org

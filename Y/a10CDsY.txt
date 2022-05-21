@@ -1,0 +1,44 @@
+a10CDsY ==
+
+<[">|<"] [CD:CD money +++ H] ['b|billion']> 
+<[">|<"] [CD:CD +++ H]> 
+<["greater|smaller|less|more"] ['than'] [CD:CD +++ H]> 
+<['greater_than|less_than|more_than|over'] [CD:CD +++ H]> 
+
+<["is|am|are|was|were":^.Z] ["going"] ["to"] [RB:^.R]? [VB|v:VG++ +++ modal V+ H]> 
+
+<[0 alpha:^.m] ([0 DDSH !spaceQ|spaceH] [alpha:^.m])? [0 DDSH !spaceQ|spaceH] [N|NNS|nc:NG++ hyphenated +++ H]>  
+
+
+[BR] <[NNP|caseAb|caseAB]*3 [NNP|caseAb|caseAB:NEW NE++ com H] [CM]? ['inc|llc':^.Z] [dot]?> 
+
+<[DE date: H] [CM]? [d4 '2-|1-':^.Z]>  
+
+<[DE road:H] [CM|softJM]? [NNP] [CM|softJM]? [DE address:^.Z]> 
+
+<["no": 'number' acronym H] [dot !spaceQ]> [digit] 
+<[title|acronym:N+ H] [dot]> [!JM] 
+<[digit:ordinal H] [DDSH !spaceQ|spaceH]? ['st|nd|rd|th']> 
+<[CD] [DDSH] [length unit: hyphenated modJJ DE++ H]> 
+
+<[0 alpha spaceQian !spaceH] [0 digit !spaceQ spaceHou:digitAlpha +++ H]> 
+<[0 digit spaceQ:^.X] ([0 '-' !spaceQ !spaceH:^.X])? [0 digit !spaceQ] [0 '-' !spaceQ !spaceH:^.X] [0 digit:CD++ hyphenated +++ H]> 
+<<[d1|d2:DE++ +++ time timeRB H] ["\:"] [d2]> ['pm|am':^.C]?> 
+<[preNumC:^.X RB] [0 CD:^.m] [0 CD !spaceQ:^.m]*6 [0 CD !spaceQ:CD++ quant +++ H] [postNumC:^.X]?> !CD 
+<[0 CD:^.m] [0 CD !spaceQ:^.m]*6 [0 CD !spaceQ:CD++ quant +++ H] [postNumC:^.X]> !CD 
+<[0 CD !digitAlpha:^.m] [0 CD !spaceQ !digitAlpha:^.m]*6 [0 CD !spaceQ !digitAlpha:CD++ quant +++ H]> !CD 
+<[preNumC:^.X] ['n|m':CD++ quant]> 
+<[preNumC:^.X RB]? [CD:^.X] ['~':^.X] [CD:CD++ quant +++ H]> 
+<[preNumC:^.X RB] [CD:^.X] ['-':^.X] [CD:CD++ quant +++ H]> 
+[!dot] <[CD !spaceH] [CD !spaceH|spaceQ]* [dot  !spaceH|spaceQ] [CD !spaceH|spaceQ]* [CD !spaceQ:CD++ +++]> [!dot]
+
+<[CD spaceQian !spaceH] [dot !spaceH|spaceQ] ([CD !spaceH|spaceQ] [dot !spaceH|spaceQ])* [CD spaceHou !spaceQ:DE digitDots +++]> 
+
+<[CD:^.m] ["times":RP++ freq RB nN- H]> 
+<[CD:DE++ +++ percent H] ["%"]> 
+<[CD:+++] (["," !spaceH] [CD])* ["," !spaceH] [CD]> 
+<[alpha] ["."] [!spaceQ !spaceH]*9 ["@"] [!spaceQ !spaceH]*3 ["."] ["com|edu|gov|net":DE++ +++ contact H]>
+
+[!caseAb] <[caseAb] [caseAb]*5 [caseAb:NEW NE++ com +++ H] [CM]? [0 comHN:^.Z]> 
+<['cage':DE H] [COLN|CM]? [CD]> 
+<[NE|NNP] ['part_number':H]> 

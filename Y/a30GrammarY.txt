@@ -1,0 +1,60 @@
+a30GrammerY == 
+
+<[OOV] [OOV]* [OOV: +++ H]> 
+
+<[0 NN !xC|l1|OOV:^.M] [0 NN|NNS|nc !vc|VB: NG++ H]> [!N|NG] 
+<[DT:^.Z] [NE:^.M] [N|NG:NP++ det0 H]> [!N] 
+[P] <[NE:^.M] [N|NG:NP++ H]> [!N] 
+[POS] <[A|ac|modJJ|AP|hyphenated:^.M AP]*3 [NN|nc:^.M]*3 [0|NG NN|NNS|NG|nc:NG++ H]>  
+<[haveC:^.Z] [RB:^.R]? [perfect prog:VG++ H]> 
+<[DT:^.Z] [A|AP|hyphenated:^.M]*3 [NNP|NE:NP++ H]> [!N] 
+<[A|AP:^.M] [A|AP:^.M]*3 [NE:H]> 
+<[P !SC:^.Z] [NP !nom:PP++ H]> 
+<[P !SC:^.Z] [NE !nom:PP++ H]> [!N] 
+[BR !P] <[NC|nc !VC|Xs:^.S NP] [VBZ:CL++ SV VO H] [NC|nc !VC:^.O NP]> [BR !CC] 
+<[MD:^.Z] [RB|advP|PP|RP:^.R]? [VC|vc !finite:VG++ modal V+ H]> [!V] 
+<[MD:^.Z] <[PRP !acc:^.S] [RB|advP|PP|RP:^.R]? [VC|v !Xs:CL++ VG++ modal V+ yesnoQ H]>> 
+[!beC] <[advP !A|P:^.R] [VC:VG++ pred H]>  
+<[advP|RB:^.R] [AC !nc:AP++ pred H]> [BR|P] 
+<[PRP !acc:^.synS] [finite !hasSubj:CL++ H]> [BR] 
+<[NP wh|whNQ !acc|vi|SC:^.O] [finite SV:CL++ VO H]>  
+[BR] <[@nN !yVC per|org :^.S] [Pred !hassS:CL++ H]> [BR|DT] 
+[!N] <[DT !"that":^.Z] [AC|modJJ|ac|enVG|Ving:^.M]* <[N|NG !VB|VBZ:^.M]* [N nc !DE|timeRB:NP++ det0 H]>> [!NN|NG|NNS] 
+[!N] <[CD !digitAlpha|hyphenated:^.M] [AC|modJJ|ac|enVG|Ving:^.M]* <[N|NG !VB|VBZ:^.M]* [N !DE|timeRB|V|A:NP++ det0 H]>> [!NN|NG] 
+[!caseAb ] <[@nN !yVC !yVC caseAb:^.M] [caseAb:^.m]*6 [caseAb:N+ nnn H]> [!caseAb] 
+[BR|P|VC] <[NC:^.possM] [POS:^.X] ["s":^.X] [enVG|ingVG:^.M]? [A|modJJ|enVG|ingVG:^.M]*  <[N|NG:^.M]* [NC:NP++ MN H]>> [BR|RB|MD|VC] 
+<[VBZ:^.CN] [CC:^.X] [VBZ:CN H]> 
+<[yourC:^.possM] [A|modJJ:^.M]* <[N|NG:^.M]* [N !yVC|P:NP++ N+ det0 H]>> [!N|NG] 
+
+[JS] <[NNS !vc:^.S NP] [V !Xs !NN:CL++ H]> [JM] 
+<[P:^.Z P+ RB- buyuC- advX-] [@nN !yVC:PP++ H]> [BR] 
+<[DT:^.Z] [@nN !yVC|NP|VC|pureDT:NP++ det0 N+ vtoV- H]> [BR|Pred|VG|VP|ac|MD|P|PP|timeRB] 
+[BR] <[PRP !acc:^.S] [VB !xC !NN !hasSubj:CL++ V+ SV nN- pres H]> 
+<[linkV:VP++ HC H] [A|AC|ac !Ved|Ven:^.C AP]> [BR] 
+<[linkV:VP++ HC H] [AP|ac:^.C]> [!N|A] 
+<["its":CL++ VP VG sv linkV HC H 'it_is'] [AP|ac:^.C]>  
+
+[BR] <[OOV|NNP:^.synS NP] [Pred !hasSubj !xC:CL++ H]> [!CC] 
+<[V|VG|vc !dative:VP++ VO H] [PRP acc:^.O NP]> [!wh] 
+<[P:^.Z P+ RB- buyuC- advX-] [PRP !nom|poss:PP++ H]> [BR|RB] 
+<[P !SC:^.Z P+ RB- buyuC- advX-] [NP|NG|N|nc !xC:PP++ H]> [BR|RB|finite|MD !"'s"] 
+[BR] <[nc plu:^.S NP] [0 VB vc:CL++ SV H]> [BR|PP|RB|P] 
+[!P|NC] <[PRP !acc !"it|he|she|which|what":^.synS] [VC !beC|xC|hassS|Ven|Ving|VBZ:CL++ H]>  
+[P SC !NC] <[PRP !acc !"it|he|she|which|what":^.synS] [VC !beC|xC|hassS|Ven|Ving|VBZ:CL++ H]>  
+[!P|NC] <[PRP !acc:^.O] [VC passive:CL++ VO H]>  
+<[PRP nom:^.synS] [VC !beC:CL++ finite H]>  
+[BR|VC|P] <[relatives:^.equivM] [NNP|NE:H]> [!NNP] 
+<[linkV !NG|NP|Punc:VP++ HC H] [AC|ac !xC|vtt !RB:^.C AP]>  
+<[linkV !NG|NP:VP++ HC H] [AC|ac vtt hasC !xC !RB:^.C AP]> 
+<[advX rightB:^.R] [0 A|ac:AP++ H]> 
+<[yVC !vi|vS:VP++ VO H] [nc|N !yVC|timeRB:^.O]> [BR] 
+<[beC !hasObj|Punc:VP++ H] [N|N0||NG|nc !A|timeRB:^.O NP]> [BR !wh] 
+<[VB !AP|P|NP|xC|NN:VP++ H] [PRP !nom:^.O]>  
+<[VB !AP|P|NP|NN:VP++ H] [NP !timeRB|A:^.O]> [BR !UH] 
+<[beC !AP|P|NP:VP++ H] [RB !P:^.R] [N|NP !timeRB|A:^.O]> [BR !UH] 
+<[CD  !digitAlpha|hyphenated:^.m] [timeUnit:DE++ dur H]> 
+
+<[ly ac:^.veryR] [A|ac:AP++ H]> 
+<[per0 caseAb:NEW NE++ NNP+ per H]> [!caseAb] 
+<[pureDT] [Ved:^.M] [N:NP++ H]> [!N] 
+

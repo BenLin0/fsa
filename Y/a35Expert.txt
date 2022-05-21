@@ -1,0 +1,33 @@
+a35Expert ==
+
+<["since|before|after":^.Z P SC-] [nN time:PP++ timeRB H]> [BR] 
+<[linkV finite:VP++ HC H] [AC|ac !vVing:^.C AP]> 
+<["at":^.Z] [time:RP++ timeRB NP-  H]> [!N|NG] 
+[BR] <["do|does|did":^.Z] [NP per|org !acc:NP++ H]> [BR] 
+[BR] <["do|does":^.Z] [NP !acc:^.S] [VB:CL++ pres H]>  
+[BR] <["did":^.Z] [NP !acc:^.S] [VB:CL++ past H]>  
+[BR] <[beC finite:CL++ inverted H] [PRP !acc:^.S]> [!Ved|Ven] 
+[yVC|BR] <[PP:^.CN] [CC:^.Z] [PP:H]> [BR|NP] 
+[V|VG|BR] <["what":^.o] [CL !hasO !vi:^.O wh whatQ deThing H]> 
+<[finite:H] ^V[Ving:^0.mannerR] [^V.Z 'by']> 
+[N|nc] <['be':VP++ H] [NP !nom:^.O]> [!P|PP] 
+<["less|more|fewer":^.Z] [NC|n:NP++ comparative H]> ["than"] 
+<["has|have":^.Z] [infinitive:VG++ infinitive- finite model H]> 
+<["had":^.Z] [infinitive:VG++ infinitive- finite past H]> 
+<[P:^.Z] ["there|here|home":PP++ H]> 
+<[DE unit FULLSTRING '-of':^.M] [0 PRP:NP++ det0 H]>  
+<[DE unit FULLSTRING '-of':^.M] [@NC:NP++ det0 H]> [!N]  
+<[NP|NG:^.CN NG] ["and|or"] [NP|NG:NG++ N+ H]> [BR|infinitive] 
+<^N[NP timeUnit:timeUnit- ] [^N.Z "the"]> 
+[BR] <[NP:^.CN NG] [CM] ([NP:^.CN NG] [CM])* ["and|or"] [NP:NG++ N+ H]> 
+<[NP:^.CN NG] [CM] ([NP:^.CN NG] [CM])* ["and|or"] [NP:NG++ N+ H]> [BR] 
+<["neither|either":^.X] [@nN %F@FeatureCore:^.CN NG] ["or|nor":^.X] [@nN %F:NG++ N+ H]> [!N] 
+<[NP|NG|N !PRP:^.M] ["'s"|"'":^.X] [@NC:NP++ H]> 
+<['give':VP++ NEW perF die +++ H] ["life|lives":^.o]> 
+<<[0 "for":^.Z X] [per:^^.S PP++ H]> [RC:^.R]? [infinitive !passive:H]>  
+<<[0 "for":^.Z X] [per:^^.O PP++ H]> [RC:^.R]? [infinitive passive:H]>  
+[vc|VB|finite] <[0 Ven|Ved:^.M] [0 N|nc:NP++ H]> [!N|nc|NG] 
+<[NP:H] [PP 'of-':^.M]> 
+[BR|beC|MD|P] <[NP:H] [PP:^.M]> [BR] 
+<['it'] [beC|'seem':NEW RP++ oral xC rightB cliche X sRB +++ H] [0 "like"]> 
+<['it'] [beC|'seem':NEW RP++ oral xC rightB cliche sRB neg +++ H] ["not|never|rarely|hardly":^.z] [0 "like"]> 

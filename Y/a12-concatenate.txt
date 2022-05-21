@@ -1,0 +1,12 @@
+a12-concatenate ==
+
+<[0 digit spaceQian] ([0 alpha !spaceQ|spaceH] [0 digit !spaceQ|spaceH])? [0 alpha !spaceQ|spaceH:+++ NEW digitAlpha H] [0 spaceHou digit]> 
+
+<[digit|code|digitAlpha:CD+ hasCN string2 +++ H] [CM|JM]? ([digit|code|digitAlpha] [CM|JM])*5 [CM|JM]? [code|digitAlpha] [CM|JM]? [digit|code|digitAlpha] [CM|JM]? [digit|code|digitAlpha]>
+
+[BR] <[l1:code +++ H] [0 !spaceQ digit]> [BR] 
+
+<[0 alpha] [0 DDSH !spaceQ|spaceH:^.x] [0 alpha:+++ hyphenated H]> 
+
+<[CD] [SYM] ['pe':NG++ H] [SYM] [CD]>
+<['pe':NG++ H] [SYM] [CD]>

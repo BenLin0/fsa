@@ -1,0 +1,54 @@
+@state == (province|l2 !NN)  
+
+a5ngramMainY ==
+
+<([OPAR]? ["1"] [DDSH|CPAR]?) ? [OPAR] [d3] [CPAR] [d3] [DDSH] [d4:NEW DE++ contact phone +++ H]>
+<([OPAR]? ["1"] [DDSH|CPAR]?) ? [d3] [DDSH]? [d3] [DDSH] [d4:NEW DE++ contact phone +++ H]>
+
+<[DE contact:+++ H] [digit|Punc]*6 [digit]>   
+<(["+"]? [digit])? [OPAR]? [d3] [CPAR]? [d3] ['-'] [d4:DE++ contact phone H]> 
+
+<["n":H] ["/"] ["a":NEW acronym cliche +++ H]> 
+
+[BR|P|V] <[NNP]? [NNP:NE++ com H] [CM] ["inc"] [dot]?> 
+
+<["and":H] ["/"] ["or":^.Z]> 
+
+<[month] ["."]? [d2|d1:DE++ date +++ H] ["/|-|,"] [d4|d2:year]> 
+<[month:DE++ date +++ H]  ["/|-|,"]? [d4 '1-|2-']> 
+<[d2] [CM|DDSH]? [month:DE++ date +++ H]  ["/|-|,"]? [d4 '1-|2-']> 
+
+<[d2|ordinal '1-|2-|3-':DE++ date +++ H] [month] [dot]? ["/|-|,"]? [d4 '1-|2-':year]> 
+<[d2|ordinal '1-|2-|3-':DE++ date +++ H] [month]> [!d2] 
+<[month] ["."]? ["/|-|,"]? [d2|ordinal '1-|2-|3-':DE++ date +++ H] ["/|-|,"]? [d4 '1-|2-':year]> 
+
+<[d4 '1-|2-':year] ["/|-"] [d2 '0-|1-':month] ["/|-"]? [d2 '0-|1-|2-|3-':DE++ date +++ H]> 
+<[d2|d1:month] ["/|-"]? [d2|d1:DE++ date +++ H] ["/|-"]  [d4 '1-|2-':year]> 
+<[d4 '1-|2-':year] ["/|-"] [d4 '1-|2-':DE dur date year H]>  
+
+<[digit] [alpha] ["."]? [alpha]*3 [road:NEW road DE++ address +++ H]> 
+
+<[NNP|NE:NEW city DE++ address H] [CM] [l2] [d4plus]> 
+
+<[city:NEW city DE++ address +++ H] [CM]? [province:^.Z] [0 d4plus] ([DDSH] [d4])?> 
+
+<[province:NEW province DE++ address +++ H] [0 d4plus] ([DDSH] [d4])?> 
+
+[BR] <[alpha OOV|NNP]? [alpha OOV|NNP:NEW city DE++ address +++ H] [CM]? [province] [0 d4plus] ([DDSH] [d4])?> 
+
+<[digit] [CM]? ["rue":NEW DE++ road address H] [alpha]*3> [BR] 
+
+<[digit] [alpha|RB] [CD|ordinal]? [alpha]? [road:NEW road DE++ address H]> 
+
+<[city NE:NEW city DE++ address +++ H] [CM]? [l2] [d4plus] (['-'] [d4])? ['usa|us|u.s.a.']?> 
+
+<[l2 !spaceH] [d4plus] [CM|JM]? [d4plus] [alpha]? [alpha:NEW DE++ address loc H] [CM|DDSH|JM]? ['france']> 
+
+<[NNP:NEW DE++ address +++ loc H] [CM]? [@state] [CM]? [NE country]> 
+
+<([NNP] [CM]?)? [@state:NEW province DE++ address +++ H] [d4plus] (['-'] [d4])? [JM]? ['usa|us|u.s.a.']>  
+
+<[NE city: NEW city DE++ address +++ H] [CM|JM]? [l1] [dot] [l1] [dot]? [d4plus] (['-'] [d4])?> 
+
+<["p"] [dot]? ["o"] [dot]? ["box":NEW DE++ address +++ H] [digit]> 
+

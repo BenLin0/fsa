@@ -1,0 +1,14 @@
+a999intent ==
+
+[wh]++['stock':Intent='SelectStock']
+['stock|pe|pb|ps|profit'] [selectStockW:Intent='SelectStock']
+['stock':Intent='SelectStock']++['with']
+
+win=12 ['buy|choose|choice|pick|find|search|purchase'] ['PE|PB|PS|company':Intent='SelectStock'] 
+win=16 ['buy|choose|choice|pick|purchase|order|find|search'] ['stock':Intent='SelectStock'] 
+
+win=25 ['price|pe|pb|ps|profit'] ['stock':Intent='SelectStock'] 
+
+win=10 [selectStockW] [selectStockW:Intent='SelectStock']
+
+win=10 ['price|pe|pb|ps|profit'] [CD|&量变:Intent='SelectStock']

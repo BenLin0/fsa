@@ -1,0 +1,20 @@
+a100GrammarY ==
+
+<[CL:H] [SC hascCL:^.rCL]> 
+[BR] <[SC hasxCL:^.rCL] [CM]? [CL|finite:H] > 
+<[NP:^.synS NP] [sRB:^.X]? [Pred !hasSubj:CL++ SV H]> 
+<[vS !hasO|hasoCL:H] [CL !rCL:^.oCL]>  
+<[NP:H] <['they|we|you|i|he|she|it':^.S] [Pred|VB|VG:^^.mCL CL++ SV H]>> [BR] 
+<[yVC:H] [PP:^.R]> [BR] 
+<[vVB:VP++ vVBSat HC H] [VP infinitive:^.C]> 
+[BR] <[Ving:^.Subj] [yVC VC !hasSubj:CL++ SV Pred H]> [BR] 
+<[CL] [SC hasxCL:^.rCL]> 
+<[VTH|VSS !hasO|hasoCL:H] [CL !rCL:^.oCL]> 
+
+<[CL hasObj:H] [infinitive:^.purposeR]> 
+[BR] <[0 CC|EX|sRB:^.Z] [yVC:H]> [BR] 
+<[NP !PRP|per:H] [CL hasSubj FULLSTRING 'which-|that-':^.mCL]> [BR|finite] 
+<[NP !PRP|per:H] <[CM] [CL hasSubj FULLSTRING 'which-|that-':^^.mCL] [CM]>>  
+<[rCL hasxCL:^.rCL] [CM]? [CL|yVC:H]> [BR] 
+<[idiomPP '-which':^.Z clR] [CL:mCL H]> 
+win=7 <[V vt:VP++ H] [@NC:^.O]> [BR|PP|RC|A|AP] 

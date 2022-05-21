@@ -1,0 +1,29 @@
+a28GrammarY ==
+
+<[N] [N:NG++ H]> [P] 
+
+<[city:DE++ address H] [CM]? [province:^.Z] [0 d4plus] ([DDSH] [d4])?> 
+<[DE address:H] [CM]? [DE address:^.Z]> 
+
+[BR] <[0 NN !xC:^.CN] [CC:^.Z] [0 NN !xC:NG++ H]> 
+<[0 NN !xC|l1|OOV:^.M] [0 N !vc|VB|DE|NE|digitAlpha:NG++ H]> [!N|NG|AC] 
+<[VG infinitive:^.CN] ([CM] [VB|infinitive:^.CN])*2 [CM]? [CC] [VB|infinitive:VG++ infinitive H]> 
+
+<[alpha !caseab:NEW NE++ com H] [alpha !caseab]*2  [CM]? [comHN] [dot]?>
+<[NNP:NE++ com H] [comHN:^.Z]> 
+<[haveC:^.Z] [RB:^.R]? [Ved:VG++ perfect H]> 
+<[DT:^.Z] [A:^.M]? [NN unit:^.M] ["of"] [NN|NNS:NP++ det0 H]> 
+<[VBZ !vi|dative:VP++ H] [NP !xC|wh:^.O]> [NP|BR] 
+<[DT:^.Z] [A NN !ac:NP++ det0 N+ nN H]> [P|VC|BR] 
+[!DT|yourC] <[0 VB vc:VP++ H] [nc Xs:^.O NP]> [BR] 
+<[!Punc] [DDSH !spaceQ|spaceH:^.x] [measure:AP++ hyphenated +++ H]> 
+<[0 !Punc] [DDSH !spaceQ|spaceH:^.x] [0 !Punc !measure:+++ hyphenated H]> 
+
+<[MD !caseAb:^.Z] [MD:^.Z]? [RC:^.R]? [VB:VG++ modal V+ nN- H]> 
+<[vtt !pureDT|P:H] [@nN !pureDT:^.C]> [!CC] 
+<[vtt P !pureDT:^.Z] [@nN !pureDT:PP++ H]> [!CC] 
+<[PRP poss:^.M] [NN|nc !VB:NP++ N+ H]> 
+<[@nN %F@FeatureCore:^.CN NG] [CC] [@nN !NP %F:NG++ N+ H]> [!N] 
+<[VB|VG|Ving|finite !nc:H] [superl RB|speed:^.R]> [BR] 
+<[RB ly:^.R] [VB:VG++ V+ H]> 
+<[DE address:H] [CM|JM]? [DE address:^.M]> 

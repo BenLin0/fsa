@@ -1,0 +1,30 @@
+a35Grammar ==
+
+<[DT:^.Z] [A:^.M]* [NG|N:NP++ det0 H]> [!N|NG]  
+
+[BR|VTH|VSS|"that"] <[NP:^.synS] [finite:CL++ H]> 
+<[yVC !hasObj|vi|passive|VSS:VP++ H] [NC|nc:^.O]> [!finite] 
+<[DT:^.Z] [NE|NNP:^.M] [NG|N:NP++ det0 H]> [BR] 
+<[0 N:^.M] [NG:H]> 
+<[OOV] [OOV]* [OOV: NNP+ +++ H]> 
+<[NP|NE|NNP:^.possM] [POS:^.Z] [N|NG|NP:NP++ H]> 
+<[CL !hasO|VSS:H] [NP:^.O]> 
+<[P:^.Z] [VB NN:^.M VB-] [NN !VB:PP++ H]> 
+<[DT:^.Z X] [NNS|NN|NG:NP++ det0 N+ H]> [BR|P|DT|V|RC|MD|finite|PRP] 
+[NNS VBZ:VBZ+ NNS- nN-] [PP]? [CC] [NN|PRP !plu|acc]? [VBZ !NNS] 
+<[send|dative VG|V:VP++ H] [NP:^.O] ^PP[PP:^.toC] [^PP.Z 'to']> 
+<[V|VG vt:VP++ H] [NP:^.O]> [!POS]  
+<[P !SC:^.Z] [NP|NE !nom:PP++ H]> [BR] 
+<[yVC !vi|vS|dative|VNPPPfor|hasObj|hasC|vNPVB:VP++ H] [@NC !PP|wh|RB|VTH:^.O NP]> [!"and|or|that" !POS|P|infinitive|wh|Ving] 
+<[dative:VG++ H] [PRP|NP|NNP:^.toC]> [NG|NP|N !timeUnit]
+<[VNPPPfor:VG++ H] [PRP|NP|NNP !wh:^.forC]> [NG|NP|N !timeUnit]
+
+<[vtt !P|hasC|pureDT:H] [@nN:^.C]> 
+<[N|NG|NP per:NP++ H] [CM:^.Z] [NNP:^.equivM]> [BR] 
+[!caseAb] <[NE|OOV caseAb:NG++] [CC] [NE|OOV caseAb:^.CN]> [!caseAb] 
+[!VPP] <[P !V:^.Z] [infinitive:H]> 
+
+<[VPPdir] [dir:^.R]> 
+<^N[NP timeUnit:timeUnit- ] [^N.Z "the"]> 
+<[NC:H] <[Ving !VG:^^.mVP VG++ H] [PP|RP:^.R]>> [BR] 
+<[NC:H] [Ving !PP|VG:^.mVP VG]> [BR] 

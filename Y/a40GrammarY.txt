@@ -1,0 +1,94 @@
+@much_w == ('much|way|far|a_lot')
+
+a40GrammarY ==
+
+<[VG|VP:H] [PP:^.R]> 
+<[A|AP:AP++ H] [PP:^.R]> [BR]  
+[NP] <[VG:H] [CC] [VG:^.CN]> [BR] 
+<[P:^.Z P+ RB- buyuC- advX-] [NP:PP++ H]> 
+[BR|wh|VTH] <[NP !plu:^.S] [V Xs:CL++ V+ VBZ N- H]> [BR] 
+<[DT:^.Z X] [NNS:NP++ det0 N+ H]>  
+[NNS VBZ:VBZ+ NNS- nN-] [PP]? [CC] [NN|PRP !plu|acc]? [VBZ !NNS] 
+[P SC] <[@nN !yVC|Xs:^.S] [VBZ !CL|hasSubj:CL++ H]> 
+<[V vt:VP++ H] [NP:^.O]> 
+<[VNG:VP++ H] [Ving:^.oVP]> [BR] 
+[V|vt] <[PP:^.CN] [CC:^.Z] [PP:H]> [BR] 
+<[vNPVB|VNPTO !hasO:VP++ H] [NP:^.O] [VP:^.oVP]>  
+
+<[NP animal:NP++ H] [CM] [NP animal:^.equivM] [CM]> 
+<[yVC !vtoV|VNPTO:VG++ H] [infinitive:^.purposeR]> [BR] 
+[BR] <[advP:^.R] [VC:VG++ pred H]> [BR] 
+<[advP|RB:^.R] [AC:AP++ pred H]> [BR] 
+<[MD:^.Z] [RB|advP|PP|RP:^.R]? [vc !nc|N:VG++ modal V+ H]> [!V] 
+<[A|ac|modJJ !AP:^.M AP] [0|NG NN|NNS|NG|nc:NG++ MN H]> [BR|MD|VC|AC] 
+<[PRP !"me|her|him|her|us|them":^.synS] [Pred !hasSubj:CL++ SV H]> [BR|DT] 
+[BR] <[@nN !yVC perOrg:^.synS] [Pred !hasSubj|PP:CL++ SV H]> [BR|DT] 
+[BR] <[@nN !yVC perOrg:^.O] [Pred passive !hasObj|participle:CL++ H]> [BR|DT] 
+<[NP:H] [passive participle !hasObj:^.mVP]> 
+<[DT !SC|wh:^.M] [AC|modJJ|ac|enVG|Ving:^.M]* <[N|NG !VB|VBZ:^.M]* [0|NG NN|NNS|NG|nc !xC|timeRB|VB:NP++ det0 H]>> [!N|NG] 
+[BR|vS] <[@nN !yVC:^.synS NP] [RB:^.R]? [yVC !nonPred|SV:CL++ SV VP H]> [BR] 
+<[linkV !hasObj|hasC:VP++ VO++ H] [NP !wh|VTH:^.O]> [!PRP|wh|P|Ving] 
+<[NP !"that":H] <["they|we|you|i|he|she|it":^.S] [Pred|VB|VG:^^.mCL CL++ SV H]>> [BR !"that"] 
+[BR|P|VC] <[@NC:^.possM] [POS:^.X] ["s":^.X] [enVG|ingVG:^.M]? [A|modJJ|enVG|ingVG:^.M]*  <[N|NG:^.M]* [N|NG:NP++ MN H]>> [BR|RB|MD|VC] 
+<[VC|vc !vi|vS|xC|hasO|vNPVB:VP++ H] [@nN !yVC !DE|xC|nom|timeRB:^.O NP]> [BR|VC|RP|RB] 
+<[VC|vc vNPVB !vi|vS|xC|hasO:VP++ H] [@nN !yVC !DE|xC|nom|timeRB:^.O NP]> [BR|VC|RP|RB !VB] 
+[BR] <[OOV:^.S NP] [Pred !hasSubj:CL++ SV H]> [!CC] 
+<[yourC:^.M] [A|modJJ:^.M]* <[N|NG:^.M]* [@nN !yVC !xC:NP++ N+ det0 H]>> [!N|NG] 
+[BR] <[V|VG|vc !vi|vS:VP++ VO++ V+ H] [NP !nom|PP:^.O]> [BR|RB] 
+<[linkV:VP++ HC H] [AP:^.C]> [!P]
+[BR] <[NNS !vc:^.S NP] [V !VBZ:CL++ VP SV VO H]> [JM] 
+<[P:^.Z P+ RB- buyuC- advX-] [@nN !yVC:PP++ H]> [BR !wh] 
+<[DT !SC !"that":^.Z] [@nN !yVC|PRP:NP++ det0 H]> [BR|Pred|VG|ac|MD|P|PP] 
+[BR|vS|RC|PP] <[NP:^.synS] [finite !hasSubj:CL++ H]> [BR] 
+[BR|vS|RC|PP] <[NP:^.synS] [finite !hasSubj VP:CL++ H]> 
+<[NP !xC:^.O NP] [Pred passive !hassS:CL++ VO H]> 
+<[yVC] [PP:^.R]> [BR] 
+<[linkV !HC|VP:VP++ HC H] [A|AC|ac:^.C]> [BR !P] 
+<[linkV !HC|VP:VP++ HC H] [AP|ac:^.C]> [!P] 
+<[title:^.Z] [dot !spaceQ:^.X]? [@nN !yVC:NP++ MN H]> [!OOV|caseAb] 
+<[inf|ingVG VNPTO !vi|passive|hasO:VP++ VO H] [RB !P:^.R]? [NP !"that":^.O]> [!"of|in"|infinitive] 
+<[inf|ingVG !vi|passive|hasO|VNPTO:VP++ VO H] [RB !P:^.R]? [NP !"that":^.O]> [!"of|in"] 
+<[inf|ingVG !vi|passive|hasO:VP++ VO H] [RB:^.R]? [NP "that":^.O]> [BR] 
+[BR] <[NNS:^.synS NP] [yVC|VC !nonPred|SV|XC|RB|NP:CL++ SV VP H]> [BR] 
+<[V|VG|vc !vNPVB:VP++ VO H] [PRP acc:^.O NP]> 
+<[V|VG|vc vNPVB:VP++ VO H] [PRP acc:^.O NP]> [!VB|wh] 
+<[P !SC:^.Z P+ RB- buyuC- advX-] [@nN !yVC|nom|pureDT|DT:PP++ H]> [!wh]
+<[P:^.Z] [NN|NNS|NG|NP !xC|VB:PP++ H]> [BR|RB !wh] 
+<[P !SC:^.Z P+ RB- buyuC- advX-] [Ving:PP++ VP- H]> [BR] 
+[BR] <[VP|CL:H] [RB|RP !P|SC|butW|wh:^.R]> [!VC|finite] 
+[BR] <[VP|CL:H] [RB|RP SC !P:^.R]> [BR] 
+[BR] <[nc plu:^.S NP] [0 VB vc:CL++ SV H]> [BR|PP|RB|P] 
+[!P] <[PRP !acc:^.synS] [VC !nonPred:CL++ SV H]> 
+[NC !P] <[wh !acc:^.synS] [VC !nonPred:CL++ SV H] [@nN !yVC|RB:^.O]> 
+[!P] <[PRP !acc:^.O] [VC passive:CL++ VO H]> 
+<[MD:^.Z] <[PRP !acc:^.S] [RB|advP|PP|RP:^.R]? [VC|v !Xs:CL++ VG++ SV modal V+ H]>> 
+<[vVB !saturated:VP++ vVBSat] [infinitive !vS:^.oVP V+ VP]> [BR] 
+<[vVB !saturated:VP++ vVBSat] [infinitive vS:^.oVP V+ VP]> [BR !wh] 
+[BR] <[@nN:^.O NP] [passive !infinitive !hasObj:CL++ VO H]> 
+<[linkV !NG|NP !hasC|hasObj:VP++ HC H] [AC|ac !vVing:^.C AP]> [!P]
+<[linkV !NG|NP !hasC|hasObj:VP++ HC H] [AC|ac vVing:^.C AP]> [!P|Ving]
+<[NP:H] [PP FULLSTRING "over-":^.M]> 
+<[VG|VP|CL|Ving|Ved|Ven:VG++ H] [PP:^.R]> [!PP]
+<[NP !PRP:H] [Ving|ingVG VP:^.mCL]> [BR|VC] 
+<[yVC !vi|hasObj|hasC|vS:VP++ H] [NP|proNN !nom|timeRB|wh:^.O]> [BR|PP|RC] 
+<[yVC !vi|hasObj|hasC:VP++ H] [@nN !nom|timeRB|wh:^.O]> [BR|Ving !VG] 
+<[yVC !vi|hasObj|hasC:VP++ H] [@nN wh !nom|timeRB:^.O]> [BR !CL] 
+<[yVC !vi|hasObj|hasC:VP++ H] [@nN !nom|timeRB:^.O]> [JM2 RB] 
+[!NC|vS] <[NP wh|whNQ PRP !acc|vi:^.O] [finite SV:CL++ VO H]>  
+<[P !SC:^.Z] [NP|NE !nom:PP++ H]> [!wh] 
+<[@VC !beC:H] [timeRB:^.R]>  
+<[linkV !VO !hasObj|hasC:VP++ VO++ H] [0 nc !VTH:^.O]> [!PRP] 
+<[yVC vtoV:VP++ H] [infinitive vS:^.oVP]> [BR !wh] 
+<[yVC vtoV:VP++ H] [infinitive !vS:^.oVP]> [BR] 
+<[P !SC:^.Z] [0 N|nc:PP++ H]> [BR|yVC|PP] 
+[BR] <[@NC:NP H] [infinitive:^.mCL]> [finite|MD|BR] 
+<[NP !PRP|"that":H] [CL finite hasSubj:^.mCL]> [BR|finite|MD] 
+<[V vt !P:VP++ H] [@NC:^.O NP]> [BR] 
+<[yVC !vi|hasO:VP++ H] [PRP !nom:^.O]> [0 xC JM2]  
+<[vtoV !NP:VP++ H] [infinitive !purpose !vS:^.oVP]> [BR] 
+<[vtoV !NP:VP++ H] [infinitive !purpose vS:^.oVP]> [BR !wh] 
+[NP|NG] <[P:^.Z] [NP|NG:PP++ H]> [VP !hassS] 
+<[NP !PRP:H] [CM] [AP:^.M] [CM]> 
+<[NP:H] [CM] [PP:^.M] [CM]> [BR|PP|finite|V] 
+<[NP:H] [CM] [PP:^.M]> [BR|finite|MD !CM] 
+<[CL vt !vS|xC:VP++ H] [NP:^.O]> [finite|BR] 

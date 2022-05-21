@@ -1,0 +1,8 @@
+a150GrammarY ==
+
+<[vS !hasO|hasoCL:H] [CL !rCL:^.oCL]>  
+JS <[!BR:CL++ Q++ H] ['?':^.X]> 
+<[PP:^.R] [CM:^.X] [VC:VG++ H]> 
+<[yVC:H] [RC|PP:^.R]> [BR] 
+<[@nN !yVC:^.synS NP] [yVC !nonPred|SV:CL++ finite VP H]> [BR] 
+

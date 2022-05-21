@@ -1,0 +1,40 @@
+a60ExpertY ==
+
+<["way" det0] [CL:^.mCL]> 
+<[VWHSS:VP++ H] [RB|RP hasxCL:^.oCL]> 
+<['about|on|for':^.Z] ['whether':PP++ H]>  
+<["after|before":^.Z] [Ving VP:timeRB H]> 
+<[finite:H] ^V[Ving:^.mannerR] [^V.Z 'by']> 
+<[DT:^.X NP-] [!Punc:^.M] [的:^.X] [N|N0|n:NP++ N+ det0 H]> [BR|VC|P|PP|EX|UH] 
+<['help|make|let' !vVBSat:VP++ vVBSat] [V|v|V0:^.oVP V+ VP]> [BR|RB|PP] 
+[BR] <[NC unit:^.M] ["of":^.X] [NC:NP++ MN H]>  
+<[NC !xC|PRP|proNN|unit:H] ["of":^.Z] [NC:^^.M PP++ H]> [BR|VC|P] 
+
+<[NP per] ^V[finite:^.mCL] [^V.Arg "who|whom|that"] [CM]?> [BR|finite|v|yVC]  
+<[NP:H] <["who|which|that":^.synS] [@VC:^^.mCL CL++ H]>> [BR|@VC] 
+<[NP:H] <[CM] ["who|which":^.synS] [@VC:^^.mCL CL++ H] [CM]?>> [BR|@VC] 
+<["however":RP++ concession H] [CL hasSubj:^.xCL]> [BR] 
+<[@VC VTH|VSS:VP++ H] ["that":^.X] [CL:^.oCL]> 
+
+<["after|before|since":RP++ SC+ timeRB H] [Ving:^.xCL]> [BR] 
+<^PP[PP:PP++ ^CL.S H] [^PP.Z "to"] ^CL[CL:^PP.mCL] [^CL.synS "who|which"]> 
+<["asks":H] ["if":^.oCL]> 
+<[N|NP|NG:H] [0 "that"] [yVC !CL:^.M]> [BR] 
+<[N|NP|NG:H] [0 "that"] [yVC CL:^.mCL]> [BR] 
+[BR] <[0 wh:^.R] [0 beC:CL++ H] [CL:^.xCL]> [BR] 
+<["who"] [CL:^.mCL]> [BR] 
+<[0 "that":NEW xC SC] [CL !vS:^.xCL]> [BR] 
+<[0 "that":NEW xC SC] [CL vS:^.xCL]> [BR !SC] 
+<[VTH:H] <[0 "that":^.Z X] [CL:^^.oCL H]>> [BR] 
+<[A|AC|ac FULLSTRING "as-"] [PP FULLSTRING "as-":^.R]> 
+<[weiV:H] ^PP[PP:^.C] [^PP.Z "for"]> 
+
+[beC] <[@NC] [infinitive !hassS:^.Z]> [!NC] 
+<[@nN] [CM:^.X] [Ved !hassS:^.mVP] [CM:^.X]> [!"and|or"] 
+<[cause] ["why" hasCL:^.mCL]> 
+<[CL] [hasxCL 'if':^.ifR]> [BR]
+<[CL] [hasxCL !'if-':^.rCL]> [BR] 
+[BR] <[PP:^.S] [0 beC:CL H] ["where|when" hasxCL:^.oCL]> [BR] 
+<[FULLSTRING '-able|-unable' beC:^.Z] [infinitive:VG++ finite infinitive- H]> 
+<[vS !hasoCL] [0 "about":^.X] ["whether":^.oCL]> [BR] 
+<[0 "why":^.Z] ['do':^.X] ['not':^.Z]? [CL:CL++ whyQ H]>  

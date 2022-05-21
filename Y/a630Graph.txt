@@ -1,0 +1,3 @@
+a630Graph ==
+
+[VC] [^.Obj:^2.O2] [^.CN !hasObj !vi] 

@@ -1,0 +1,27 @@
+a90GrammarY == 
+
+<[NP:^.synS NP] [sRB:^.X]? [Pred !hasSubj:CL++ H]> 
+win=5 <[vS !xC:H] [CL !rCL:^.oCL]>  
+<[yVC|V:H] [CL rCL:^.rCL]>  
+<[NP:H] <['they|we|you|i|he|she|it':^.S] [Pred|VB|VG:^^.mCL CL++ SV H]>> [BR] 
+[BR] <[VC|v !vi|hasO|hasoVP:VP++ VO++ V+ H] [NP !nom:^.O]> [BR|RB] 
+<[VP|CL:H] [RB|RP !hasxCL:^.R]> [!VC] 
+<[VP|CL:H] [RB|RP hasxCL:^.rCL]> [!VC] 
+<[yVC:H] [PP:^.R]> [BR] 
+<[inf|ingVG !vi|passive|hasO:VP++ VO H] [RB:^.R]? [NP:^.O]> 
+
+<[vVB:VP++ vVBSat HC H] [VP infinitive:^.C]> 
+[BR] <[NP !advP|PP:^.S NP] [0 ed:CL++ SV++ Pred past H]> [BR] 
+<[VG|VP|CL|Ving|Ved|Ven:VG++ H] [PP:^.R]> 
+[BR] <[Ving !hasSubj:^.Subj] [yVC finite !hasSubj:CL++ H]> [BR] 
+<[V|VG VWHSS !hasObj:VP++ H] [RC:^.R]? [CL !rCL:^.oCL]> 
+[BR] <[PP|RC:^.clR] [CM]? [CL:H]> 
+<[VNPPPto !'provide' !passive:H] [NP per:^.recipientC] [NP !VBG|A|pro|RC:^.O]>
+<[VNPPPto !'provide' !passive:H] [NP per:^.recipientC] [proNN !"that|this":^.O]>
+<[yVC:V+ H] [RC|PP:^.R]>  
+<[!passive !'make' !vi|termN VG2 !VC|hasO:H] [adv|VBN|"likely"]?　[NP !JS2 !"least|best":^.O]> 
+<[yVC VNPTO hasO:VP++ H] [infinitive:^.C]> [BR] 
+<[NP !PRP|per:H] [CL hasSubj FULLSTRING 'which-|that-':^.mCL]> [BR|finite] 
+<[NP !PRP|per:H] <[CM] [CL hasSubj FULLSTRING 'which-|that-':^^.mCL] [CM]>>  
+<[rCL hasxCL:^.rCL] [CM]? [CL|yVC:H]> [BR] 
+<[CL:H] [CM]? ^CL[CL:^.BUT] [^CL.clR|^CL.Z "but|yet":X]> 

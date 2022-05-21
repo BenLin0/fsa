@@ -1,0 +1,4892 @@
+absent-minded: A ac AitPPforTO behavior hyphenated 
+acid-wash: VB vc clean hyphenated 
+ack-ack: NN nc hyphenated tool 
+ad-lib: A NN VB abstract hyphenated vt 
+add-in: NN nc hyphenated prod tool 
+addle-head: NN nc count hyphenated per 
+african-american: NN nc hyphenated origin per 
+after-shave: NN nc hyphenated prod 
+agent-in-place: NN nc hyphenated job 
+aide-de-camp: NN nc count hyphenated job 
+aide-memoire: NN nc count hyphenated 
+air-drop: VB vc hyphenated moveDown 
+air-dry: A VB vc a chgMeasure hyphenated 
+all-rounder: NN nc count hyphenated per 
+all-weather: A ac ebla hyphenated 
+also-ran: NN nc count hyphenated per 
+ampere-hour: NN nc electricity measureUnit hyphenated
+ampere-minute: NN nc electricity measureUnit hyphenated
+ampere-second: NN nc electricity measureUnit hyphenated quant
+ampere-turn: NN nc unit hyphenated 
+anatoxin-a: NN nc hyphenated nt 
+anti-counterfeit: VB vc causeNotDo hyphenated 
+anti-hero: NN nc count hyphenated 
+anti-semite: NN nc count hyphenated per 
+ape-man: NN nc hyphenated per 
+aqua-lung: NN nc hyphenated tool 
+armor-bearer: NN nc hyphenated per 
+arms-runner: NN nc count hyphenated job 
+ash-bin: NN nc count hyphenated 
+ash-pan: NN nc count hyphenated tool 
+asian-american: NN nc hyphenated per 
+ass-kisser: NN nc hyphenated per 
+auto-changer: NN nc count hyphenated tool 
+auto-da-fe: NN nc count hyphenated 
+auto-mechanic: NN nc hyphenated job 
+baa-lamb: NN nc count hyphenated 
+baby-sit: VB vc enGrow hyphenated 
+baby-walker: NN nc artifact hyphenated 
+bachelor-at-arms: NN nc hyphenated per 
+back-formation: NN nc count hyphenated thinking 
+back-number: NN nc hyphenated per 
+bain-marie: NN nc artifact hyphenated 
+banning-order: NN nc count hyphenated 
+barrow-man: NN nc hyphenated job 
+battle-ax: NN nc hyphenated tool 
+battle-axe: NN nc count hyphenated tool 
+beam-ends: NN nc hyphenated 
+bed-ground: NN nc hyphenated 
+beggar-ticks: NN nc hyphenated plant 
+bell-bottoms: NN nc hyphenated tool 
+belly-flop: NN V0 nc hyphenated whileAway 
+billy-ho: NN nc unit hyphenated 
+black-lead: VB vc vt 
+blockade-runner: NN nc count hyphenated tool 
+bloody-minded: A ac hyphenated troubleW 
+blow-out: NN nc hyphenated nt 
+blow-up: NN nc count hyphenated 
+boat-race: VB vc count hyphenated 
+bobby-socker: NN nc hyphenated per 
+bobby-soxer: NN nc count hyphenated 
+bolt-hole: NN nc count hyphenated 
+boo-boo: NN nc hyphenated 
+booby-trap: NN nc count hyphenated 
+boogie-woogie: NN nc count hyphenated 
+booze-up: NN nc count hyphenated 
+bore-hole: NN nc count hyphenated 
+bottle-feed: VB vc hyphenated metabolize 
+bow-wow: NN nc animal count hyphenated 
+box-office: NN nc count hyphenated 
+brain-teaser: NN nc count hyphenated 
+brain-worker: NN nc hyphenated job 
+bread-bin: NN nc artifact hyphenated 
+break-in: NN nc abstract act count hyphenated nt vac 
+breast-feed: VB vc hyphenated metabolize 
+bric-a-brac: NN NNS nc sgPlu Xs hyphenated plu situation 
+bride-gift: NN nc abstract hyphenated 
+bride-to-be: NN nc hyphenated per 
+broad-mind: A ac hyphenated pt 
+broad-minded: A ac AitPPforTOrs hyphenated pt 
+broken-hearted: A ac ATH hyphenated nt 
+buck-and-wing: NN nc hyphenated 
+bug-hunter: NN nc count hyphenated job 
+build-up: NN deverbal nc VerbNom count hyphenated 
+by-blow: NN nc hyphenated per 
+by-line: NN nc hyphenated 
+by-pass: N0 VB vc artifact hyphenated v
+by-product: NN nc artifact hyphenated vac 
+c-note: NN nc artifact hyphenated 
+caller-out: NN nc hyphenated per 
+caller-up: NN nc hyphenated per 
+car-mechanic: NN nc hyphenated job 
+carry-forward: NN deverbal nc VerbNom hyphenated 
+case-law: NN nc count hyphenated 
+cat-o'-nine-tails: NN nc count hyphenated 
+cat's-paw: NN nc hyphenated per 
+cave-in: NN deverbal nc VerbNom count hyphenated 
+cha-cha-cha: NN nc hyphenated 
+cha-cha: NN V0 hyphenated v
+chain-smoker: NN nc count hyphenated per 
+charge-off: NN deverbal nc VerbNom hyphenated 
+cheap-jack: NN nc hyphenated per 
+chef-d'oeuvre: NN nc artifact count hyphenated 
+cheval-de-frise: NN nc hyphenated thing 
+chin-up: NN nc hyphenated 
+chin-wag: NN nc hyphenated info 
+chit-chat: VB vc communicate hyphenated 
+choo-choo: NN nc hyphenated tool 
+chucker-out: NN nc count hyphenated per 
+chute-the-chute: NN nc hyphenated tool 
+cine-camera: NN nc count hyphenated prod 
+cine-film: NN nc hyphenated prod 
+city-state: NN nc abstract hyphenated natural 
+click-clack: NN nc hyphenated natural 
+clickety-clack: NN nc hyphenated natural 
+clickety-click: NN nc hyphenated natural 
+close-up: NN nc count hyphenated scene 
+co-author: NN nc title hyphenated 
+co-CEO: nc hyphenated title 
+co-chair: NN VB job hyphenated per
+co-chairman: NN nc title hyphenated 
+co-defendant: NN nc hyphenated per 
+co-develop: VB vc hyphenated tWord 
+co-discoverer: NN nc hyphenated per 
+co-exist: VB vc appear hyphenated 
+co-existence: NN nc hyphenated statePhy 
+co-founder: NN nc title hyphenated 
+co-host: NN VB hyphenated job v 
+co-occurrence: NN deverbal nc VerbNom hyphenated statePhy 
+co-op: NN topN3 nc abstract count hyphenated orgHN 
+co-operate: N0 VB vc VPP act hyphenated
+co-operation: NN deverbal nc VerbNom act hyphenated 
+co-operative: A NN ac act hyphenated n 
+co-optation: NN deverbal nc VerbNom hyphenated 
+co-option: NN deverbal nc VerbNom hyphenated 
+co-ordinate: N0 VB vc abstract hyphenated
+co-pilot: NN nc sgPlu hyphenated job
+co-respondent: NN nc count hyphenated job 
+co-star: NN nc VI VPP count hyphenated job 
+cock-a-doodle-doo: NN nc count hyphenated natural 
+cock-a-leekie: NN nc artifact hyphenated 
+coffee-house: NN nc count hyphenated 
+come-on: NN nc count ebla hyphenated 
+concert-goer: NN nc hyphenated per 
+cop-out: NN nc count hyphenated 
+copper-bottom: VB vc vt 
+counselor-at-law: NN nc hyphenated job 
+counter-bid: VB vc communicate hyphenated 
+counter-revolutionist: NN nc hyphenated per 
+country-dance: NN nc hyphenated 
+cousin-german: NN nc hyphenated per 
+cover-up: NN nc count hyphenated thinking 
+crane-fly: NN nc count hyphenated 
+crap-shooter: NN nc hyphenated per 
+crash-dive: NN V0 vc VNPPP VPP count hyphenated
+crash-land: VB vc VI vt 
+cross-classification: NN nc hyphenated 
+cross-division: NN nc hyphenated 
+cross-examination: NN deverbal nc VerbNom hyphenated 
+cross-examine: VB vc ask hyphenated vt 
+cross-examiner: NN nc count hyphenated job 
+cross-fertilisation: NN deverbal nc VerbNom hyphenated 
+cross-fertilise: VB vc hyphenated vt 
+cross-fertilization: NN deverbal nc VerbNom hyphenated 
+cross-fertilize: VB vc VNPPP hyphenated vt 
+cross-index: NN VB VNPPP count hyphenated 
+cross-pollinate: VB vc hyphenated send vt 
+cross-pollination: NN deverbal nc VerbNom hyphenated 
+cross-question: NN deverbal nc VerbNom hyphenated vt 
+cross-questioner: NN nc hyphenated job 
+cross-section: NN nc component count hyphenated 
+cruel-hearted: A ac hyphenated nt 
+cruet-stand: NN nc count hyphenated 
+curtain-raiser: NN nc count hyphenated 
+cut-in: NN nc hyphenated info 
+cyber-terrorism: NN nc hyphenated 
+cyber-terrorist: NN nc hyphenated job 
+dancing-master: NN nc hyphenated job 
+de-emphasise: VB vc hyphenated 
+de-emphasize: VB vc VNPPP VNPPPas VTH VhisNG hyphenated vt 
+de-energise: VB vc hyphenated 
+de-energize: VB vc hyphenated 
+de-escalate: VB vc VPP chgProperty hyphenated 
+de-escalation: NN deverbal nc VerbNom hyphenated 
+de-ice: VB vc hyphenated looksChg vt 
+de-iodination: NN deverbal nc VerbNom hyphenated 
+deaf-aid: NN nc count hyphenated 
+death-roll: NN nc count hyphenated 
+deep-freeze: N0 VB vc count hyphenated vt
+deep-fry: VB vc hyphenated produce 
+derring-do: NN nc hyphenated result 
+dickey-bird: NN nc animal hyphenated 
+dickey-seat: NN nc count hyphenated 
+dicky-bird: NN nc animal hyphenated 
+dicky-seat: NN nc count hyphenated 
+die-sinker: NN nc hyphenated job 
+diesel-electric: NN nc hyphenated tool 
+diesel-hydraulic: NN nc hyphenated tool 
+dilly-dallier: NN nc hyphenated per 
+dilly-dally: VB vc VPP chgMeasure hyphenated vi 
+ding-dong: NN nc count hyphenated 
+dining-room: NN nc count hyphenated 
+director-general: NN nc hyphenated per 
+dive-bomb: VB vc chgForm hyphenated vt 
+dock-walloper: NN nc hyphenated job 
+don't-know: NN nc count hyphenated per 
+double-check: VB vc VTH VWHSS 
+double-crosser: NN nc hyphenated per 
+double-deal: VB vc act hyphenated 
+double-dealer: NN nc count hyphenated per 
+double-decker: NN nc count hyphenated prod tool 
+double-park: VB vc VNPPP hyphenated 
+double-prop: NN nc hyphenated tool 
+drawing-room: NN nc count hyphenated 
+dressing-down: VB vc count hyphenated 
+drive-in: NN nc count hyphenated 
+drop-kick: NN VB count hyphenated v 
+drop-leaf: NN nc component hyphenated 
+dry-clean: VB vc clean hyphenated 
+dust-up: NN nc count hyphenated 
+dye-works: NN nc count hyphenated 
+e-business: NN nc hyphenated ness 
+e-mail: NN VB topN2 abstract artifact hyphenated v 
+earth-closet: NN nc count hyphenated 
+eco-warfare: NN nc hyphenated 
+editor-in-chief: NN nc hyphenated per 
+egg-and-anchor: NN nc artifact hyphenated 
+egg-and-dart: NN nc artifact hyphenated 
+egg-and-tongue: NN nc artifact hyphenated 
+ego-trip: VB vc hyphenated take 
+end-all: NN nc count hyphenated 
+even-handed: A ac APP hyphenated pt 
+evil-minded: A ac behavior hyphenated 
+ex-boyfriend: NN nc count hyphenated per 
+ex-convict: NN nc hyphenated per 
+ex-gambler: NN nc hyphenated per 
+ex-girlfriend: NN nc count hyphenated per 
+ex-husband: NN nc hyphenated per 
+ex-mayor: NN nc hyphenated job 
+ex-president: A NN nc hyphenated job 
+ex-serviceman: NN nc count hyphenated job 
+ex-spouse: NN nc hyphenated job 
+ex-wife: NN nc hyphenated per 
+f---: NN VB oral VIrecip VNPPNGoc VPP abstract annoy bad emph hate passion vac vtPer 
+f--k: NN VB oral VIrecip VNPPNGoc VPP abstract annoy bad emph hate passion vac vtPer 
+f-ck: NN VB oral VIrecip VNPPNGoc VPP abstract annoy bad emph hate passion vac vtPer 
+face-lift: NN VB count hyphenated v 
+face-off: NN nc abstract hyphenated 
+fall-board: NN nc hyphenated tool 
+fan-jet: NN nc hyphenated tool 
+fare-stage: NN nc count hyphenated 
+farm-place: NN nc hyphenated 
+fast-forward: N0 VB vc hyphenated move
+felo-de-se: NN nc chg hyphenated 
+fence-sitter: NN nc hyphenated per 
+fine-draw: VB vc hyphenated think 
+fine-tune: VB vc hyphenated mkBetter 
+finger-post: NN nc count hyphenated 
+fire-eater: NN nc count hyphenated per 
+fire-swallower: NN nc hyphenated job 
+flag-waver: NN nc hyphenated per 
+flash-freeze: VB vc chgMeasure hyphenated 
+fleur-de-lis: NN nc count hyphenated plant 
+fleur-de-lys: NN nc count hyphenated plant 
+flip-flop: A NN VB hyphenated 
+fly-fish: VB vc VPP hyphenated vi 
+foot-lambert: NN nc unit hyphenated 
+foot-pound: NN nc unit count hyphenated quant 
+foot-poundal: NN nc unit hyphenated quant 
+foot-ton: NN nc unit hyphenated quant 
+force-feed: VB vc dative vt 
+fore-topmast: NN nc hyphenated tool 
+forty-niner: NN nc hyphenated per 
+foster-nurse: NN nc hyphenated job 
+foul-up: NN nc hyphenated 
+fountain-head: NN nc count hyphenated 
+four-flusher: NN nc hyphenated per 
+four-poster: NN nc count hyphenated tool 
+four-pounder: NN nc count hyphenated 
+four-wheeler: NN nc count hyphenated tool 
+fox-trot: NN nc hyphenated info 
+frame-up: NN nc count hyphenated 
+franc-tireur: NN nc hyphenated per 
+free-for-all: NN nc abstract count hyphenated 
+free-liver: NN nc count hyphenated per 
+free-trader: NN nc count hyphenated 
+freeze-dry: VB vc hyphenated ill 
+fu-k: NN VB oral VIrecip VNPPNGoc VPP abstract annoy bad emph hate passion vac vtPer 
+fu-kc: NN VB oral VIrecip VNPPNGoc VPP abstract annoy bad emph hate passion vac vtPer 
+full-of-the-moon: NN nc abstract hyphenated natural 
+fund-raise: VB vc hyphenated take 
+fur-piece: NN nc hyphenated tool 
+fuss-budget: NN nc hyphenated per 
+g-force: NN nc unit hyphenated 
+gallows-tree: NN nc artifact hyphenated 
+games-master: NN nc count hyphenated job 
+games-mistress: NN nc count hyphenated job 
+gang-rape: VB vc enDo hyphenated 
+garment-worker: NN nc hyphenated job 
+gate-crash: VB vc hyphenated take 
+gentleman-at-arms: NN nc count hyphenated per 
+get-go: NN nc chg hyphenated 
+get-together: NN deverbal nc VerbNom count hyphenated 
+get-up-and-go: NN nc behavior hyphenated 
+gibber-jabber: VB vc hyphenated mkSound 
+give-and-take: NN nc hyphenated 
+glide-bomb: VB vc chgForm hyphenated 
+glow-worm: NN NNS nc Xs count hyphenated plu 
+go-ahead: NN nc count hyphenated mental 
+go-around: NN nc abstract hyphenated 
+go-between: NN nc count hyphenated per 
+go-cart: NN nc count hyphenated prod tool 
+go-getter: NN nc count hyphenated per 
+go-kart: NN nc count hyphenated tool 
+go-slow: NN nc count hyphenated 
+goal-kick: NN nc count hyphenated 
+goal-line: NN nc count hyphenated 
+going-over: NN nc abstract count hyphenated 
+golf-ball: NN nc count hyphenated 
+goof-off: NN nc hyphenated per 
+government-in-exile: NN nc hyphenated orgHN 
+grant-in-aid: NN nc abstract artifact hyphenated 
+grease-gun: NN nc count hyphenated tool 
+great-great-grandfather: NN nc hyphenated relatives 
+great-nephew: NN nc hyphenated relatives 
+great-niece: NN nc hyphenated relatives 
+great-uncle: NN nc hyphenated relatives 
+groom-to-be: NN nc hyphenated per 
+gun-sight: NN nc hyphenated prod tool 
+ha-ha: NN nc component hyphenated natural 
+hair's-breadth: NN nc count hyphenated 
+half-caste: NN nc count hyphenated per 
+half-gainer: NN nc count hyphenated 
+half-life: NN nc abstract hyphenated time 
+half-mast: NN nc hyphenated space 
+half-moon: NN nc hyphenated timeUnit 
+half-slip: NN nc hyphenated tool 
+half-truth: NN nc count hyphenated nt 
+half-wit: NN nc hyphenated per 
+hand-dryer: NN nc hyphenated prod 
+hand-wash: VB vc clean hyphenated 
+hang-up: NN nc count hyphenated mental 
+hanger-on: NN nc count hyphenated per 
+hara-kiri: NN nc abstract hyphenated 
+hard-on: NN nc chg hyphenated 
+has-been: NN nc count hyphenated per 
+haw-haw: NN nc component hyphenated 
+he-goat: NN nc animal count hyphenated male 
+he-man: NN nc count hyphenated per 
+head-shrinker: NN nc hyphenated job 
+hearing-aid: NN nc count hyphenated 
+heart-warm: VB vc chgEmo hyphenated 
+heir-at-law: NN nc hyphenated per 
+hell-kite: NN nc hyphenated per 
+hell-rooster: NN nc hyphenated per 
+hemming-stitch: NN nc count hyphenated 
+hen-peck: VB vc hyphenated mkBad 
+hi-fi: NN nc count hyphenated prod tool 
+hide-and-seek: NN nc chg hyphenated 
+high-hat: VB vc behavior hyphenated 
+high-up: NN nc count hyphenated per 
+hire-purchase: NN nc chg hyphenated 
+hold-up: NN nc count hyphenated 
+hole-in-the-wall: NN nc hyphenated 
+home-farm: NN nc count hyphenated 
+hook-up: NN deverbal nc VerbNom count hyphenated 
+hop-picker: NN nc count hyphenated tool 
+horsepower-hour: NN nc measureUnit slashUnit hyphenated
+hot-press: VB vc chgForm hyphenated 
+house-builder: NN nc hyphenated job 
+house-keep: VB vc control hyphenated 
+how-d'ye-do: NN nc count hyphenated 
+how-do-you-do: NN nc hyphenated info 
+hubble-bubble: NN nc artifact count hyphenated 
+hula-hoop: NN nc artifact hyphenated 
+hula-hula: NN nc hyphenated 
+hunter-gatherer: NN nc hyphenated per 
+ice-cream: NN nc artifact hyphenated 
+ice-skate: VB vc VI 
+ill-treat: VB vc hyphenated troubleW vt 
+ill-treatment: NN deverbal nc VerbNom hyphenated 
+ill-usage: NN deverbal nc VerbNom hyphenated 
+in-basket: NN nc hyphenated tool 
+in-law: NN nc hyphenated per 
+in-migration: NN nc abstract hyphenated 
+income-earner: NN nc count hyphenated 
+industry-leader: NN nc com hyphenated pt 
+instant-boil: VB vc hyphenated produce 
+island-dweller: NN nc hyphenated per 
+jack-in-the-box: NNP NE nc com brand count hyphenated 
+jack-knife: NN nc count hyphenated 
+jack-o'-lantern: NN nc count hyphenated natural 
+jerry-build: VB vc create hyphenated 
+jerry-builder: NN nc count hyphenated per 
+kilogram-meter: NN nc unit hyphenated 
+kilovolt-ampere: NN nc   measureUnit slashUnit hyphenated quant
+kilowatt-hour: NN slashUnit nc hyphenated quant
+kitty-cat: NN nc animal hyphenated 
+knee-hi: NN nc hyphenated tool 
+knick-knack: NN nc count hyphenated 
+knife-edge: NN nc count hyphenated space 
+knight-errant: NN nc count hyphenated per 
+know-all: NN nc count hyphenated per 
+know-how: NN nc abstract hyphenated info vac 
+know-it-all: NN nc hyphenated per 
+ladder-back: NN nc hyphenated tool 
+lady-in-waiting: NN nc count hyphenated job 
+landing-craft: NN NNS nc Xs count hyphenated plu 
+lawn-mower: NN nc count hyphenated 
+lay-off: NN VB count hyphenated v 
+lead-in: NN nc count hyphenated 
+lease-lend: NN nc count hyphenated 
+left-winger: NN nc count hyphenated per 
+leg-pull: NN nc count hyphenated 
+lemon-wood: NN nc hyphenated plant 
+lie-abed: NN nc count hyphenated per 
+lie-in: NN nc count hyphenated 
+life-time: NN nc abstract hyphenated 
+light-o'-love: NN nc count hyphenated per 
+light-of-love: NN nc hyphenated per 
+lights-out: NN nc hyphenated timeUnit 
+line-shooter: NN nc count hyphenated per 
+line-up: NN deverbal nc VerbNom count hyphenated 
+lion-hunter: NN nc count hyphenated per 
+lip-sync: VB vc hyphenated mkSound 
+lip-synch: VB vc hyphenated mkSound 
+litter-basket: NN nc count hyphenated 
+litter-bearer: NN nc hyphenated per 
+living-room: NN nc count hyphenated 
+lock-gate: NN nc count hyphenated 
+log-in: N0 VB vc hyphenated mkAct
+log-jam: NN nc count hyphenated 
+looker-on: NN nc count hyphenated per 
+loop-line: NN nc count hyphenated 
+lost-and-found: NN nc component hyphenated 
+lotus-eater: NN nc count hyphenated per 
+loud-hailer: NN nc count hyphenated tool 
+love-philter: NN nc artifact hyphenated 
+love-philtre: NN nc artifact hyphenated 
+lunch-box: NN nc artifact hyphenated container  
+machine-gun: NN nc count hyphenated 
+machine-wash: VB vc clean hyphenated 
+macho-man: NN nc hyphenated per 
+mah-jongg: NN nc abstract hyphenated 
+mailing-card: NN nc artifact count hyphenated 
+main-topmast: NN nc hyphenated tool 
+major-domo: NN nc count hyphenated job 
+make-believe: NN nc abstract act hyphenated 
+make-up: NN nc count hyphenated prod 
+man-about-town: NN nc hyphenated per 
+man-at-arms: NN nc count hyphenated per 
+man-child: NN nc hyphenated per 
+man-eater: NN nc animal count hyphenated 
+man-of-war: NN nc artifact hyphenated 
+manic-depressive: NN nc count hyphenated per 
+map-reader: NN nc count hyphenated per 
+maple-leaf: NN nc count hyphenated 
+mark-up: NN nc count hyphenated 
+market-leader: NN nc com hyphenated 
+mass-produce: VB vc hyphenated vt 
+master-at-arms: NN nc count hyphenated job 
+merchant-venturer: NN nc hyphenated job 
+merry-go-round: NN nc count hyphenated tool 
+mezzo-soprano: NN nc count hyphenated natural per 
+micro-organism: NN nc count hyphenated 
+mid-eighties: NN nc age hyphenated 
+mid-forties: NN nc age hyphenated 
+mid-nineties: NN nc age hyphenated 
+mid-off: NN nc count hyphenated 
+mid-on: NN nc count hyphenated 
+mid-seventies: NN nc age hyphenated 
+mid-sixties: NN nc age hyphenated 
+mid-twenties: NN nc age hyphenated 
+might-have-been: NN nc count hyphenated 
+milk-tooth: NN nc count hyphenated 
+mill-girl: NN nc count hyphenated job 
+mill-hand: NN nc count hyphenated job 
+mind-set: NN nc abstract hyphenated 
+mischief-maker: NN nc count hyphenated per 
+mix-up: NN nc abstract count hyphenated 
+mixed-blood: NN nc hyphenated per 
+mock-up: NN nc count hyphenated 
+money-spinner: NN nc count hyphenated 
+moo-cow: NN nc count hyphenated 
+mop-up: NN deverbal nc VerbNom hyphenated 
+mosquito-craft: NN NNS nc Xs count hyphenated plu 
+moss-trooper: NN nc hyphenated per 
+multi-billionaire: NN nc hyphenated per 
+musk-deer: NN NNS nc Xs count hyphenated plu 
+name-drop: VB vc hyphenated vi 
+narco-state: NN nc hyphenated 
+ne'er-do-well: NN nc count hyphenated per 
+nest-egg: NN nc count hyphenated 
+nid-nod: VB vc enMove hyphenated 
+night-light: NN nc count hyphenated 
+night-line: NN nc count hyphenated 
+night-robe: NN nc hyphenated tool 
+night-sight: NN nc abstract hyphenated 
+night-stop: NN nc count hyphenated 
+night-watchman: NN nc count hyphenated 
+no-brainer: NN nc abstract hyphenated 
+no-goal: NN nc abstract hyphenated 
+no-show: NN nc hyphenated per 
+non-discrimination: NN nc abstract hyphenated 
+non-issue: NN nc abstract hyphenated 
+non-productive: A ac hyphenated nt 
+nosey-parker: NN nc hyphenated per 
+nosh-up: NN nc count hyphenated 
+nosy-parker: NN nc hyphenated per 
+nurse-midwife: NN nc hyphenated job 
+nursing-home: NN nc count hyphenated 
+odds-maker: NN nc hyphenated job 
+off-licence: NN nc count hyphenated 
+off-roader: NN nc hyphenated tool 
+off-season: NN nc hyphenated timeUnit 
+office-bearer: NN nc count hyphenated per 
+oil-tanker: NN nc count hyphenated 
+oil-well: NN nc count hyphenated 
+old-timer: NN nc count hyphenated per 
+omega-3: NN nc artifact hyphenated 
+omega-6: NN nc artifact hyphenated 
+once-over: NN nc abstract hyphenated 
+one-upmanship: NN nc abstract hyphenated 
+organ-grinder: NN nc count hyphenated job 
+out-and-outer: NN nc hyphenated per 
+out-basket: NN nc hyphenated tool 
+out-migration: NN nc abstract hyphenated 
+out-patient: NN nc hyphenated per 
+out-smart: VB vc hyphenated 
+owner-driver: NN nc count hyphenated job 
+owner-occupier: NN nc count hyphenated job 
+paddle-box: NN nc count hyphenated 
+paddle-wheeler: NN nc hyphenated tool 
+pan-broil: VB vc hyphenated 
+pan-fry: VB vc hyphenated 
+paper-pusher: NN nc hyphenated job 
+part-owner: NN nc count hyphenated job 
+part-timer: NN nc count hyphenated per 
+passe-partout: NN nc hyphenated prod 
+paste-up: NN nc count hyphenated 
+patty-pan: NN nc count hyphenated tool 
+pay-phone: NN nc hyphenated tool 
+pay-station: NN nc count hyphenated tool 
+pee-pee: N0 VB vc hyphenated metabolize
+pen-friend: NN nc count hyphenated per 
+phone-in: NN nc count hyphenated 
+physician-in-charge: NN nc hyphenated per 
+pick-me-up: NN nc count hyphenated phy 
+pied-a-terre: NN nc count hyphenated 
+pilot-fish: NN NNS nc Xs count hyphenated plu 
+pince-nez: NN NNS nc Xs hyphenated plu tool 
+pinch-hit: NN VB Ven past vc VBDN chgForm hyphenated 
+ping-pong: NN nc hyphenated 
+pip-squeak: NN nc hyphenated per 
+pistol-whip: VB vc chgForm hyphenated 
+pitter-patter: NN V0 count hyphenated v
+place-kicker: NN nc hyphenated job 
+plank-bed: NN nc count hyphenated tool 
+play-actor: NN nc count hyphenated per 
+play-box: NN nc count hyphenated tool 
+play-off: NN nc count hyphenated 
+playwright-director: NN nc hyphenated per 
+pleasure-boat: NN nc artifact count hyphenated 
+pocket-handkerchief: NN nc count hyphenated 
+pocket-knife: NN nc count hyphenated 
+poet-singer: NN nc hyphenated job 
+polo-neck: NN nc hyphenated tool 
+pom-pom: NN nc artifact hyphenated 
+pooh-bah: NN nc hyphenated per 
+porte-cochere: NN nc count hyphenated tool 
+postage-stamp: NN nc count hyphenated 
+power-dive: N0 VB VPPdir count hyphenated vt
+pre-empt: VB vc abstract hyphenated vt 
+pre-emptor: NN nc hyphenated per 
+president-elect: NN nc title hyphenated 
+pressure-cooker: NN nc count hyphenated 
+prie-dieu: NN nc count hyphenated tool 
+priest-doctor: NN nc hyphenated job 
+prince's-feather: NN nc hyphenated plant 
+printing-press: NN nc count hyphenated 
+pro-lifer: NN nc hyphenated per 
+process-server: NN nc count hyphenated job 
+pub-crawl: N0 VB count hyphenated v
+pudden-head: NN nc count hyphenated per 
+pudding-face: NN nc count hyphenated 
+pug-dog: NN nc animal hyphenated 
+pull-in: NN nc count hyphenated 
+pull-out: NN deverbal nc VerbNom count hyphenated 
+pulley-block: NN nc count hyphenated prod tool 
+punch-up: NN nc count hyphenated 
+push-bike: NN nc count hyphenated tool 
+put-on: NN nc count hyphenated 
+put-put: NN nc hyphenated natural tool 
+quack-quack: NN nc animal hyphenated 
+quarter-circle: NN nc hyphenated 
+quarter-hour: NN nc hyphenated timeUnit 
+quick-boil: VB vc hyphenated produce 
+quick-freeze: VB vc chgMeasure hyphenated vt 
+quick-fry: VB vc hyphenated produce 
+quick-witted: A ac AitPPforTOrs hyphenated pt 
+rabble-rouser: NN nc hyphenated per 
+radio-gramophone: NN nc count hyphenated tool 
+radio-phonograph: NN nc hyphenated tool 
+rail-splitter: NN nc hyphenated job 
+rake-off: NN nc artifact count hyphenated 
+rat-a-tat: NN nc hyphenated natural 
+rat-catcher: NN nc hyphenated job 
+rat-tat: NN nc count hyphenated natural 
+rave-up: NN nc count hyphenated 
+razzle-dazzle: NN nc count hyphenated 
+re-afforestation: NN deverbal nc VerbNom hyphenated 
+re-check: VB vc hyphenated tryToKnow 
+re-conduct: VB vc control hyphenated 
+re-creation: NN deverbal nc VerbNom hyphenated 
+re-echo: VB vc abstract count hyphenated 
+re-emphasise: VB vc hyphenated 
+re-emphasize: VB vc hyphenated 
+re-enactment: NN deverbal nc VerbNom hyphenated 
+re-establishment: NN nc abstract hyphenated 
+re-estimate: VB vc hyphenated mkOwnKnowledge 
+re-form: VB vc VPP VPPPP VPPas hyphenated produce 
+re-formation: NN deverbal nc VerbNom hyphenated 
+re-introduction: NN nc abstract hyphenated 
+re-position: VB vc hyphenated mkOwnKnowledge 
+re-purpose: VB vc hyphenated store 
+re-take: VB vc hyphenated tryToKnow 
+re-tread: VB vc hyphenated mkBad 
+ready-mix: NN nc hyphenated prod 
+record-breaker: NN nc hyphenated per 
+record-holder: NN nc hyphenated per 
+record-keeper: NN nc hyphenated per 
+recruiting-sergeant: NN nc hyphenated job 
+red-header: NN nc hyphenated per 
+relative-in-law: NN nc hyphenated per 
+rent-rebate: NN nc count hyphenated 
+rent-roll: NN nc count hyphenated 
+rest-cure: NN nc count hyphenated 
+right-winger: NN nc count hyphenated per 
+ring-binder: NN nc hyphenated tool 
+rip-off: NN nc abstract bad count hyphenated troubleW 
+riyal-omani: NN nc unit hyphenated 
+robe-de-chambre: NN nc hyphenated tool 
+rock-and-roll: NN nc abstract hyphenated 
+roll-out: NN deverbal nc VerbNom hyphenated 
+roller-skater: NN nc hyphenated per 
+rood-tree: NN nc count hyphenated 
+rope-maker: NN nc hyphenated job 
+rough-dry: VB vc chgMeasure hyphenated vt 
+rough-hew: VB vc enExist hyphenated 
+rough-house: VB vc VPP hyphenated vi 
+rub-a-dub: NN nc hyphenated natural 
+rubber-stamp: NN V0 nc VNPEN VNPPPas vt
+run-up: NN deverbal nc VerbNom count hyphenated 
+runner-up: NN nc count hyphenated per 
+safe-conduct: NN nc abstract count hyphenated 
+sang-froid: NN nc abstract hyphenated 
+save-all: NN nc hyphenated tool 
+say-so: NN nc abstract hyphenated 
+scene-stealer: NN nc hyphenated per 
+scholar-businessman: NN nc hyphenated per 
+school-board: NN nc count hyphenated 
+sea-fish: NN NNS nc Xs count hyphenated plu 
+sea-horse: NN nc count hyphenated 
+seat-belt: NN nc component count hyphenated 
+second-in-command: NN nc hyphenated per 
+sedative-hypnotic: NN nc hyphenated prod 
+self-abnegation: NN nc chg hyphenated 
+self-abuse: NN nc chg hyphenated 
+self-aggrandisement: NN nc abstract hyphenated 
+self-aggrandizement: NN nc abstract hyphenated 
+self-assertion: NN nc abstract hyphenated 
+self-assurance: NN nc abstract hyphenated 
+self-command: NN nc ebla hyphenated 
+self-concern: NN nc hyphenated mental 
+self-confidence: NN nc hyphenated mental 
+self-contemplation: NN nc chg hyphenated 
+self-control: NN nc abstract ebla hyphenated 
+self-criticism: NN nc abstract hyphenated 
+self-cultivation: NN nc behavior hyphenated 
+self-deception: NN nc abstract hyphenated 
+self-defence: NN nc chg hyphenated 
+self-denial: NN nc behavior hyphenated 
+self-depreciation: NN nc chg hyphenated 
+self-destruction: NN deverbal nc VerbNom hyphenated 
+self-determination: NN nc abstract hyphenated 
+self-education: NN nc chg hyphenated 
+self-effacement: NN nc abstract hyphenated statePhy 
+self-effacing: A ac hyphenated pt 
+self-employment: NN nc hyphenated per 
+self-esteem: NN nc hyphenated mental 
+self-evident: A ac ATH content hyphenated 
+self-examination: NN nc abstract hyphenated 
+self-examine: VB vc hyphenated tryToKnow 
+self-expression: NN nc abstract hyphenated 
+self-feeder: NN nc hyphenated tool 
+self-flagellation: NN nc abstract hyphenated 
+self-fulfillment: NN nc hyphenated statePhy 
+self-government: NN nc abstract chg hyphenated 
+self-gratification: NN nc chg hyphenated 
+self-hatred: NN nc abstract hyphenated 
+self-hypnosis: NN nc chg hyphenated 
+self-importance: NN nc hyphenated pt 
+self-important: A ac hyphenated nt 
+self-improvement: NN nc chg hyphenated 
+self-incrimination: NN nc abstract hyphenated 
+self-indulgence: NN nc hyphenated 
+self-insurance: NN nc abstract hyphenated 
+self-knowledge: NN nc ebla hyphenated 
+self-loader: NN nc hyphenated prod 
+self-love: NN nc hyphenated mental 
+self-portrait: NN nc hyphenated info 
+self-possession: NN nc ebla hyphenated 
+self-praise: NN nc chg hyphenated 
+self-preservation: NN nc abstract hyphenated 
+self-protection: NN nc abstract hyphenated 
+self-realisation: NN nc hyphenated statePhy 
+self-realization: NN nc hyphenated statePhy 
+self-reliance: NN nc abstract connective hyphenated 
+self-reproach: NN nc hyphenated nt 
+self-respect: NN nc hyphenated mental reputation 
+self-restraint: NN nc abstract hyphenated 
+self-rule: NN nc abstract hyphenated 
+self-sacrifice: NN nc abstract hyphenated 
+self-satisfaction: NN nc abstract hyphenated stateMental 
+self-seeker: NN nc count hyphenated per 
+self-starter: NN nc count hyphenated per 
+self-suggestion: NN nc chg hyphenated 
+self-will: NN nc abstract hyphenated 
+sell-off: NN NNS deverbal nc sgPlu VerbNom Xs hyphenated plu 
+semi-automatise: VB vc hyphenated 
+semi-automatize: VB vc hyphenated 
+sergeant-at-law: NN nc hyphenated job 
+serjeant-at-arms: NN nc hyphenated job 
+serjeant-at-law: NN nc hyphenated job 
+set-to: NN nc count hyphenated 
+set-up: NN topN3 nc count hyphenated 
+sewing-machine: NN nc count hyphenated 
+sh-t: A NN VB ac oral abstract curse emph passion vt 
+shake-up: NN deverbal nc VerbNom count hyphenated 
+share-out: NN nc count hyphenated 
+she-devil: NN nc hyphenated per 
+she-goat: NN nc animal count hyphenated 
+ship-breaker: NN nc count hyphenated 
+shoe-shop: NN nc group hyphenated 
+shoo-in: NN nc abstract hyphenated 
+shoot-'em-up: NN nc abstract hyphenated 
+shoot-down: NN nc abstract hyphenated 
+shoot-out: NN nc hyphenated 
+short-circuit: N VB count hyphenated vt 
+short-sighted: A ac AitPPforTO hyphenated phenomena 
+shrew-mouse: NN nc count hyphenated 
+shrink-wrap: NN VB hyphenated prod v 
+side-effect: NN nc hyphenated problem vac 
+side-glance: NN nc count hyphenated 
+side-wheeler: NN nc hyphenated tool 
+single-handed: A ac behavior hyphenated 
+sit-up: NN nc hyphenated 
+six-footer: NN nc count hyphenated 
+six-gun: NN nc hyphenated prod tool 
+six-shooter: NN nc count hyphenated prod tool 
+ski-plane: NN nc count hyphenated tool 
+skin-diver: NN nc hyphenated job 
+skinny-dip: N0 VB vc hyphenated move
+skinny-dipper: NN nc hyphenated per 
+slant-eye: NN nc hyphenated per 
+slop-seller: NN nc hyphenated job 
+small-arm: NN nc hyphenated prod tool 
+so-and-so: NN nc count hyphenated per 
+soft-cover: NN nc hyphenated info 
+soft-land: VB vc ceaseMove hyphenated 
+soft-pedal: VB vc vt 
+soft-solder: VB vc vt 
+spend-all: NN nc hyphenated per 
+spin-dry: VB vc chgMeasure hyphenated vt 
+square-rigger: NN nc hyphenated tool 
+squint-eye: NN nc hyphenated per 
+stair-carpet: NN nc count hyphenated tool 
+stair-rod: NN nc count hyphenated tool 
+stalking-horse: NN nc count hyphenated per 
+stall-feed: VB vc hyphenated provideFor 
+stand-in: NN nc count hyphenated per 
+standard-bearer: NN nc count hyphenated per 
+start-up: NN nc VerbNom hyphenated
+steam-heat: VB vc vt 
+stem-winder: NN nc hyphenated tool 
+step-in: NN nc artifact hyphenated 
+step-up: NN nc abstract hyphenated 
+stir-fry: VB vc hyphenated produce 
+stock-taker: NN nc hyphenated per 
+stretcher-bearer: NN nc count hyphenated per 
+strip-search: VB vc hyphenated tryToKnow 
+strong-armer: NN nc hyphenated per 
+stumbling-block: NN nc count hyphenated 
+sub-contract: VB vc enDo hyphenated 
+sub-interval: NN nc abstract hyphenated 
+sub-tropics: NN NNS nc Xs component hyphenated plu 
+sunshine-roof: NN nc component count hyphenated tool 
+supply-sider: NN nc count hyphenated 
+swearing-in: NN deverbal nc VerbNom hyphenated 
+sweep-second: NN nc hyphenated tool 
+sweet-talk: VB vc enDo hyphenated 
+switch-hitter: NN nc hyphenated per 
+t-scope: NN nc hyphenated tool 
+t-shirt: NN nc sgPlu topN3 hyphenated tool 
+tam-o'-shanter: NN nc count hyphenated tool 
+tap-off: NN nc hyphenated 
+tea-strainer: NN nc artifact count hyphenated 
+teach-in: NN nc count hyphenated 
+teeter-totter: NN VB artifact hyphenated v 
+test-drive: VB vc VNPPPdir VPP VPPdir vt 
+test-fire: VB vc hyphenated send 
+tete-a-tete: NN nc abstract count hyphenated 
+thing-in-itself: NN nc hyphenated phy 
+think-tank: NN nc count hyphenated 
+thought-reader: NN nc count hyphenated per 
+throw-in: NN nc count hyphenated 
+tie-up: NN deverbal nc VerbNom count hyphenated 
+time-ball: NN nc count hyphenated 
+time-fuse: NN nc count hyphenated 
+time-switch: NN nc count hyphenated tool 
+tip-off: NN deverbal nc VerbNom count hyphenated 
+to-do: NN nc abstract count hyphenated 
+tongue-lashing: NN nc abstract hyphenated 
+tongue-twister: NN nc count hyphenated 
+top-dress: VB vc vt 
+toss-up: NN nc count hyphenated 
+touch-type: VB vc vt 
+touch-typist: NN nc hyphenated job 
+trade-in: NN deverbal nc VerbNom count hyphenated 
+trade-off: NN VB abstract hyphenated v 
+tread-wheel: NN nc hyphenated tool 
+treasure-trove: NN nc count hyphenated 
+trend-setter: NN nc count hyphenated 
+trouble-shoot: VB vc hyphenated 
+try-on: NN nc count hyphenated 
+tub-cart: NN nc hyphenated tool 
+tub-thumper: NN nc count hyphenated per 
+tug-of-war: NN nc hyphenated 
+turn-on: NN nc count hyphenated 
+tv-antenna: NN nc hyphenated prod tool 
+twin-prop: NN nc hyphenated tool 
+twin-propeller-plane: NN nc hyphenated tool 
+two-timer: NN nc hyphenated per 
+value-system: NN nc abstract hyphenated 
+vent-hole: NN nc count hyphenated 
+vicar-general: NN nc hyphenated job 
+vingt-et-un: NN nc hyphenated 
+vis-a-vis: N0 NN P SC abstract hyphenated 
+volt-ampere: NN nc electricity unit hyphenated quant
+wagon-lit: NN nc component count hyphenated tool 
+wake-robin: NN nc hyphenated plant 
+walk-up: NN nc artifact hyphenated 
+walkie-talkie: NN nc artifact count hyphenated 
+walky-talky: NN nc artifact count hyphenated 
+wall-paperer: NN nc hyphenated job 
+ward-heeler: NN nc hyphenated job 
+warm-up: NN deverbal nc VerbNom hyphenated 
+waste-yard: NN nc hyphenated 
+water-color: NN nc hyphenated prod tool 
+water-colour: NN nc hyphenated prod tool 
+water-rate: NN nc count hyphenated 
+watt-hour: NN nc electricity unit hyphenated quant
+weed-whacker: NN nc hyphenated tool 
+well-wisher: NN nc count hyphenated per 
+wet-nurse: NN VB count hyphenated job 
+whip-round: NN nc count hyphenated 
+whipper-in: NN nc count hyphenated per 
+white-hearted: A ac hyphenated pt 
+whiz-kid: NN nc hyphenated per 
+whizz-kid: NN nc count hyphenated per 
+whole-hearted: A ac hyphenated pt 
+wicket-keeper: NN nc count hyphenated per 
+will-o'-the-wisp: NN nc count hyphenated natural 
+willow-pattern: NN nc count hyphenated 
+winding-sheet: NN nc count hyphenated tool 
+window-shop: VB vc hyphenated move 
+wire-puller: NN nc hyphenated per 
+wisdom-tooth: NN nc count hyphenated 
+wish-list: NN nc hyphenated tWord vac 
+witch-hunt: NN nc count hyphenated 
+witch-hunter: NN nc hyphenated per 
+word-painter: NN nc count hyphenated job 
+work-in: NN nc count hyphenated 
+work-shirt: NN nc hyphenated tool 
+world-beater: NN nc hyphenated per 
+write-down: NN V0 deverbal vc VerbNom hyphenated v
+write-in: NN nc hyphenated per 
+write-off: NN V0 deverbal vc VerbNom count hyphenated v
+write-up: NN V0 deverbal nc count hyphenated
+x-axis: NN nc hyphenated 
+y-axis: NN nc hyphenated 
+yes-man: NN nc hyphenated per 
+yo-yo: NN nc count hyphenated 
+z-axis: NN nc hyphenated
+180-degree: A ac  degree hyphenated
+2-in-1: A ac  hyphenated property 
+3-D: N  nc hyphenated looks 
+3-dimensionalization: N  nc chg hyphenated 
+3-dimensionalize: VB vc  chgAttr hyphenated 
+3-in-1: A ac  hyphenated property 
+a-bomb: N nc hyphenated tool
+a-bombs: NNS Xs nc hyphenated tool 'a-bomb'
+a-plus: A n ac good  
+aaa-ee: UH  
+abiding-place: N  nc artifact hyphenated 
+able-bodied: A ac  hyphenated pt 
+about-face: NN VB  
+above-cited: A ac  content hyphenated 
+above-mentioned: A ac  content hyphenated 
+above-named: A ac  content hyphenated 
+abram-perezville: NNP NE city nc  
+abrasion-proof: A ac  hyphenated pt 
+abrasion-resistant: A ac  ebla hyphenated 
+accounting-profession: NN  
+ace-spiker: N  nc hyphenated per 
+achkhoy-martan: NNP NE city nc  
+acid-fast: A ac  ebla hyphenated 
+acid-proof: A ac  ebla hyphenated 
+acid-resisting: A ac  ebla hyphenated 
+acorn-cup: N  nc count hyphenated 
+ad-dahi: NNP NE city nc  
+ad-darbasiyah: NNP NE city nc  
+ad-dawr: NNP NE city nc  
+ad-hoc: A ac idiom xC  RB content hyphenated 
+ad-man: N  nc count hyphenated 
+ada-scid: NNP  
+add-on: A NN nc  component hyphenated 
+aegis-class: A  
+aero-spacecraft: N  nc artifact hyphenated 
+af-fold: A  
+af-inch: A  
+af-stage: A  
+af-values: NNS  
+afghan-pakistan: A  
+african-safari: A  
+afro-american: NN nc  hyphenated origin per 
+afro-cuban: A  
+afro-wig: N  nc hyphenated tool 
+after-hours: A NNS RB nc  hyphenated time 
+agar-agar: N  nc artifact hyphenated 
+age-bracket: N  nc count hyphenated 
+age-group: N  nc count hyphenated 
+age-old: A ac  dur hyphenated 
+age-related: A ac  hyphenated pertinence 
+agriculture-ministry: NN  
+agualva-cacem: NNP NE city nc  
+ah-ah: UH  
+ah-gwah-ching: NNP NE city nc  
+ahnatal-weimar: NNP NE city nc  
+aid-de-camp: N  nc hyphenated per 
+aids-drug: A  
+aids-like: A  
+aids-prevention: A  
+aids-research: A  
+aids-treatment: NN  
+air-bladder: N  nc count hyphenated 
+air-conditioning: A NN nc  chg hyphenated 
+air-mail: N  nc hyphenated info 
+air-raid: A  
+air-tight: A ac  ebla hyphenated 
+air-to-ground: A ac  hyphenated performance 
+airing-cupboard: N  nc count hyphenated 
+aiseau-presles: NNP NE city nc  
+aix-en-provence: NNP NE city nc  
+aix-la-chapelle: NNP NE city nc  
+aix-les-bains: NNP NE city nc  
+ak-dovurak: NNP NE city nc  
+al-aridiyah: NNP NE city nc  
+al-artaweyah: NNP NE city nc  
+al-awja: NNP NE city nc  
+al-ba'aj: NNP NE city nc  
+al-bayda: NNP NE city nc  
+al-choueifat: NNP NE city nc  
+al-farwaniyah: NNP NE city nc  
+al-fuhayhil: NNP NE city nc  
+al-ghaida: NNP NE city nc  
+al-gwei'iyyah: NNP NE city nc  
+al-haffah: NNP NE city nc  
+al-hanaya: NNP NE city nc  
+al-hareeq: NNP NE city nc  
+al-hasakah: NNP NE city nc  
+al-hudaydah: NNP NE city nc  
+al-hums: NNP NE city nc  
+al-iraq: NNP NE city nc  
+al-jahrah: NNP NE city nc  
+al-karabilah: NNP NE city nc  
+al-karmah: NNP NE city nc  
+al-khums: NNP NE city nc  
+al-kreen: NNP NE city nc  
+al-kuwayt: NNP NE city nc  
+al-maghrib: NNP NE city nc  
+al-magrib: NNP NE city nc  
+al-mahabischa: NNP NE city nc  
+al-malikiyah: NNP NE city nc  
+al-manqaf: NNP NE city nc  
+al-mar: NNP NE city nc  
+al-marawi'a: NNP NE city nc  
+al-marj: NNP NE city nc  
+al-mina: NNP NE city nc  
+al-mubarraz: NNP NE city nc  
+al-mukalla: NNP NE city nc  
+al-mukharram: NNP NE city nc  
+al-namas: NNP NE city nc  
+al-qa'im: NNP NE city nc  
+al-qadisiyyah: NNP NE city nc  
+al-qatta'i: NNP NE city nc  
+al-qusayr: NNP NE city nc  
+al-qutayfah: NNP NE city nc  
+albury-wodonga: NNP NE city nc  
+aldehyde-alcohol: N  nc hyphenated prod 
+ale-house: N  nc count hyphenated 
+alexandrovsk-sakhalinsky: NNP NE city nc  
+all-america: A  
+all-american-boy: NN  
+all-american: A  
+all-conquering: A ac  ebla hyphenated 
+all-copland: A  
+all-court: RB hyphenated range 
+all-embracing: A ac  hyphenated range 
+all-encompassing: A ac  hyphenated range 
+all-in-one: A ac  hyphenated situation 
+all-inclusive: A ac  hyphenated range 
+all-level: A ac  hyphenated rank 
+all-metal: A ac  hyphenated property 
+all-negro: A  
+all-powerful: A ac  hyphenated pt 
+all-purpose: A ac  hyphenated role 
+all-round: A ac  hyphenated range 
+all-spanish: A  
+allen-film: NN  
+alma-ata: NNP NE city nc  
+almond-eyed: A ac  component hyphenated 
+almond-eyes: N  nc component hyphenated 
+alms-house: N  nc count hyphenated 
+alpha-conotoxin: N  nc hyphenated nt 
+alpha-neurotoxin: N  nc hyphenated nt 
+alsbach-hahnlein: NNP NE city nc  
+alsenz-obermoschel: NNP NE city nc  
+altamahaw-ossipee: NNP NE city nc  
+altar-piece: N  nc count hyphenated 
+alzey-land: NNP NE city nc  
+amaliendorf-aalfang: NNP NE city nc  
+american-jewish: A  
+amino-aciduria: N  nc artifact hyphenated 
+amino-acylase: N  nc artifact hyphenated 
+amino-aldehyde: N  nc artifact hyphenated 
+amino-azotoluene: N  nc artifact hyphenated 
+amino-compound: N  nc artifact hyphenated 
+amino-nitrile: N  nc artifact hyphenated 
+amino-oxamide: N  nc artifact hyphenated 
+amino-uracil: N  nc artifact hyphenated 
+amino-xylene: N  nc artifact hyphenated 
+aminoo-alcohol: N  nc artifact hyphenated 
+ammerbuch-entringen: NNP NE city nc  
+ampco-pittsburgh: NN com nc 
+an-12: NN  
+an-nabk: NNP NE city nc  
+anal-retentive: A ac  hyphenated nt 
+angle-iron: N  nc count hyphenated 
+anglo-american: NN nc  hyphenated origin per 
+anglo-dutch: A  
+anglo-indian: NN nc  hyphenated origin per 
+anglo-irish: A  
+anglo-jewish: A  
+anglo-north: A  
+anglo-protestant: A  
+anglo-saxon: NN nc  hyphenated origin 
+anglo-saxons: NNS  
+angola-on-the-lake: NNP NE city nc  
+anit-fascist: VB vc  disagree hyphenated 
+annaberg-buchholz: NNP NE city nc  
+annaberg-lungotz: NNP NE city nc  
+annandale-on-hudson: NNP NE city nc  
+ant-eater: N  nc count hyphenated 
+ant-hill: N  nc count hyphenated 
+anti-aids: A  
+anti-american: A  
+anti-americanism: NN  
+anti-castro: A  
+anti-catholic: A  
+anti-catholicism: NN  
+anti-china: A  
+anti-christian: A  
+anti-clockwise: A ac  contrariness hyphenated 
+anti-cold: A ac  ebla hyphenated 
+anti-colmer: A  
+anti-communism: NN  
+anti-european: A  
+anti-explosive: A ac  ebla hyphenated 
+anti-fascist: A  
+anti-french: A  
+anti-galileo: A  
+anti-honecker: A  
+anti-imperialist: A ac  hyphenated pt 
+anti-intellectual: A ac  hyphenated per 
+anti-interference: A ac  ebla hyphenated 
+anti-japanese: A  
+anti-jones: A  
+anti-kabul: A  
+anti-kennedy: A  
+anti-ldp: A  
+anti-matter: N  nc hyphenated phy 
+anti-moscow: A  
+anti-nato: A  
+anti-nazi: A  
+anti-negro: A  
+anti-newtonian: A  
+anti-noriega: A  
+anti-sandinista: A  
+anti-semites: NN NNS  
+anti-semitic: A  AitPPforTO 
+anti-somoza: A  
+anti-south: A  
+anti-soviet: A  
+anti-stalinist: A  
+anti-swapo: A  
+anti-tank: A ac  ebla hyphenated 
+anti-turkish: A  
+anti-u.s.: A  
+anti-western: A  
+anti-yankee: A  
+anzhero-sudzhensk: NNP NE city nc  
+aponi-vi: NNP NE city nc  
+ar-raqqah: NNP NE city nc  
+ar-rastan: NNP NE city nc  
+ar-riqqah: NNP NE city nc  
+ar-rumaythiyah: NNP NE city nc  
+arab-israeli: A  
+arcade-house: N  nc artifact hyphenated 
+arch-careerist: N  nc hyphenated per 
+arch-criminal: N  nc hyphenated per 
+arden-arcade: NNP NE city nc  
+ardsley-on-hudson: NNP NE city nc  
+arm-hole: N  nc count hyphenated 
+arm-twisting: A NN nc  abstract hyphenated 
+arms-race: N  nc count hyphenated 
+artisan-painter: N  nc hyphenated per 
+artstetten-pobring: NNP NE city nc  
+as-sabahiyah: NNP NE city nc  
+as-safirah: NNP NE city nc  
+as-saidiyya: NNP NE city nc  
+as-salimiyah: NNP NE city nc  
+as-sanamayn: NNP NE city nc  
+as-sulaybikhat: NNP NE city nc  
+as-sulaybiyah: NNP NE city nc  
+as-suqaylabiyah: NNP NE city nc  
+as-suwayda: NNP NE city nc  
+asbach-baumenheim: NNP NE city nc  
+asbach-sickenberg: NNP NE city nc  
+asch-schir: NNP NE city nc  
+aschbach-markt: NNP NE city nc  
+ash-can: N  nc count hyphenated 
+ash-gray: A ac  color hyphenated 
+ash-grey: A ac  color hyphenated 
+ash-key: NN nc  count hyphenated 
+ash-shatrah: NNP NE city nc  
+ash-shuwayfat: NNP NE city nc  
+asia-pacific: A  
+asnieres-sur-seine: NNP NE city nc  
+aspang-markt: NNP NE city nc  
+at-bat: N  nc abstract hyphenated 
+at-home: N  nc count hyphenated 
+ath-thawrah: NNP NE city nc  
+athis-mons: NNP NE city nc  
+attnang-puchheim: NNP NE city nc  
+attorney-at-law: N  nc hyphenated per 
+audio-visual: A NN ac  ebla hyphenated n 
+aulnay-sous-bois: NNP NE city nc  
+aust-agder: NNP NE city nc  
+australian-american: A  
+australian-chinese: A  
+austria-hungary: NNP NE nc country  
+austrian-argentine: A  
+austro-hungarian: A  
+avant-garde: A NN nc  AitPPforTO abstract count hyphenated 
+avon-by-the-sea: NNP NE city nc  
+awe-inspiring: A ac  AitPPforTO behavior hyphenated 
+awe-inspirng: A ac  hyphenated pt 
+awkward-sounding: A ac  easiness hyphenated 
+axe-handle: N  nc component hyphenated 
+aye-yah-ah-ah: UH  
+b-day: NN nc hyphenated perF count timeUnit 'birthday'
+b-girl: N nc hyphenated per 'birthday_girl'
+b-movie: NN  
+b-scale: NN  
+baar-ebenhausen: NNP NE city nc  
+baby-boomer: N  nc count hyphenated 
+baby-minder: N  nc count hyphenated 
+back-down: N  nc count hyphenated 
+back-up: A NN deverbal nc  VerbNom count hyphenated 
+bacteria-free: A ac  hyphenated property 
+bad-mannered: A ac  hyphenated troubleW 
+bad-tempered: A ac  hyphenated troubleW 
+baden-baden: NNP NE city nc  
+baie-d'urfe: NNP NE city nc  
+baie-du-febvre: NNP NE city nc  
+baie-mahault: NNP NE city nc  
+baie-saint-paul: NNP NE city nc  
+bake-off: N  nc hyphenated 
+baking-powder: N  nc count hyphenated 
+bala-cynwyd: NNP NE city nc  
+balance-sheet: A NN nc  count hyphenated 
+balance-wheel: N  nc count hyphenated 
+bald-head: N  nc count hyphenated 
+bald-pate: N  nc count hyphenated 
+ball-dress: N  nc count hyphenated 
+ball-players: N  nc group hyphenated 
+ballet-dancer: N  nc count hyphenated 
+ballet-skirt: N  nc count hyphenated 
+ballot-box: N  nc count hyphenated 
+ballpoint-pen: N  nc count hyphenated 
+ballrechten-dottingen: NNP NE city nc  
+balls-up: N  nc count hyphenated 
+ballybofey-stranorlar: NNP NE city nc  
+balm-of-gilead: NN  
+bambi-syndronists: NNS  
+band-saw: N  nc count hyphenated 
+bandy-legged: A ac  component hyphenated 
+banian-tree: N  nc count hyphenated 
+bank-bill: N  nc count hyphenated 
+bank-book: N  nc count hyphenated 
+bank-draft: N  nc count hyphenated 
+bank-rate: N  nc count hyphenated 
+baqa-jatt: NNP NE city nc  
+bar-shaped: A ac  hyphenated looks 
+barclay-kingston: NNP NE city nc  
+bare-assed: A ac  hyphenated looks 
+bare-breasted: A ac  hyphenated isa 
+bare-buttocks: VB vc  beC hyphenated 
+bare-handed: A ac  hyphenated property 
+barletta-andria-trani: NNP NE city nc  
+barn-door: N  nc count hyphenated 
+barrow-boy: NN nc  count hyphenated job 
+baruun-urt: NNP NE city nc  
+batesburg-leesville: NNP NE city nc  
+bathing-cap: N  nc count hyphenated 
+bathing-machine: N  nc count hyphenated 
+bathing-suit: N  nc count hyphenated 
+battle-cruiser: N  nc count hyphenated 
+bau-bau: NNP NE city nc  
+bay-front: A  
+bay-wreath: N  nc count hyphenated 
+bayview-montalvin: NNP NE city nc  
+beat-up: A ac  hyphenated negAdj 
+beau-bassin: NNP NE city nc  
+beau-o-rama: NNP NE city nc  
+beauty-parlour: N  nc count hyphenated 
+beauty-salon: N  nc count hyphenated 
+beche-de-mer: N  nc animal hyphenated 
+bed-curtain: N  nc artifact hyphenated 
+bed-wetting: NN nc  chg hyphenated 
+bedburg-hau: NNP NE city nc  
+bedford-stuyvesant: NNP NE city nc  
+bedsitting-room: N  nc count hyphenated 
+behind-the-scenes: A  
+belaying-pin: N  nc count hyphenated 
+bell-buoy: N  nc count hyphenated 
+bell-flower: N  nc count hyphenated 
+bell-founder: N  nc count hyphenated 
+bell-foundry: N  nc count hyphenated 
+bell-merrill: NNP NE city nc  
+bell-push: N  nc count hyphenated 
+bell-tent: N  nc count hyphenated 
+bengals-browns: A  
+berlin-weissensee: NNP NE city nc  
+bernkastel-kues: NNP NE city nc  
+bernz-o-matic: NN  
+bertsch-oceanview: NNP NE city nc  
+best-known: A ac  hyphenated reputation 
+best-quality: A ac  comfortW hyphenated 
+bethlehem-judah: NNP NE city nc  
+betta-life: NNP NE city nc  
+betzweiler-walde: NNP NE city nc  
+beyne-heusay: NNP NE city nc  
+bi-: A ac  hyphenated quant 
+bi-stone: NNP NE city nc  
+bicycle-built-for-two: N  nc hyphenated tool 
+bielsko-biala: NNP NE city nc  
+bietigheim-bissingen: NNP NE city nc  
+big-bellied: A ac  hyphenated nt 
+big-breasted: A ac  fat hyphenated 
+big-chested: A ac  hyphenated situation 
+big-denomination: A ac  hyphenated price 
+big-eared: A ac  hyphenated looks 
+bilhorod-dnistrovskyi: NNP NE city nc  
+bill-poster: N  nc count hyphenated 
+bill-sticker: N  nc count hyphenated 
+billiard-marker: N  nc count hyphenated 
+billiard-player: N  nc count hyphenated 
+billiard-room: N  nc count hyphenated 
+billiard-table: N  nc count hyphenated 
+billy-goat: N  nc count hyphenated 
+bio-assay: NN nc  abstract hyphenated 
+birch-rod: N  nc count hyphenated 
+bit-by-bit: A ac  graduality hyphenated 
+bla-bla: N  nc hyphenated info 
+black-and-white: A  
+black-beetle: N  nc count hyphenated 
+black-hearted: A ac  hyphenated troubleW 
+blandford-blenheim: NNP NE city nc  
+blankenfelde-mahlow: NNP NE city nc  
+blast-furnace: N  nc count hyphenated 
+blast-off: N  nc count hyphenated 
+blood-bath: N  nc count hyphenated 
+blood-group: N  nc count hyphenated 
+blood-related: A ac  clan hyphenated intimacy 
+blood-relatedness: N  nc hyphenated intimacy ness 
+blow-by-blow: A ac  content hyphenated 
+blu-82: N  nc hyphenated tool 
+blue-blindness: NN nc  hyphenated ness phenomena 
+blue-blooded: A ac  hyphenated status 
+blue-chip: A NN nc  artifact hyphenated 
+blue-jacket: N  nc count hyphenated 
+blue-pencil: VB vc  chgGood hyphenated vt 
+blumau-neurisshof: NNP NE city nc  
+boa-constrictor: N  nc count hyphenated 
+boarding-card: N  nc count hyphenated 
+boarding-house: N  nc count hyphenated 
+boat-hook: N  nc count hyphenated 
+boat-house: N  nc count hyphenated 
+boat-train: N  nc count hyphenated 
+bobenheim-roxheim: NNP NE city nc  
+bodenrode-westhausen: NNP NE city nc  
+bodman-ludwigshafen: NNP NE city nc  
+body-servant: N  nc count hyphenated 
+bog-down: VB vc  hyphenated timeOrSpace 
+boguszow-gorce: NNP NE city nc  
+bohl-iggelheim: NNP NE city nc  
+boiling-point: N  nc count hyphenated 
+bois-colombes: NNP NE city nc  
+bois-des-filion: NNP NE city nc  
+bold-faced: A ac  hyphenated stateMental 
+boling-iago: NNP NE city nc  
+bon-air: NNP NE city nc  
+bond-holder: N  nc count hyphenated 
+bone-head: N  nc count hyphenated per 
+bone-idle: A ac  behavior hyphenated 
+bone-setter: N  nc count hyphenated 
+book-end: N  nc count hyphenated 
+book-keeper: N  nc count hyphenated 
+book-kiosk: N  nc group hyphenated 
+bor-ondor: NNP NE city nc  
+bosnia-herzegovina: NNP NE country nc  
+bottle-neck: N  nc hyphenated 
+boulogne-sur-mer: NNP NE city nc  
+bourg-en-bresse: NNP NE city nc  
+bourgoin-jallieu: NNP NE city nc  
+bouvignes-sur-meuse: NNP NE city nc  
+bow-tie: N  nc hyphenated tool 
+bowling-green: N  nc count hyphenated 
+box-kite: N  nc count hyphenated 
+box-number: N  nc count hyphenated 
+boxing-glove: N  nc count hyphenated 
+boxing-match: N  nc count hyphenated 
+braine-l'alleud: NNP NE city nc  
+braine-le-chateau: NNP NE city nc  
+braine-le-comte: NNP NE city nc  
+bran-new: A ac  hyphenated newness 
+brand-erbisdorf: NNP NE city nc  
+brand-laaben: NNP NE city nc  
+brand-nagelberg: NNP NE city nc  
+brand-new: A ac  hyphenated pt 
+branding-iron: N  nc count hyphenated 
+brandy-ball: N  nc count hyphenated 
+brandy-snap: N  nc count hyphenated 
+brave-looking: A ac  hyphenated pt 
+brazen-faced: A ac  hyphenated stateMental 
+brea-olinda: NNP NE city nc  
+break-up: A NN deverbal nc  VerbNom count hyphenated 
+breast-plate: N  nc count hyphenated 
+breech-block: N  nc count hyphenated 
+breeches-buoy: N  nc count hyphenated 
+brentwood-darlington: NNP NE city nc  
+bretigny-sur-orge: NNP NE city nc  
+brick-field: N  nc count hyphenated 
+bride-price: N  nc artifact hyphenated 
+bridged-t: N  nc hyphenated tool 
+bridle-path: N  nc count hyphenated 
+bridle-road: N  nc count hyphenated 
+bright-coloured: A ac  hyphenated pt 
+brightly-coloured: RB color hyphenated 
+bristol-meyers: NNP  
+britain-u.s.: A  
+british-american: A  
+british-dutch: A  
+brive-la-gaillarde: NNP NE city nc  
+broad-mindness: N  nc hyphenated ness pt 
+broker-dealer: A NN nc  hyphenated job 
+brood-hen: N  nc count hyphenated 
+brood-mare: N  nc count hyphenated 
+brother-in-law: N  nc hyphenated relatives 
+bruay-la-buissiere: NNP NE city nc  
+bruceville-eddy: NNP NE city nc  
+bruchhausen-vilsen: NNP NE city nc  
+bruchmuhlbach-miesau: NNP NE city nc  
+brumov-bylnice: NNP NE city nc  
+brush-off: N  nc count hyphenated 
+brush-up: N  nc count hyphenated 
+bud-tea: N  nc artifact hyphenated 
+buda-kashalyowa: NNP NE city nc  
+built-in: A NN ac topN3  hyphenated n property 
+built-up: A ac  hyphenated property 
+bull-neck: N  nc count hyphenated 
+bull-terrier: N  nc count hyphenated 
+bullet-headed: A ac  hyphenated nt 
+bung-hole: N  nc count hyphenated 
+bungo-ono: NNP NE city nc  
+bureaucrat-capitalism: N  nc hyphenated info 
+burg-reuland: NNP NE city nc  
+burg-vostenhof: NNP NE city nc  
+burgauberg-neudauberg: NNP NE city nc  
+burglar-alarm: N  nc count hyphenated 
+burgschleinitz-kuhnring: NNP NE city nc  
+burn-up: N  nc count hyphenated 
+burned-out: A ac  hyphenated negAdj 
+burnt-out: A ac  hyphenated negAdj 
+bust-up: A ac  abstract count hyphenated 
+buy-back: A NN VB deverbal nc  VerbNom hyphenated 
+buy-out: A NN deverbal nc  VerbNom hyphenated 
+by-and-by: N  nc hyphenated timeUnit 
+by-effect: N  nc hyphenated 
+by-election: A NN nc  act count hyphenated 
+by-end: N  nc hyphenated thinking 
+by-word: A  
+bye-law: N  nc count hyphenated 
+byhleguhre-byhlen: NNP NE city nc  
+bykov-larysov: NNP NE city nc  
+cab-free: A  
+cab-rank: N  nc count hyphenated 
+cable-car: N  nc count hyphenated 
+cable-system: NN nc  component hyphenated
+cable-tv-system: NN nc  component hyphenated
+cable-tv: NN  
+caffeine-free: A  
+cagnes_-_sur_-_mer: NNP NE city nc  
+cal_-_ida: NNP NE city nc  
+cal-vel: NNP NE city nc  
+call-box: N  nc count hyphenated 
+call-over: N  nc count hyphenated 
+call-up: N  nc count hyphenated 
+caluire-et-cuire: NNP NE city nc  
+camp-bed: N  nc count hyphenated 
+camp-chair: N  nc count hyphenated 
+camp-fire: N  nc count hyphenated 
+camp-stool: N  nc count hyphenated 
+canadian-dollar: A  
+canadian-fisheries: NNS  
+canadian-u.s.: A  
+candle-power: N  nc count hyphenated 
+cap-chat: NNP NE city nc  
+cap-sante: NNP NE city nc  
+capital-intensive: A ac  hyphenated property 
+car-ferry: NN nc  count hyphenated tool 
+car-time: N  nc hyphenated quant 
+carbonia-iglesias: NNP NE city nc  
+card-sharper: N  nc count hyphenated 
+cardiff-by-the-sea: NNP NE city nc  
+care-free: A ac  hyphenated pt 
+care-laden: A ac  hyphenated pt 
+carleton-sur-mer: NNP NE city nc  
+carmel-by-the-sea: NNP NE city nc  
+carrick-on-suir: NNP NE city nc  
+carrier-borne: A ac  hyphenated performance 
+carry-on: A NN nc  artifact hyphenated 
+carry-scraper: N  nc artifact hyphenated 
+carrying-on: N  nc artifact hyphenated 
+carryings-on: N  nc artifact hyphenated 
+cart-driver: N  nc hyphenated per 
+cart-track: N  nc count hyphenated 
+carte-de-visite: N  nc artifact hyphenated 
+cartridge-belt: N  nc count hyphenated 
+carving-fork: N  nc count hyphenated 
+case-hardened: A ac  hyphenated pt 
+case-history: NN nc  count hyphenated 
+caspita-brand: A  
+castleton-on-hudson: NNP NE city nc  
+castrop-rauxel: NNP NE city nc  
+cat-nap: N  nc count hyphenated 
+cat-sleep: N  nc count hyphenated 
+catch-22: NN nc  bad hyphenated problem 
+catch-all: A ac  hyphenated range 
+catholic-jewish: A  
+cattle-shed: N  nc artifact hyphenated 
+cease-fire: A NN nc  abstract act count hyphenated 
+cement-mixer: N  nc count hyphenated 
+centre-bit: N  nc count hyphenated 
+centre-board: N  nc count hyphenated 
+ceo-elect: N  nc hyphenated title 
+chain-letter: N  nc count hyphenated 
+chain-stitch: N  nc count hyphenated 
+chain-store: A NN nc  count hyphenated 
+chair-lift: N  nc count hyphenated 
+challenge-brownsville: NNP NE city nc  
+chalon-sur-saone: NNP NE city nc  
+champagne-ardenne: NNP NE city nc  
+champigny-sur-marne: NNP NE city nc  
+champs-sur-marne: NNP NE city nc  
+chapelle-lez-herlaimont: NNP NE city nc  
+chaplin-like: A  
+charcoal-burner: N  nc count hyphenated 
+chardonnay-sipping: A  
+charenton-le-pont: NNP NE city nc  
+charge-account: N  nc count hyphenated 
+charge-sheet: N  nc count hyphenated 
+charter-party: N  nc count hyphenated 
+chateau-richer: NNP NE city nc  
+chatenay-malabry: NNP NE city nc  
+chaw-bacon: N  nc count hyphenated 
+cheerios-brand: A  
+cherbourg-octeville: NNP NE city nc  
+cherry-red: A ac  color hyphenated 
+chest-developer: N  nc artifact hyphenated 
+chest-expander: N  nc artifact hyphenated 
+chest-protector: N  nc artifact hyphenated 
+chestnut-brown: A ac  color hyphenated 
+chicken-run: N  nc count hyphenated 
+chilcoot-vinton: NNP NE city nc  
+chimney-sweep: N  nc count hyphenated 
+chin-wagging: A NN nc  abstract hyphenated info 
+china-investment: A  
+chinese-american: A NN  
+chinese-british: A  
+chock-a-block: A ac  APP hyphenated pred 
+chock-ful: A ac  APP hyphenated pred situation 
+chock-full: A ac  APP hyphenated pred situation 
+choisy-le-roi: NNP NE city nc  
+choke-full: A ac  hyphenated situation 
+chop-house: N  nc count hyphenated 
+choreographer-director: N  nc hyphenated per 
+chorus-girl: N  nc count hyphenated 
+christ-like: A  
+christian-moslem: A  
+christmas-like: A  
+christmas-season: NN  
+christmas-time: A  
+christmas-tree: A  
+church-state: A NN nc  abstract hyphenated 
+cigarette-case: N  nc count hyphenated 
+cigarette-holder: N  nc count hyphenated 
+cincinnati-bell: NN com nc 
+cinder-track: N  nc count hyphenated 
+cine-projector: N  nc count hyphenated 
+civet-cat: N  nc count hyphenated 
+clamp-down: N  nc count hyphenated 
+class-action: A NN  
+class-list: N  nc count hyphenated 
+clausthal-zellerfeld: NNP NE city nc  
+clean-handed: A ac  hyphenated standard 
+clear-cut: A ac  content hyphenated 
+clear-sighted: A ac  comfortW hyphenated 
+clear-thinking: A ac  hyphenated pt 
+clear-visioned: A ac  hyphenated pt 
+clermont-ferrand: NNP NE city nc  
+clichy-sous-bois: NNP NE city nc  
+cliff-hanger: N  nc count hyphenated 
+climb-down: N  nc count hyphenated 
+clip-joint: N  nc count group hyphenated 
+clo-oose: NNP NE city nc  
+clock-dial: N  nc count hyphenated 
+clock-face: N  nc count hyphenated 
+clock-tower: N  nc count hyphenated 
+close-down: N  nc count hyphenated 
+close-grained: A ac  hyphenated looks 
+close-knitted: A ac  hyphenated pt 
+closely-tight: A ac  density hyphenated 
+cloth-wrapper: N  nc artifact hyphenated 
+clothes-basket: N  nc count hyphenated 
+clothes-hanger: N  nc count hyphenated 
+clothes-peg: N  nc count hyphenated 
+clothes-pin: N  nc count hyphenated 
+clothes-rack: N  nc artifact hyphenated 
+cloud-bank: N  nc count hyphenated 
+cloud-sheet: N  nc hyphenated natural 
+club-head: N  nc hyphenated tool 
+cluj-napoca: NNP NE city nc  
+clumsy-tongued: A ac  hyphenated nt 
+co-administration: N  nc hyphenated vacOf 
+co-beneficiary: NN nc  hyphenated per 
+co-ceo: NNP  
+co-CEOs: N  nc hyphenated title 
+co-ed: A NN nc  count hyphenated per 
+co-worker: N  nc hyphenated per 
+coach-builder: N  nc count hyphenated 
+coal-hole: N  nc count hyphenated 
+coal-house: N  nc count hyphenated 
+coal-scuttle: N  nc count hyphenated 
+coals-to-newcastle: A  
+coarse-grained: A ac  hyphenated quality 
+coat-hanger: N  nc count hyphenated 
+cob-nut: N  nc count hyphenated 
+cobalt-60: N  nc hyphenated natural 
+coca-cola: NN com nc 
+cock-crow: N  nc count hyphenated 
+cocky-leeky: NN nc  artifact hyphenated 
+code-names: N V Xs   
+coffee-percolator: N  nc artifact hyphenated 
+coffee-shop: NN  
+coffee-stall: N  nc count hyphenated 
+coffer-dam: N  nc count hyphenated 
+coin-operated: A ac  hyphenated property 
+cold-bloodedly: RB ac  down hyphenated ly 
+cold-resistant: A ac  hyphenated pt 
+cold-shoulder: A ac  hyphenated nt vt 
+color-bar: N  nc count hyphenated 
+color-safe: A ac  hyphenated pt 
+color-stable: A ac  hyphenated pt 
+color-tv: NN  
+colour-bar: N  nc count hyphenated 
+comb-out: N  nc count hyphenated 
+combination-lock: N  nc count hyphenated 
+comblain-au-pont: NNP NE city nc  
+combs-la-ville: NNP NE city nc  
+combustion-supporting: A ac  chg hyphenated 
+come-at-able: A ac  easiness hyphenated 
+come-by-chance: NNP NE city nc  
+common-room: N  nc count hyphenated 
+community-wide: A ac  hyphenated range 
+computer-aided: A ac  hyphenated 
+computer-assisted: A ac  hyphenated 
+comrade-in-arms: N  nc hyphenated per 
+con-man: N  nc count hyphenated nt per 
+concert-hall: N  nc count hyphenated 
+conflans-sainte-honorine: NNP NE city nc  
+conscience-stricken: A ac  hyphenated nt stateMental 
+constant-pressure: A ac  behavior hyphenated 
+consulate-general: NNP  
+conveyer-belt: N  nc count hyphenated 
+cookery-book: N  nc count hyphenated 
+cookshire-eaton: NNP NE city nc  
+cool-headed: A ac  APP behavior hyphenated 
+coral-red: A ac  color hyphenated 
+coral-reef: N  nc count hyphenated 
+corbeil-essonnes: NNP NE city nc  
+corn-exchange: N  nc count hyphenated 
+corner-kick: N  nc count hyphenated 
+cornwall-on-hudson: NNP NE city nc  
+corp.-toyota: A  
+corpus-based: A ac  hyphenated performance 
+cortil-wodon: NNP NE city nc  
+cost-effectiveness: NN nc  effectivity hyphenated ness 
+couch-potato: NN  
+coudekerque-branche: NNP NE city nc  
+council-board: N  nc count hyphenated 
+council-chamber: N  nc count hyphenated 
+counter-example: N  nc count hyphenated 
+counter-offer: N  nc chg hyphenated 
+counter-revolutionary: A NN nc  count hyphenated per 
+counter-stream: N  nc hyphenated natural 
+counter-terrorism: A ac  chg hyphenated 
+counting-house: N  nc count hyphenated 
+country-and-western: A  
+country-house: N  nc count hyphenated 
+country-seat: N  nc count hyphenated 
+county-level: A ac  attachment hyphenated 
+court-awarded: A  
+court-card: N  nc count hyphenated 
+court-martial: N deverbal nc  VerbNom component count hyphenated orgHN vt 
+crack-down: N  nc count hyphenated 
+crack-up: N  nc count hyphenated 
+cramp-iron: N  nc count hyphenated 
+crash-landing: N  nc count hyphenated 
+cream-coloured: A ac  color hyphenated 
+crease-proof: A ac  hyphenated pt 
+credit-side: N  nc count hyphenated 
+crew-cut: N  nc count hyphenated 
+crew-neck: N  nc count hyphenated 
+cribbage-board: N  nc count hyphenated 
+crime-ridden: A ac  hyphenated troubleW 
+crisis-ridden: A ac  hyphenated troubleW 
+crochet-hook: N  nc count hyphenated 
+croom-a-coochee: NNP NE city nc  
+cross-bencher: N  nc count hyphenated 
+cross-century: A ac  hyphenated property 
+cross-contamination: A ac  hyphenated troubleW 
+cross-country: A NN RB nc  hyphenated 
+cross-discipline: A ac  hyphenated property 
+cross-heading: N  nc count hyphenated 
+cross-language: A ac  hyphenated property 
+cross-legged: A ac  chg hyphenated 
+cross-reference: N  nc count hyphenated 
+cross-trade: A ac  hyphenated property 
+cross-trainer: N  nc hyphenated prod 
+croton-on-hudson: NNP NE city nc  
+crude-goods: NNS  
+crypto-communication: N  nc hyphenated info 
+cuckoo-bud: N  nc hyphenated plant 
+cuesta-by-the-sea: NNP NE city nc  
+cul-de-sac: N  nc count hyphenated situation 
+cup-bearer: N  nc count hyphenated 
+cup-final: N  nc count hyphenated 
+cup-shaped: A ac  hyphenated looks 
+cup-tie: N  nc count hyphenated 
+cure-all: A NN nc  artifact count hyphenated 
+curtain-call: N  nc count hyphenated 
+curtain-lecture: N  nc count hyphenated 
+customer-access: NN  
+cut-out: N  nc count hyphenated 
+cut-throat: A NN nc  APP AitPPforTO count hyphenated 
+cutting-edge: A NN ac  hyphenated n pt 
+cutting-room: N  nc count hyphenated 
+cv-joint: N  nc hyphenated tool 
+cyber-attack: N deverbal nc  attack chg count hyphenated nt 
+d-day: N  nc hyphenated timeUnit 
+d-layer: N  nc hyphenated 
+d-marks: NNS  
+d-percentage: NN  
+da-da-da-dum: A  
+dali-esque: A  
+damariscotta-newcastle: NNP NE city nc  
+dammarie-les-lys: NNP NE city nc  
+dance-hall: N  nc count hyphenated 
+dance-hostess: N  nc hyphenated per 
+dannstadt-schauernheim: NNP NE city nc  
+dapple-grey: NN nc  count hyphenated 
+darby-lux: NNP NE city nc  
+darreh-shahr: NNP NE city nc  
+dasht-e-kavir: NNP NE city nc  
+dasht-e-lut: NNP NE city nc  
+data-base: A NN nc  artifact hyphenated 
+data-driven: A ac  hyphenated pt 
+daughter-in-law: N  nc hyphenated per 
+davyd-haradok: NNP NE city nc  
+day-by-day: A ac  content hyphenated 
+day-laborer: N  nc count hyphenated 
+day-labourer: N  nc count hyphenated 
+day-return: N  nc count hyphenated 
+day-to-day: A ac  content hyphenated 
+de-americanization: NN  
+de-emph: N deverbal nc  hyphenated 
+dead-on: A ac  hyphenated pt 
+death-mask: N  nc count hyphenated 
+death-rate: N  nc count hyphenated 
+death-warrant: N  nc count hyphenated 
+debit-side: N  nc count hyphenated 
+debt-free: A ac  hyphenated property 
+decines-charpieu: NNP NE city nc  
+deed-box: N  nc count hyphenated 
+deep-rooted: A ac  content degree hyphenated situation 
+deep-seated: A ac  degree hyphenated intimacy 
+delayed-action: A ac  count hyphenated 
+demand-driven: A ac  hyphenated performance 
+demitz-thumitz: NNP NE city nc  
+depth-bomb: N  nc count hyphenated 
+depth-charge: N  nc count hyphenated 
+depth-sounder: N  nc artifact hyphenated 
+deuil-la-barre: NNP NE city nc  
+deutsch-griffen: NNP NE city nc  
+deutsch-wagram: NNP NE city nc  
+deux-montagnes: NNP NE city nc  
+diazo-compound: N  nc artifact hyphenated 
+dice-box: N  nc count hyphenated 
+dichloro-diphenyl-trichloroethane: N  nc artifact hyphenated 
+die-casting: N  nc chg hyphenated 
+die-hard: A ac  count hyphenated 
+dietzenrode-vatterode: NNP NE city nc  
+different-level: A ac  hyphenated rank 
+difficult-to-treat: A ac  hyphenated troubleW 
+dim-eyesighted: A ac  hyphenated nt 
+dim-sighted: A ac  hyphenated nt 
+dim-witted: A ac  ebla hyphenated 
+dining-car: N  nc count hyphenated 
+dining-table: N  nc count hyphenated 
+dinner-party: N  nc count hyphenated 
+dinner-set: N  nc count hyphenated 
+direction-finder: N  nc count hyphenated 
+dirt-track: N  nc count hyphenated 
+dirt-wagon: N  nc artifact hyphenated 
+disc-spinning: N  nc hyphenated 
+disease-resistant: A ac  hyphenated pt 
+dispatch-rider: N  nc count hyphenated 
+divan-bed: N  nc count hyphenated 
+dive-bomber: N  nc count hyphenated 
+dividend-warrant: N  nc count hyphenated 
+diving-bell: N  nc count hyphenated 
+diving-suit: N  nc count hyphenated 
+dmitriyev-lgovsky: NNP NE city nc  
+do-gooder: A NN nc  count hyphenated per 
+do-nothing: A ac  hyphenated per 
+do-or-die: A ac  act hyphenated 
+doberlug-kirchhain: NNP NE city nc  
+doberschau-gaussig: NNP NE city nc  
+doe-site: NN  
+dog-cart: N  nc count hyphenated 
+dog-collar: N  nc count hyphenated 
+dolbeau-mistassini: NNP NE city nc  
+domaljevac-samac: NNP NE city nc  
+don-tol: NNP NE city nc  
+donkey-jacket: N  nc count hyphenated 
+door-god: N  nc hyphenated per 
+dorfles-esbach: NNP NE city nc  
+dormer-window: N  nc count hyphenated 
+doss-house: N  nc count hyphenated 
+double-barreled: A ac  hyphenated looks 
+double-barrelled: A ac  hyphenated looks 
+double-bass: A NN nc  count hyphenated 
+double-breasted: A ac  hyphenated looks 
+double-cross: N  nc count hyphenated vt 
+double-digit: A ac  hyphenated pt 
+double-duty: A ac  hyphenated role 
+double-face: N  nc hyphenated per 
+double-faced: A ac  hyphenated troubleW 
+double-first: N  nc count hyphenated 
+double-layered: A ac  hyphenated looks 
+double-sided: A ac  component hyphenated 
+double-spacing: NN nc  hyphenated length 
+double-storey: A ac  content hyphenated 
+double-taxation: N  nc chg hyphenated 
+doublea-2: A  
+doughnut-shaped: A ac  hyphenated looks 
+down-and-out: A ac  count hyphenated negAdj per 
+down-slide: N  nc hyphenated nt 
+drawing-board: N  nc count hyphenated 
+drawing-pin: N  nc count hyphenated 
+dress-hanger: N  nc count hyphenated 
+dressing-case: N  nc count hyphenated 
+dressing-table: N  nc count hyphenated 
+dried-up: A ac  damp hyphenated quant 
+drift-net: A NN nc  count hyphenated 
+drinking-bout: N  nc count hyphenated 
+drinking-fountain: N  nc count hyphenated 
+drinking-song: N  nc count hyphenated 
+dripping-pan: N  nc count hyphenated 
+driving-belt: N  nc count hyphenated 
+drop-dead: RB degree hyphenated 
+drop-off: A NN deverbal nc  VerbNom hyphenated 
+drosendorf-zissersdorf: NNP NE city nc  
+drought-enduring: A ac  ebla hyphenated 
+drought-stricken: A ac  hyphenated nt 
+drug-dealing: A NN  
+drug-fast: A ac  ebla hyphenated 
+drug-resistant: A ac  ebla hyphenated 
+drum-tower: N  nc artifact hyphenated 
+drum-type: A ac  hyphenated looks 
+dry-cleaner: N  nc count hyphenated 
+dual-purpose: A ac  hyphenated role 
+ducking-stool: N  nc count hyphenated 
+dull-witted: N  nc behavior hyphenated 
+durrrohrsdorf-dittersbach: NNP NE city nc  
+dust-coat: N  nc count hyphenated 
+dust-gown: N  nc artifact hyphenated 
+dust-jacket: N  nc count hyphenated 
+dust-robe: N  nc artifact hyphenated 
+dust-sheet: N  nc count hyphenated 
+dust-wrapper: N  nc count hyphenated 
+dutch-elm-disease: NN  
+duty-free: A ac  ebla hyphenated 
+dwelling-house: N  nc count hyphenated 
+e-bomb: N  nc hyphenated tool 
+e-Home: N  nc group hyphenated 
+e-mailbox: N  nc artifact hyphenated 
+e-z: A  
+eagle-eyed: A ac  ebla hyphenated 
+ear-piercing: A ac  hyphenated soundVol 
+ear-plug: N  nc artifact hyphenated 
+ear-trumpet: N  nc count hyphenated 
+early-maturing: A ac  hyphenated situation 
+early-ripe: RB hyphenated situation 
+earth-based: A ac  hyphenated natural 
+earth-bred: A ac  hyphenated source 
+earth-shaking: RB behavior hyphenated 
+earth-week: NN  
+earth-weeks: NNS  
+earthquake-proof: A ac  ebla hyphenated 
+ease-up: A ac  chg hyphenated 
+east-sider: N  nc hyphenated per 
+easy-going: A ac  hyphenated pt 
+easy-to-use: A ac topN3  hyphenated pt vac 
+eating-house: N  nc count hyphenated 
+ebersbach-musbach: NNP NE city nc  
+echo-endoscopy: N  nc hyphenated tech 
+eco-system: NN nc  component hyphenated
+edgewater-paisano: NNP NE city nc  
+edingen-neckarhausen: NNP NE city nc  
+efringen-kirchen: NNP NE city nc  
+egg-beater: N  nc count hyphenated tool 
+egg-cup: N  nc count hyphenated 
+egg-shaped: A ac  hyphenated looks 
+egg-whisk: N  nc count hyphenated tool 
+ehra-lessien: NNP NE city nc  
+eight-foot-tall: A  
+eighth-final: N  nc hyphenated 
+eighty-five: CD  
+eighty-one: CD  
+eighty-sixth: CD  
+eighty-three: CD  
+eisenkappel-vellach: NNP NE city nc  
+ejector-seat: N  nc count hyphenated 
+el-mo'alla: NNP NE city nc  
+el-tor: NNP NE city nc  
+elbe-parey: NNP NE city nc  
+electron-communication: N  nc hyphenated 
+eleftherio-kordelio: NNP NE city nc  
+elwood-magnolia: NNP NE city nc  
+emilia-romagna: NNP NE city nc  
+emmingen-liptingen: NNP NE city nc  
+empty-handed: A ac  hyphenated negAdj statePhy 
+empty-headed: A ac  hyphenated nt 
+end-result: N  nc hyphenated 
+enemy-held: A ac  attachment hyphenated 
+enemy-jew: NN  
+english-dialogue: A  
+english-dutch: A  
+english-language: A NN  
+english-rights: A  
+english-speakers: NNS  
+enkenbach-alsenborn: NNP NE city nc  
+entrance-fee: N  nc count hyphenated 
+enzesfeld-lindabrunn: NNP NE city nc  
+epinay-sur-seine: NNP NE city nc  
+epoch-making: A ac  hyphenated quality 
+equal-sign: N  nc hyphenated info 
+erlton-ellisburg: NNP NE city nc  
+erps-kwerps: NNP NE city nc  
+error-free: A ac  hyphenated pt 
+essen-werden: NNP NE city nc  
+estonian-language: A  
+euro-banners: NNS  
+euro-beach: A NN  
+euro-caps: NNS  
+euro-cards: NNS  
+euro-factories: NNS  
+euro-housewife: NN  
+euro-jogging: A  
+euro-pillows: NNS  
+euro-son: NN  
+euro-watches: NNS  
+european-american: NN nc  hyphenated origin 
+european-branch: A  
+ever-growing: A ac  hyphenated statePhy 
+ever-increasing: A ac  hyphenated statePhy 
+ever-victorious: A ac  ebla hyphenated 
+evil-doer: N  nc count hyphenated 
+evil-eyed: A ac  hyphenated nt 
+ex-beecham: A  
+ex-communist: A NN  
+ex-cubs: NNS  
+ex-dividend: A NN RB  
+ex-fda: A  
+ex-governor: N  nc hyphenated per 
+ex-house: A  
+ex-justice: NN  
+ex-national: A  
+ex-tory: NN  
+ex-yankee: NN  
+executive-branch: A  
+export-oriented: A ac  hyphenated property 
+extra-budgetary: A ac  hyphenated property 
+extra-high: A ac  height hyphenated 
+extra-large: A ac  hyphenated size 
+extra-long: A ac  hyphenated length 
+extra-thin: A ac  hyphenated thick 
+exxon-valdez: A  
+eye-bag: N  nc component hyphenated 
+eye-catching: A ac  attractive hyphenated 
+eye-lotion: N  nc hyphenated prod 
+eye-opener: N  nc count hyphenated thing 
+eye-popping: A ac  bright hyphenated 
+eyes-only: A ac  content hyphenated 
+face-ache: N  nc count hyphenated 
+face-card: N  nc count hyphenated 
+face-cloth: N  nc count hyphenated 
+face-pack: N  nc count hyphenated 
+face-saver: N  nc count hyphenated 
+face-to-face: A ac idiom  RB dir hyphenated 
+fag-end: N  nc count hyphenated 
+fail-safe: A ac  hyphenated tool 
+fair-and-square: A ac  comfortW hyphenated 
+fair-minded: A ac  behavior hyphenated 
+fair-skinned: A ac  color hyphenated 
+fairhaven-on-the-bay: NNP NE city nc  
+fake-monger: N  nc chg hyphenated 
+famous-brand: A ac  hyphenated pt 
+fan-shaped: N  nc hyphenated phy 
+far-between: A ac  hyphenated quant 
+far-distant: A ac  hyphenated length 
+far-famed: A ac  APP hyphenated reputation 
+far-reaching: A ac  content hyphenated 
+farm-machine: NN  
+fascio-communist: A  
+fast-knot: N  nc hyphenated phy 
+fat-free: A ac  hyphenated pt 
+father-in-law: N  nc hyphenated relatives 
+fault-finder: N  nc count hyphenated 
+feast-day: N  nc count hyphenated 
+federal-court: A  
+feeble-mindedness: N  nc ebla hyphenated ness 
+feldkirchen-westerham: NNP NE city nc  
+fellow-townsman: N  nc hyphenated per 
+fellow-traveller: N  nc count hyphenated 
+fexhe-le-haut-clocher: NNP NE city nc  
+fifteen-sixteenths: CD  
+fifty-five: CD  
+fifty-four: CD  
+fifty-ninth: CD  
+fifty-one: CD  
+fifty-seven: CD  
+fifty-third: CD  
+fifty-three: CD  
+fifty-two: A  
+fig-leaf: N  nc count hyphenated 
+final-hour: A  
+fine-grained: A ac  hyphenated quality 
+fine-looking: A ac  good hyphenated 
+finger-pointing: A NN nc  abstract hyphenated 
+finger-print: N  nc hyphenated info 
+fire-safe: A ac  hyphenated pt 
+first-rate: A ac  hyphenated pt 
+first-rater: N  nc hyphenated per 
+fish-hook: N  nc count hyphenated 
+fish-slice: N  nc count hyphenated 
+five-hundred: CD  
+fixed-termed: A ac  dur hyphenated 
+flare-up: N  nc count hyphenated 
+flash-frozen: A ac  chg hyphenated 
+flash-light: N  nc artifact hyphenated 
+flat-breasted: A ac  hyphenated troubleW 
+flat-car: N  nc count hyphenated 
+flat-chested: A ac  fat hyphenated 
+fleet-foot: N  nc component hyphenated 
+fleming-neon: NNP NE city nc  
+flesh-coloured: A ac  color hyphenated 
+flesh-eating: A ac  hyphenated pt 
+fleury-les-aubrais: NNP NE city nc  
+flick-knife: N  nc count hyphenated tool 
+flip-top: N  nc artifact hyphenated 
+flood-stricken: A ac  hyphenated troubleW 
+floor-walker: N  nc count hyphenated 
+florence-graham: NNP NE city nc  
+florence-roebling: NNP NE city nc  
+flower-drum: N  nc artifact hyphenated 
+fluorn-winzeln: NNP NE city nc  
+fly-swat: N  nc count hyphenated 
+fly-swatter: N  nc count hyphenated 
+follow-on: A ac  abstract count hyphenated 
+follow-through: A NN nc  abstract hyphenated 
+follow-up: A NN deverbal nc topN3  VerbNom hyphenated 
+fontenay-aux-roses: NNP NE city nc  
+fontenay-sous-bois: NNP NE city nc  
+foot-bath: N  nc count hyphenated 
+foot-binding: N  nc chg hyphenated 
+foot-race: N  nc count hyphenated 
+fore-and-after: NN nc  hyphenated tool 
+forli-cesena: NNP NE city nc  
+form-free: A ac  hyphenated range 
+fort-coulonge: NNP NE city nc  
+fort-de-france: NNP NE city nc  
+fort-lamy: NNP NE city nc  
+fortune-teller: N  nc hyphenated per 
+forty-eight: CD  
+forty-fifth: CD  
+forty-nine: A  
+forty-one: A  
+forty-second: A  
+forty-seven: CD  
+forty-six: CD  
+forty-third: A  
+forty-three: CD  
+forty-two: CD  
+fosses-la-ville: NNP NE city nc  
+foster-brother: N  nc count hyphenated relatives 
+foster-child: N  nc count hyphenated relatives 
+foster-father: N  nc count hyphenated relatives 
+foster-mother: N  nc count hyphenated relatives 
+foster-parent: N  nc count hyphenated relatives 
+foster-sister: N  nc count hyphenated relatives 
+foul-smelling: A ac  hyphenated odor 
+four-fifths: CD  
+four-in-hand: A NN nc  count hyphenated tool 
+fowl-run: N  nc count hyphenated 
+franche-comte: NNP NE city nc  
+franco-american: N  nc hyphenated per 
+frankenau-unterpullendorf: NNP NE city nc  
+franking-machine: N  nc count hyphenated 
+freak-out: N  nc count hyphenated 
+fredersdorf-vogelsdorf: NNP NE city nc  
+free-list: N  nc count hyphenated 
+free-thinker: N  nc count hyphenated 
+freight-train: N  nc count hyphenated 
+french-canadians: NNP Xs  
+french-franc: NN  
+french-italian: A  
+french-language: A  
+french-modeled: A  
+frenchtown-rumbly: NNP NE city nc  
+frequently-used: A ac  hyphenated role 
+friday-the-13th: A NN  
+frock-coat: N  nc count hyphenated 
+front-bench: N  nc count hyphenated 
+front-bencher: N  nc count hyphenated 
+front-line: A NN  
+front-page: A NN nc  component hyphenated 
+fry-pan: N  nc count hyphenated 
+frydek-mistek: NNP NE city nc  
+ft-l: N nc unit  hyphenated 
+fuddy-duddy: A NN nc  count hyphenated per 
+fuji-apple: A  
+full-court: RB hyphenated range 
+full-flavored: A ac  hyphenated taste 
+full-grown: A ac  hyphenated quant situation 
+full-growth: N  nc hyphenated 
+full-length: A NN ac  dir hyphenated length 
+full-load: VB vc  enMove hyphenated 
+full-size: A ac  hyphenated size 
+full-time: A ac idiom topN3  RB dur hyphenated 
+funny-bone: N  nc count hyphenated 
+fuquay-varina: NNP NE city nc  
+fuse-wire: N  nc artifact hyphenated 
+g-jo: N  nc hyphenated 
+g-man: N  nc hyphenated job 
+g-string: N  nc hyphenated tool 
+gaily-coloured: A ac  color hyphenated 
+galley-proof: N  nc count hyphenated 
+galley-slave: N  nc count hyphenated 
+gambling-den: N  nc count hyphenated 
+game-bag: N  nc count hyphenated 
+game-bird: N  nc count hyphenated 
+game-licence: N  nc count hyphenated 
+gaming-house: N  nc count hyphenated 
+gaming-table: N  nc count hyphenated 
+garbage-can: N  nc count hyphenated 
+garmisch-partenkirchen: NNP NE city nc  
+gas-bracket: N  nc count hyphenated 
+gas-holder: N  nc count hyphenated 
+gas-mask: N  nc count hyphenated 
+gas-ring: N  nc count hyphenated 
+gas-stove: N  nc count hyphenated 
+gau-algesheim: NNP NE city nc  
+gau-odernheim: NNP NE city nc  
+gavrilov-yam: NNP NE city nc  
+gbu-28: N  nc hyphenated tool 
+gear-case: N  nc count hyphenated 
+gene-mapping: N  nc hyphenated 
+general-purpose: A ac  hyphenated role 
+geneva-on-the-lake: NNP NE city nc  
+geo-culture: N  nc hyphenated mental 
+gerersdorf-sulz: NNP NE city nc  
+german-french: A  
+german-italian: A  
+german-language: A  
+germano-slavic: A  
+get-up: N  nc count hyphenated 
+ghost-writer: N  nc count hyphenated 
+gif-sur-yvette: NNP NE city nc  
+ginsheim-gustavsburg: NNP NE city nc  
+glan-munchweiler: NNP NE city nc  
+glass-blower: N  nc count hyphenated 
+glass-cutter: N  nc count hyphenated 
+glib-tongued: A ac  hyphenated pt 
+globig-bleddin: NNP NE city nc  
+glory-hole: N  nc count hyphenated 
+glove-compartment: N  nc count hyphenated 
+go-by: N  nc count hyphenated 
+go-head: N  nc behavior hyphenated 
+god-awful: A  
+god-curst: A  
+god-forsaken: A  
+goegnies-chaussee: NNP NE city nc  
+gold-beater: N  nc count hyphenated job 
+gold-digger: N  nc count hyphenated 
+gold-inlaid: VB vc  hyphenated moveIn 
+gold-plated: A ac  hyphenated pt 
+gold-rush: N  nc count hyphenated 
+gold-worker: N  nc hyphenated job 
+golf-club: N  nc count hyphenated prod 
+golf-course: N  nc count hyphenated 
+golf-links: N  nc count hyphenated 
+good-by: NN RB UH nc  abstract hyphenated info 
+good-bye: A NN UH nc  abstract hyphenated 
+good-for-naught: A NN nc  count hyphenated per 
+good-for-nothing: A ac  count ebla hyphenated per 
+good-hearted: A ac  hyphenated pt 
+good-looking: A ac  coolC hyphenated 
+good-natured: A ac  AitPPforTO hyphenated pt 
+good-neighbourliness: NN nc  hyphenated ness pt 
+goody-goody: NN UH nc  count hyphenated per 
+goose-step: N  nc count hyphenated posture 
+gorno-altaysk: NNP NE city nc  
+gossip-monger: N  nc hyphenated per 
+gottlesbrunn-arbesthal: NNP NE city nc  
+governor-general: NNP nc  hyphenated per 
+governor-generalship: N  nc hyphenated job 
+gps-enabled: A ac  hyphenated pt 
+graal-muritz: NNP NE city nc  
+graben-neudorf: NNP NE city nc  
+grade-a: A  
+gram-negative: A ac  hyphenated quality 
+gram-positive: A ac  hyphenated quality 
+gran-ville: NNP NE city nc  
+grand-aunt: N  nc hyphenated per 
+grand-reng: NNP NE city nc  
+granddaugfter-in-law: N  nc hyphenated per 
+grande-synthe: NNP NE city nc  
+grandson-in-law: N  nc hyphenated per 
+grappling-iron: N  nc count hyphenated 
+gravy-boat: N  nc count hyphenated 
+gray-haired: A ac  color hyphenated 
+gray-headed: A ac  color hyphenated 
+graymoor-devondale: NNP NE city nc  
+grease-stained: A ac  clean hyphenated 
+great-aunt: N  nc hyphenated relatives 
+great-great-grandmother: N  nc hyphenated per 
+great-great-grandson: N  nc hyphenated per 
+greek-canadian: A  
+green-blindness: NN nc  hyphenated ness phenomena 
+green-fields: NNP NE city nc  
+greenish-grey: A ac  color hyphenated 
+grenville-sur-la-rouge: NNP NE city nc  
+grenzach-wyhlen: NNP NE city nc  
+grey-haired: A ac  color hyphenated 
+grey-headed: A ac  color hyphenated 
+grez-doiceau: NNP NE city nc  
+gris-gris: N  nc ebla hyphenated 
+grisha-class: A  
+gross-bieberau: NNP NE city nc  
+gross-engersdorf: NNP NE city nc  
+gross-enzersdorf: NNP NE city nc  
+gross-gerau: NNP NE city nc  
+gross-schweinbarth: NNP NE city nc  
+gross-umstadt: NNP NE city nc  
+gross-zimmern: NNP NE city nc  
+ground-plan: N  nc count hyphenated 
+ground-rent: N  nc count hyphenated 
+ground-to-air: A ac  hyphenated performance 
+ground-to-ground: A ac  hyphenated performance 
+group-of-seven: NN  
+grown-up: A NN nc  count hyphenated per 
+grunhain-beierfeld: NNP NE city nc  
+gu-win: NNP NE city nc  
+guazu-cua: NNP NE city nc  
+guest-night: N  nc count hyphenated 
+guine-bissau: N nc country  hyphenated natural 
+guinea-bissau: NNP NE country nc  
+guinea-pig: N  nc count hyphenated 
+gun-carriage: N  nc count hyphenated 
+gunny-bag: N  nc artifact hyphenated 
+gunthersleben-wechmar: NNP NE city nc  
+gus-khrustalny: NNP NE city nc  
+gut-democratic: A  
+gutenzell-hurbel: NNP NE city nc  
+h-bomb: N  nc hyphenated tool 
+hack-driver: N  nc hyphenated job 
+hacker-safe: A ac  hyphenated pt 
+hadersdorf-kammern: NNP NE city nc  
+hag-ehrsberg: NNP NE city nc  
+hagen-haspe: NNP NE city nc  
+hagen-hohenlimburg: NNP NE city nc  
+hagen-priorei: NNP NE city nc  
+hail-fellow-well-met: A ac  behavior hyphenated 
+hair-breadth: N  nc count hyphenated 
+hair-brush: N  nc artifact hyphenated 
+hair-clippers: N  nc artifact hyphenated 
+hair-raising: A ac  ebla hyphenated 
+hair-restorer: N  nc artifact hyphenated 
+hair-shirt: N  nc count hyphenated 
+hair-slide: N  nc count hyphenated 
+hair-thin: A ac  fineness hyphenated 
+half-blood: A ac  count hyphenated 
+half-bred: A ac  content hyphenated 
+half-breed: A NN nc  count hyphenated per 
+half-brother: N  nc count hyphenated relatives 
+half-century: A NN nc  hyphenated timeUnit 
+half-cooked: A ac  hyphenated situation 
+half-crown: N  nc count hyphenated 
+half-holiday: NN nc  count hyphenated timeUnit 
+half-hour: A NN nc  count hyphenated timeUnit vac 
+half-intensity: A NN nc  abstract hyphenated 
+half-length: A NN ac  hyphenated length 
+half-sister: N  nc count hyphenated relatives 
+half-track: N  nc count hyphenated 
+half-volley: N  nc count hyphenated 
+half-witted: A ac  hyphenated nt 
+hall-stand: N  nc count hyphenated 
+halle-an-der-saale: NNP NE city nc  
+halle-booienhoven: NNP NE city nc  
+ham-handed: A ac  behavior hyphenated 
+hamburg-harburg: NNP NE city nc  
+hand-barrow: N  nc count hyphenated 
+hand-basket: N  nc artifact hyphenated 
+hand-crafted: A ac  hyphenated situation 
+hand-me-down: A ac  count hyphenated 
+hand-organ: N  nc count hyphenated 
+hand-out: N  nc count hyphenated 
+hand-to-mouth: A ac  hyphenated situation 
+handie-talkie: N  nc artifact hyphenated 
+hands-off: A ac  act hyphenated 
+hanerau-hademarschen: NNP NE city nc  
+hanna-barbera: NN com nc 
+happy-go-lucky: A ac  hyphenated prospect 
+harbeck-fruitdale: NNP NE city nc  
+hard-earned: A ac  hyphenated pt 
+hard-going: A ac  hyphenated nt 
+hard-working: A ac  hyphenated pt 
+hardest-hit: A  
+harum-scarum: A ac idiom  RB count hyphenated 
+hastings-on-hudson: NNP NE city nc  
+hat-trick: N  nc hyphenated 
+haute-normandie: NNP NE city nc  
+hauts-de-seine: NNP NE city nc  
+have-not: A NN nc  hyphenated per 
+hawk-nosed: A ac  hyphenated looks 
+hazel-brown: A ac  color hyphenated 
+hdtv-screen: A  
+head-ache: N  nc hyphenated nt 
+head-hunter: N  nc count hyphenated 
+head-on: A NN  RB behavior hyphenated 
+head-to-head: A idiom  RB beSame hyphenated perF withWhom 
+heart-broken: A ac  annoy hyphenated 
+heart-to-heart: A ac  abstract hyphenated 
+heart-whole: A ac  behavior hyphenated 
+heat-resisting: A ac  ebla hyphenated 
+heat-sensitive: A ac  ebla hyphenated 
+heavy-duty: A NN ac  hyphenated size 
+heavy-footed: A ac  hyphenated nt 
+heavy-handed: A ac  hyphenated nt 
+heavy-hearted: A ac  hyphenated nt stateMental 
+heebie-jeebies: NNS Xs nc  abstract hyphenated 
+heigh-ho: UH  
+heist-aan-zee: NNP NE city nc  
+heist-goor: NNP NE city nc  
+heist-op-den-berg: NNP NE city nc  
+helmstadt-bargen: NNP NE city nc  
+helter-skelter: A ac  count hyphenated situation 
+hen-and-chickens: N  nc hyphenated plant 
+hen-party: N  nc count hyphenated 
+henin-beaumont: NNP NE city nc  
+henstedt-ulzburg: NNP NE city nc  
+hepatitis-b: NN  
+herdwangen-schonach: NNP NE city nc  
+herk-de-stad: NNP NE city nc  
+hermitage-sandyville: NNP NE city nc  
+herouville-saint-clair: NNP NE city nc  
+herzebrock-clarholz: NNP NE city nc  
+hewlett-packard: NN com nc 
+hi-nella: NNP NE city nc  
+hide-out: A NN nc  count hyphenated 
+hiding-place: N  nc count hyphenated 
+higgledy-piggledy: A ac  RB hyphenated nt 
+high-and-mighty: A ac  hyphenated pt 
+high-benefit: A ac  hyphenated pt 
+high-class: A ac  AitPPforTO hyphenated pt 
+high-concentration: A ac  concentration hyphenated 
+high-cost: A ac  hyphenated price 
+high-density: A ac  density hyphenated 
+high-efficacy: A ac  effectivity hyphenated 
+high-end: A ac  hyphenated pt vac 
+high-flown: A ac  hyphenated property 
+high-flying: A ac  hyphenated property 
+high-frequency: N  nc count hyphenated 
+high-grade: A ac  hyphenated quality rank 
+high-handed: A ac  AitPPforTO hyphenated nt 
+high-heeled: A ac  component hyphenated 
+high-income: A ac  ebla hyphenated 
+high-keyed: A ac  hyphenated stateMental 
+high-level: A ac  hyphenated rank standard 
+high-minded: A ac  hyphenated pt 
+high-mindedness: N  nc hyphenated ness 
+high-muck-a-muck: N  nc hyphenated per 
+high-payoff: A ac  hyphenated property 
+high-performance: A ac  hyphenated performance 
+high-pitched: A ac  hyphenated soundVol 
+high-power: A ac  hyphenated strength 
+high-powered: A ac  hyphenated pt 
+high-precision: A ac  hyphenated quality 
+high-pressure: A ac  hyphenated strength 
+high-price: A ac  hyphenated price 
+high-priced: A ac  hyphenated price 
+high-production: A ac  ebla hyphenated 
+high-protein: A ac  hyphenated property 
+high-ranking: A ac  hyphenated pt 
+high-rise: A NN nc  artifact hyphenated 
+high-risk: A ac  hyphenated troubleW 
+high-sounding: A ac  AitPPforTO hyphenated property 
+high-speed: A ac topN3  hyphenated pt speed 
+high-spirited: A ac  hyphenated pt 
+high-spiritedness: N  nc hyphenated ness stateMental 
+high-standard: A ac  hyphenated pt 
+high-temp-resisting: A ac  ebla hyphenated 
+high-tensile: A ac  hyphenated quality 
+high-toned: A ac  hyphenated soundVol 
+high-water: N  nc hyphenated situation 
+high-yield: A ac  hyphenated pt 
+higher-up: N  nc component hyphenated per 
+higher-ups: N  nc component hyphenated 
+highland-on-the-lake: NNP NE city nc  
+highly-developed: A ac  hyphenated pt 
+hilgertshausen-tandern: NNP NE city nc  
+hill-billy: N  nc count hyphenated 
+hills-hollywood: A  
+hip-flask: N  nc count hyphenated 
+hispanic-market: A  
+hit-and-run: A ac  chg hyphenated 
+hitachi-omiya: NNP NE city nc  
+hiv-1: N nc topN3  hyphenated nt 
+ho-ho-kus: NNP NE city nc  
+hoa-whup: UH  
+hoary-head: A ac  color hyphenated 
+hoary-headed: A ac  color hyphenated 
+hochdorf-assenheim: NNP NE city nc  
+hochneukirchen-gschaidt: NNP NE city nc  
+hofstetten-grunau: NNP NE city nc  
+hohenstein-ernstthal: NNP NE city nc  
+hohr-grenzhausen: NNP NE city nc  
+hoje-taastrup: NNP NE city nc  
+hole-and-corner: A ac  behavior hyphenated 
+holiday-maker: N  nc count hyphenated 
+holier-than-thou: A ac  behavior hyphenated 
+homburg-einod: NNP NE city nc  
+home-builder: N  nc hyphenated job 
+home-keeping: A  
+honest-to-betsy: RB  
+hoo-pig: UH  
+hook-nosed: A ac  hyphenated looks 
+hop-pole: N  nc count hyphenated 
+horror-stricken: A ac  ATO hyphenated troubleW 
+horse-cart: N  nc hyphenated tool 
+horse-laugh: N  nc count hyphenated 
+horse-pond: N  nc count hyphenated 
+hot-blooded: A ac  behavior hyphenated 
+hot-house: N  nc artifact hyphenated 
+hot-rod: N  nc hyphenated tool 
+hot-rolling: VB vc  chgForm hyphenated 
+hot-tempered: A ac  behavior hyphenated 
+hot-water-bottle: N  nc count hyphenated 
+hotevilla-bacavi: NNP NE city nc  
+house-floor: A  
+house-owner: N  nc hyphenated per 
+house-proud: A ac  hyphenated stateMental 
+house-renter: N  nc hyphenated per 
+house-senate: A  
+house-warming: N  nc count hyphenated 
+houston-dallas: A  
+howey-in-the-hills: NNP NE city nc  
+hrpelje-kozina: NNP NE city nc  
+hsv-1: N  nc hyphenated nt 
+hsv-2: N  nc hyphenated nt 
+hsv-i: N  nc hyphenated nt 
+hsv-ii: N  nc hyphenated nt 
+htlv-1: N  nc hyphenated nt 
+huai'an-tianhong: NN com nc 
+huge-scale: A ac  hyphenated range 
+hugg-a-planet: NN com nc 
+hugger-mugger: A NN nc  RB count hyphenated 
+humming-top: N  nc count hyphenated 
+hundred-percent: RB hyphenated intensifier 
+hundred-precent: RB content hyphenated 
+hunt-the-thimble: N  nc chg hyphenated 
+hunter-liggett: NNP NE city nc  
+hunting-crop: N  nc count hyphenated 
+hurdy-gurdy: N  nc count hyphenated 
+hy-crest: NNP NE city nc  
+hyde-to-jekyll: A  
+hydra-matic: A  
+hydro-long: NNP  
+i-beam: N  nc hyphenated prod tool 
+ibm-remarketer: A  
+ice-free: A ac  ebla hyphenated 
+ice-sports: N  nc hyphenated 
+idar-oberstein: NNP NE city nc  
+ile-de-france: NNP NE city nc  
+ill-adapted: A ac  behavior hyphenated 
+ill-advised: A ac  AitPPforTO hyphenated nt statePhy 
+ill-bred: A ac  hyphenated troubleW 
+ill-breeding: NN nc  hyphenated manners 
+ill-conditioned: A ac  hyphenated troubleW 
+ill-considered: A ac  hyphenated troubleW 
+ill-fated: A ac  AitPPforTO hyphenated negAdj situation 
+ill-founded: A ac  content hyphenated 
+ill-gotten: A ac  hyphenated nt 
+ill-informed: A ac  hyphenated nt 
+ill-judged: A ac  hyphenated nt 
+ill-looking: A ac  hyphenated troubleW 
+ill-mannered: A ac  hyphenated nt 
+ill-natured: A ac  behavior hyphenated 
+ill-organized: A ac  hyphenated troubleW 
+ill-seasoned: A ac  hyphenated troubleW 
+ill-shapen: A ac  hyphenated troubleW 
+ill-spent: A ac  behavior hyphenated 
+ill-tempered: A ac  hyphenated nt 
+ill-timed: A ac  AitPPforTO hyphenated negAdj quality 
+ill-used: A Ven ac past plu vc  PRP Ved acc hyphenated negAdj per 
+illkirch-graffenstaden: NNP NE city nc  
+illnau-effretikon: NNP NE city nc  
+improved-type: A ac  hyphenated property 
+in-excess-of: P  RB abstract advX buyuC /over/ 
+in-fighting: NN nc  abstract hyphenated 
+in-house: A NN RB ac topN3  hyphenated space 
+in-laws: NNS Xs nc  hyphenated per 
+in-patient: A NN nc  count hyphenated per 
+in-sider: N  nc count hyphenated 
+in-tray: NN nc  count hyphenated tool 
+indian-summer: A  
+indigo-blue: N  nc artifact hyphenated 
+indo-european: NN nc  hyphenated origin per 
+infra-red: A ac  hyphenated natural 
+ingle-nook: N  nc count hyphenated 
+ink-pad: N  nc count hyphenated 
+ink-pot: N  nc count hyphenated 
+inter-american: A  
+inter-arab: A  
+inter-german: A  
+interest-free: A  
+interest-rate: A  
+inzersdorf-getzersdorf: NNP NE city nc  
+irish-soviet: A  
+irishtown-summerside: NNP NE city nc  
+irnfritz-messern: NNP NE city nc  
+iron-gray: A ac  color hyphenated 
+iron-grey: A ac  color hyphenated 
+iron-smelting: VB vc  chgProperty hyphenated 
+issy-les-moulineaux: NNP NE city nc  
+italian-american: A  
+italian-cut: A  
+iv-drug-free: A  
+ivano-frankivsk: NNP NE city nc  
+ivry-sur-seine: NNP NE city nc  
+ixelles-elsene: NNP NE city nc  
+jabber-al-ali: NNP NE city nc  
+jack-tar: N  nc hyphenated job 
+january-june: A  
+japan-u.s.: A  
+japanese-american: A  
+japanese-language: A NN  
+jaunting-car: N  nc count hyphenated 
+jee-sus: UH  
+jeep-brand: A  
+jeep-like: A  
+jemeppe-sur-sambre: NNP NE city nc  
+jerry-built: A ac  hyphenated quality 
+jet-propelled: A ac  hyphenated performance 
+jettingen-scheppach: NNP NE city nc  
+jew-as-enemy: NN  
+jew-baiter: NN nc  hyphenated per 
+jew-haters: NNS  
+jib-boom: N  nc count hyphenated 
+jigsaw-like: A ac  hyphenated looks 
+job-waiting: A ac  hyphenated job 
+joue-les-tours: NNP NE city nc  
+joy-ride: N  nc count hyphenated 
+joy-stick: N  nc count hyphenated 
+judeo-christian: A  
+jump-serving: N  nc chg hyphenated 
+jump-start: N  nc abstract hyphenated 
+junk-bond: A NN  
+junk-lbo: A  
+junk-portfolio: NN  
+k-resin: NN  
+kailua-kona: NNP NE city nc  
+kalach-na-donu: NNP NE city nc  
+kalyan-dombivli: NNP NE city nc  
+kamen-na-obi: NNP NE city nc  
+kamen-rybolov: NNP NE city nc  
+kamensk-shakhtinsky: NNP NE city nc  
+kamensk-uralsky: NNP NE city nc  
+kami-amakusa: NNP NE city nc  
+kamianets-podilskyi: NNP NE city nc  
+kamp-lintfort: NNP NE city nc  
+kapelle-op-den-bos: NNP NE city nc  
+kappel-grafenhausen: NNP NE city nc  
+karl-marx-stadt: NNP NE city nc  
+karlsdorf-neuthard: NNP NE city nc  
+kasel-golzig: NNP NE city nc  
+katav-ivanovsk: NNP NE city nc  
+katlenburg-lindau: NNP NE city nc  
+kawaika-a: NNP NE city nc  
+keen-wik: NNP NE city nc  
+kentwood-in-the-pines: NNP NE city nc  
+kersbeek-miskom: NNP NE city nc  
+kessel-lo: NNP NE city nc  
+khanty-mansiysk: NNP NE city nc  
+kick-start: N  nc count hyphenated 
+kick-starter: N  nc count hyphenated 
+killer-app: N  nc good hyphenated prod 
+kinsealy-drinan: NNP NE city nc  
+kippa-ring: NNP NE city nc  
+kirovo-chepetsk: NNP NE city nc  
+klausen-leopoldsdorf: NNP NE city nc  
+kleblach-lind: NNP NE city nc  
+klein-pochlarn: NNP NE city nc  
+knee-deep: A ac  depth hyphenated 
+knock-on: N  nc count hyphenated 
+knokke-heist: NNP NE city nc  
+knot-weed: N  nc hyphenated plant 
+know-nothings: NNS  
+knowledge-intensive: A ac  hyphenated property 
+knox-like: A  
+kohren-sahlis: NNP NE city nc  
+kohtla-jarve: NNP NE city nc  
+komsomolsk-on-amur: NNP NE city nc  
+konigsbach-stein: NNP NE city nc  
+korbeek-lo: NNP NE city nc  
+korea-basher: NN  
+korean-american: A NN  
+korntal-munchingen: NNP NE city nc  
+kosice-barca: NNP NE city nc  
+kotschach-mauthen: NNP NE city nc  
+krefeld-linn: NNP NE city nc  
+krov-bausendorf: NNP NE city nc  
+kustrin-kietz: NNP NE city nc  
+kw-hr: N nc unit  hyphenated 
+kwazulu-natal: NNP NE city nc  
+kyo-zan: NN  
+l'ancienne-lorette: NNP NE city nc  
+l'anse-au-clair: NNP NE city nc  
+l'anse-au-loup: NNP NE city nc  
+l'hay-les-roses: NNP NE city nc  
+l'ile-dorval: NNP NE city nc  
+l'ile-perrot: NNP NE city nc  
+la-la-landers: NNS  
+labour-saving: A ac  hyphenated pt 
+lac-brome: NNP NE city nc  
+lac-superieur: NNP NE city nc  
+lacy-lakeview: NNP NE city nc  
+ladder-shaped: A ac  hyphenated looks 
+lady-killer: N  nc count hyphenated per 
+lakehead-lakeshore: NNP NE city nc  
+lamp-oil: N  nc artifact hyphenated 
+lance-corporal: N  nc count hyphenated 
+land-agent: N  nc count hyphenated 
+land-based: A ac  hyphenated positioning 
+landing-field: N  nc count hyphenated 
+landing-net: N  nc count hyphenated 
+landing-party: N  nc count hyphenated 
+landing-place: N  nc count hyphenated 
+landing-stage: N  nc count hyphenated 
+landing-strip: N  nc count hyphenated 
+languedoc-roussillon: NNP NE city nc  
+lap-dog: N  nc count hyphenated 
+lap-top: A ac  hyphenated space 
+lapu-lapu: NNP NE city nc  
+large-and-medium-scale: A ac  hyphenated size 
+large-scale: A ac topN3  hyphenated range 
+large-sized: A ac  hyphenated size 
+larkfield-wikiup: NNP NE city nc  
+lash-up: A NN nc  abstract count hyphenated 
+late-maturing: A ac  hyphenated situation 
+lauda-konigshofen: NNP NE city nc  
+lauderdale-by-the-sea: NNP NE city nc  
+laughing-stock: N  nc count hyphenated 
+launching-pad: N  nc count hyphenated 
+law-abiding: A ac  behavior hyphenated 
+law-breaking: A NN nc  abstract hyphenated 
+law-officer: N  nc count hyphenated 
+lawn-seat: N  nc artifact hyphenated 
+lay-by: NN nc  artifact hyphenated 
+lay-out: N  nc count hyphenated 
+lay-up: A NN nc  abstract hyphenated 
+leaf-bud: N  nc count hyphenated 
+lean-to: A NN nc  count hyphenated tool 
+leather-jacket: N  nc count hyphenated 
+leave-taking: NN nc  abstract hyphenated 
+lebel-sur-quevillon: NNP NE city nc  
+left-hander: N  nc hyphenated per 
+left-stream: A  
+leinefelde-worbis: NNP NE city nc  
+leinfelden-echterdingen: NNP NE city nc  
+leith-hatfield: NNP NE city nc  
+lend-lease: A NN nc  abstract hyphenated 
+lending-library: N  nc count hyphenated 
+lenino-kokushkino: NNP NE city nc  
+leninsk-kuznetsky: NNP NE city nc  
+leo-cedarville: NNP NE city nc  
+less-than-stellar: A ac  hyphenated nt 
+let-down: NNS Xs nc  count hyphenated nt 
+let-up: N  nc count hyphenated 
+letter-card: N  nc count hyphenated 
+letter-case: N  nc count hyphenated 
+levallois-perret: NNP NE city nc  
+libramont-chevigny: NNP NE city nc  
+lie-detector: N  nc count hyphenated 
+lieder-singer: N  nc count hyphenated 
+life_-_threatening: A ac hyphenated situation
+life-blood: N  nc hyphenated situation 
+life-force: N  nc hyphenated situation 
+life-line: N  nc component hyphenated 
+life-office: N  nc count hyphenated 
+life-preserver: N  nc count hyphenated 
+life-preservers: NNS  
+life-raft: N  nc count hyphenated 
+life-saver: N  nc count hyphenated 
+life-size: A ac  hyphenated size 
+life-sized: A ac  hyphenated size 
+life-span: N  nc count hyphenated 
+life-style: A NN nc  abstract hyphenated 
+life-support: enGrow hyphenated 
+life-sustaining: A ac  ebla hyphenated 
+life-work: N  nc count hyphenated 
+light-complexioned: A ac  color hyphenated 
+light-controlled: A ac  hyphenated performance 
+light-fingered: A ac  behavior hyphenated 
+light-guide: A ac  hyphenated performance 
+light-hearted: A ac  happy hyphenated 
+light-mindedness: A NN nc  hyphenated ness 
+light-sensitive: A ac  ebla hyphenated 
+light-stable: A ac  hyphenated pt 
+light-weight: A  
+lightning-conductor: N  nc count hyphenated 
+lightning-rod: N  nc count hyphenated 
+likino-dulyovo: NNP NE city nc  
+limbach-oberfrohna: NNP NE city nc  
+linen-draper: N  nc count hyphenated 
+liner-train: N  nc count hyphenated 
+link-up: N  nc count hyphenated 
+linkenheim-hochstetten: NNP NE city nc  
+list-price: N  nc abstract hyphenated 
+litter-bin: N  nc artifact hyphenated 
+litter-lout: N  nc count hyphenated 
+little-known: A ac  hyphenated reputation 
+livry-gargan: NNP NE city nc  
+lo-reninge: NNP NE city nc  
+load-bearing: VB vc  ceaseMove hyphenated 
+load-shedding: NNS Xs nc  abstract hyphenated 
+loan-office: N  nc count hyphenated 
+lobster-pot: N  nc count hyphenated 
+lock-keeper: N  nc count hyphenated 
+lock-up: NN  
+lodging-house: N  nc count hyphenated 
+log-cabin: N  nc count hyphenated 
+log-dragomer: NNP NE city nc  
+loipersdorf-kitzladen: NNP NE city nc  
+long-awaited: A ac  hyphenated stateMental 
+long-delayed: A ac  hyphenated nt 
+long-distance: N  nc hyphenated 
+long-drawn-out: A ac  dur hyphenated 
+long-lived: A ac  dur hyphenated 
+long-pending: A ac  dur hyphenated 
+long-range: A ac  dur hyphenated length quality 
+long-sighted: A ac  ebla hyphenated 
+long-suffering: A ac  abstract hyphenated 
+long-term: A ac sgPlu topN3  dur hyphenated vac 
+long-tested: A ac  behavior hyphenated 
+long-way: A ac  hyphenated length 
+long-wearing: A ac  hyphenated quality 
+long-winded: A ac  content hyphenated 
+long-windedness: N  nc content hyphenated ness 
+look-over: N  nc count hyphenated 
+looking-glass: N  nc count hyphenated 
+loose-fitting: A ac  hyphenated size 
+loose-leaf: A ac  hyphenated looks 
+loose-tongued: A ac  chg hyphenated 
+losino-petrovsky: NNP NE city nc  
+loss-leader: N  nc count hyphenated 
+lounge-chair: N  nc count hyphenated 
+lounge-lizard: N  nc count hyphenated 
+lounge-suit: N  nc count hyphenated 
+louvain-la-neuve: NNP NE city nc  
+loving-cup: N  nc count hyphenated 
+loving-kindness: NN nc  hyphenated mental ness 
+low-carbon: N  nc hyphenated 
+low-cut: A ac  hyphenated looks 
+low-density: A ac  density hyphenated 
+low-down: A NN nc  abstract hyphenated 
+low-end: A ac  hyphenated rank 
+low-frequency: N  nc freq hyphenated 
+low-grade: A ac  hyphenated nt 
+low-hanging: A ac  height hyphenated 
+low-income: A ac  ebla hyphenated 
+low-interest: A ac  effectivity hyphenated 
+low-key: A ac  behavior hyphenated 
+low-level: A ac  hyphenated rank standard 
+low-lying: A ac  hyphenated looks slope 
+low-necked: A ac  hyphenated looks 
+low-salt: A ac  artifact hyphenated 
+low-speed: A ac  hyphenated speed 
+low-spirited: A ac  hyphenated nt stateMental 
+low-spiritedness: N  nc hyphenated ness troubleW 
+low-standard: A ac  hyphenated nt 
+low-sugar: A ac  hyphenated property 
+low-value: A ac  hyphenated worth 
+low-warp-loom: N  nc hyphenated tool 
+low-water: N  nc hyphenated natural 
+low-yield: A ac  hyphenated troubleW 
+low-yielding: A ac  hyphenated quant 
+lower-case: A ac  hyphenated looks 
+lower-class: N  nc hyphenated per 
+lucerne-in-maine: NNP NE city nc  
+luggage-van: N  nc count hyphenated 
+luhe-wildenau: NNP NE city nc  
+lumber-mill: N  nc count hyphenated 
+lunow-stolzenhagen: NNP NE city nc  
+luxembourg-ville: NNP NE city nc  
+luxury-living: A ac  behavior hyphenated 
+lying-in: A NN nc  hyphenated statePhy 
+lyme-disease: A  
+lyre-bird: N  nc count hyphenated 
+m-1: N  nc hyphenated tool 
+m-commerce: N  nc hyphenated 
+m-hm: N  nc hyphenated natural 
+m-m-m: UH  
+m.d.-speak: A  
+ma'alot-tarshiha: NNP NE city nc  
+mace-bearer: N  nc count hyphenated 
+machine-embroidered: A ac  hyphenated performance 
+machine-hour: N  nc hyphenated quant 
+machine-knitted: A ac  hyphenated performance 
+machine-made: A ac  hyphenated situation 
+machine-operated: A ac  hyphenated performance 
+machine-processed: A ac  hyphenated situation 
+made-for-tv: A  
+made-to-order: A ac  hyphenated situation 
+madingo-kayes: NNP NE city nc  
+madison-on-the-lake: NNP NE city nc  
+mahtson-pi: NNP NE city nc  
+mail-order: A NN nc  chg hyphenated 
+mail-train: N  nc count hyphenated 
+mailing-list: N  nc count hyphenated 
+maintal-dornigheim: NNP NE city nc  
+maisons-alfort: NNP NE city nc  
+maisons-laffitte: NNP NE city nc  
+make-work: A NN nc  abstract hyphenated 
+malden-on-hudson: NNP NE city nc  
+mallersdorf-pfaffenberg: NNP NE city nc  
+malsburg-marzell: NNP NE city nc  
+man-kilometer: N  nc hyphenated quant 
+man-machine: A ac  attachment hyphenated 
+man-made: A ac  hyphenated source 
+man-operated: A ac  hyphenated performance 
+man-powered: A ac  hyphenated performance 
+manchester-by-the-sea: NNP NE city nc  
+manor-house: N  nc count hyphenated 
+mantel-board: N  nc component hyphenated 
+mantes-la-jolie: NNP NE city nc  
+many-sided: A ac  hyphenated kind 
+map-making: N  nc chg hyphenated 
+march-past: N  nc hyphenated looks 
+marche-en-famenne: NNP NE city nc  
+marcq-en-baroeul: NNP NE city nc  
+markersdorf-haindorf: NNP NE city nc  
+market-square: N  nc count hyphenated 
+massa-carrara: NNP NE city nc  
+master-hand: N  nc hyphenated per 
+mat-awning: N  nc artifact hyphenated 
+matter-of-fact: A ac  APP content hyphenated 
+matzen-raggendorf: NNP NE city nc  
+maxhutte-haidhof: NNP NE city nc  
+may-beetle: N  nc count hyphenated 
+may-bug: N  nc count hyphenated 
+mazar-i-sharif: NNP NE city nc  
+mbuji-mayi: NNP NE city nc  
+mclendon-chisholm: NNP NE city nc  
+md-80-series: NN  
+meat-safe: N  nc count hyphenated 
+medical-supply: A  
+medicare-eligible: A  
+medicine-ball: N  nc count hyphenated 
+medicine-chest: N  nc artifact count hyphenated 
+medicine-man: N  nc count hyphenated 
+medico-athletics: N  nc hyphenated 
+medico-legal: A ac  hyphenated info 
+medium-lengthed: A ac  hyphenated length 
+medium-range: A ac  hyphenated length 
+medium-sized: A ac  hyphenated size vac 
+meeting-house: N  nc count hyphenated 
+meeting-place: N  nc count hyphenated 
+mega-hits: NNS  
+meix-devant-virton: NNP NE city nc  
+melting-point: N  nc count hyphenated 
+melting-pot: N  nc count hyphenated 
+mentor-on-the-lake: NNP NE city nc  
+merbes-le-chateau: NNP NE city nc  
+mess-up: N  nc count hyphenated 
+metal-looking: A ac  hyphenated property 
+metallic-looking: A ac  hyphenated property 
+methyl-sulfonyl-methane: N  nc artifact hyphenated 
+metis-sur-mer: NNP NE city nc  
+mexican-american: NN nc  hyphenated origin per 
+mexican-food: A  
+mexico-watchers: NNS  
+mi-lu: N  nc animal hyphenated 
+micov-susice: NNP NE city nc  
+micro-: A ac  hyphenated size 
+mid-1950: CD  
+mid-1960: CD  
+mid-1963: CD  
+mid-1981: CD  
+mid-1987: CD NN  
+mid-20: CD  
+mid-afternoon: A NN RB  
+mid-april: N  nc hyphenated timeUnit 
+mid-atlantic: NN  
+mid-august: N  nc hyphenated timeUnit 
+mid-december: N  nc hyphenated timeUnit 
+mid-february: N  nc hyphenated timeUnit 
+mid-fifties: NNS Xs nc  abstract age hyphenated 
+mid-january: N  nc hyphenated timeUnit 
+mid-july: N  nc hyphenated timeUnit 
+mid-june: N  nc hyphenated timeUnit 
+mid-march: N  nc hyphenated timeUnit 
+mid-may: N  nc hyphenated timeUnit 
+mid-Mmay: N  nc hyphenated time 
+mid-november: N  nc hyphenated timeUnit 
+mid-october: N  nc hyphenated timeUnit 
+mid-period: N  nc component hyphenated 
+mid-range: A ac  hyphenated length 
+mid-september: N  nc hyphenated timeUnit 
+mid-thirties: NNS Xs nc  abstract age hyphenated 
+mid-year: N  nc hyphenated timeUnit 
+middle-aged: A ac  age hyphenated 
+middle-and-high-grade: A ac  hyphenated rank 
+middle-eastern: A  
+middle-gaelic: A  
+middle-level: A ac  hyphenated rank 
+middle-rank: A ac  hyphenated rank 
+middle-sized: A ac  hyphenated size 
+midi-pyrenees: NNP NE city nc  
+mig-23bn: NN  
+military-to-civilian: A ac  hyphenated role 
+milk-churn: N  nc count hyphenated 
+milk-pump: N  nc artifact hyphenated 
+mill-dam: N  nc count hyphenated 
+millis-clicquot: NNP NE city nc  
+milton-freewater: NNP NE city nc  
+minami-alps: NNP NE city nc  
+minami-arupusu: NNP NE city nc  
+mine-detector: N  nc count hyphenated 
+mineville-witherbee: NNP NE city nc  
+minihof-liebau: NNP NE city nc  
+minute-book: N  nc count hyphenated 
+minute-gun: N  nc count hyphenated 
+minute-hand: N  nc count hyphenated 
+mischief-making: N  nc hyphenated nt 
+missen-wilhams: NNP NE city nc  
+mizzen-mast: N  nc count hyphenated 
+modi'in-maccabim-re'uty: NNP NE city nc  
+mohyliv-podilskyi: NNP NE city nc  
+molenbeek-saint-jean: NNP NE city nc  
+molenbeek-wersbeek: NNP NE city nc  
+monaco-ville: NNP NE city nc  
+monday-friday: NNP  
+monday-morning: A  
+money-grubber: N  nc count hyphenated 
+money-order: N  nc count hyphenated 
+monkey-nut: N  nc count hyphenated 
+monkey-puzzle: N  nc count hyphenated 
+mons-en-baroeul: NNP NE city nc  
+mont-de-marsan: NNP NE city nc  
+mont-joli: NNP NE city nc  
+mont-laurier: NNP NE city nc  
+mont-saint-aignan: NNP NE city nc  
+mont-saint-gregoire: NNP NE city nc  
+mont-saint-hilaire: NNP NE city nc  
+mont-tremblant: NNP NE city nc  
+montceau-les-mines: NNP NE city nc  
+monte-sano: NNP NE city nc  
+montemor-o-novo: NNP NE city nc  
+montigny-le-bretonneux: NNP NE city nc  
+montigny-les-metz: NNP NE city nc  
+montreal-est: NNP NE city nc  
+moon-curser: N  nc hyphenated per 
+moorestown-lenola: NNP NE city nc  
+mooring-mast: N  nc count hyphenated 
+morales-sanchez: NNP NE city nc  
+moravia-silesia: NNP NE city nc  
+morfelden-walldorf: NNP NE city nc  
+morning-glory: NN nc  count hyphenated 
+morning-room: N  nc count hyphenated 
+moscow-shannon: A  
+mosquito-net: N  nc artifact count hyphenated 
+moth-ball: N  nc artifact hyphenated 
+moth-eaten: A ac  hyphenated negAdj 
+mother-in-law: N  nc hyphenated per 
+motor-driven: A ac  hyphenated performance 
+mould-making: N  nc hyphenated looks 
+mourning-band: N  nc count hyphenated 
+mourning-ring: N  nc count hyphenated 
+mouth-organ: N  nc count hyphenated 
+ms-dos: NNP nc  hyphenated tool 
+msx-run: A  
+mu-conotoxin: N  nc hyphenated nt 
+muck-heap: N  nc count hyphenated 
+mud-bath: N  nc count hyphenated 
+muddle-headed: A ac  AitPPforTO ebla hyphenated 
+muffin-man: N  nc count hyphenated 
+muhlhausen-ehingen: NNP NE city nc  
+mulheim-karlich: NNP NE city nc  
+multi-colored: A ac  hyphenated pt 
+multi-coloured: A ac  hyphenated pt 
+multi-department: A ac  attachment hyphenated 
+multi-employer: A  
+multi-functional: A ac  hyphenated role 
+munichreith-laimbach: NNP NE city nc  
+music-box: N  nc count hyphenated 
+music-stand: N  nc count hyphenated 
+music-stool: N  nc count hyphenated 
+musical-box: N  nc count hyphenated 
+musk-rose: N  nc count hyphenated 
+mussolini-like: A  
+must-do: A ac  hyphenated tWord 
+must-have: N  nc hyphenated tWord 
+mutton-head: N  nc count hyphenated 
+mutton-smelling: A ac  hyphenated odor 
+nachrodt-wiblingwerde: NNP NE city nc  
+namby-pamby: A ac  count hyphenated 
+name-day: N  nc count hyphenated 
+name-dropping: NN nc  abstract hyphenated 
+name-part: N  nc count hyphenated 
+nan-chang: NNP NE city nc  
+nan-ning: NNP NE city nc  
+nana-grebizi: NNP NE city nc  
+napkin-ring: N  nc count hyphenated 
+nappersdorf-kammersdorf: NNP NE city nc  
+naro-fominsk: NNP NE city nc  
+narrow-body: NN nc  hyphenated tool 
+narrow-minded: A ac  AitPPforTOrs hyphenated troubleW 
+narva-joesuu: NNP NE city nc  
+naryan-mar: NNP NE city nc  
+nation-wide: A ac  hyphenated range 
+native-born: A ac  hyphenated source 
+natschbach-loipersbach: NNP NE city nc  
+nautch-girl: N  nc count hyphenated 
+near-balkanization: NN  
+near-communists: NNS  
+near-term: A NN ac  hyphenated n time 
+neder-over-heembeek: NNP NE city nc  
+negro-appeal: A  
+neo-Darwinism: N  nc hyphenated info 
+neo-nazis: NNP Xs  
+nerve-centre: N  nc component count hyphenated 
+nerve-racking: A ac  AitPPforTO hyphenated nt stateMental 
+nerve-wracking: A ac  hyphenated nt stateMental 
+network-access: A  
+neu-anspach: NNP NE city nc  
+neu-isenburg: NNP NE city nc  
+neu-ulm: NNP NE city nc  
+neuenkirchen-vorden: NNP NE city nc  
+neuilly-sur-marne: NNP NE city nc  
+neukirchen-balbini: NNP NE city nc  
+neukirchen-vluyn: NNP NE city nc  
+neumagen-dhron: NNP NE city nc  
+neunkirchen-seelscheid: NNP NE city nc  
+neusalza-spremberg: NNP NE city nc  
+neustadt-glewe: NNP NE city nc  
+never-do-well: A ac  ebla hyphenated 
+never-ending: A ac  continuity hyphenated 
+new-born: A ac  hyphenated timing 
+new-generation: A ac  hyphenated pt 
+new-issue: A  
+new-issues: A NNS  
+new-type: A ac  hyphenated newness 
+new-wes-valley: NNP NE city nc  
+newcastle-upon-tyne: NNP NE city nc  
+newly-born: A ac  hyphenated timing 
+newly-increased: A ac  hyphenated statePhy 
+news-stand: N  nc group hyphenated 
+next-door: A ac  hyphenated space 
+next-generation: A ac  hyphenated pt 
+niagara-on-the-lake: NNP NE city nc  
+nieder-olm: NNP NE city nc  
+niefern-oschelbronn: NNP NE city nc  
+night-porter: N  nc count hyphenated 
+night-watch: N  nc count hyphenated 
+nikolayevsk-on-amur: NNP NE city nc  
+nil-saint-vincent-saint-martin: NNP NE city nc  
+nine-tenths: CD  
+ninety-eight: CD  
+ninety-five: CD  
+ninety-nine: CD  
+ninety-six: CD  
+ninety-two: CD  
+nitty-gritty: NN nc  count hyphenated 
+no-account: A NN nc  hyphenated per 
+no-ball: N  nc count hyphenated 
+no-o-o: UH  
+no-o: UH  
+noble-minded: A ac  behavior hyphenated 
+noble-mindedness: NN nc  hyphenated ness pt 
+nogent-sur-marne: NNP NE city nc  
+noisy-le-grand: NNP NE city nc  
+noisy-le-sec: NNP NE city nc  
+non-actors: NNS  
+non-big: A  
+non-biodegradable: A ac  ebla hyphenated 
+non-blood-related: A ac  hyphenated intimacy 
+non-british: A  
+non-canadian: A NN  
+non-catholic: A nc  hyphenated per 
+non-catholics: NNP Xs  
+non-christians: NNP Xs  
+non-cocom: A  
+non-cosmetic: A  
+non-deterministic: A ac  content hyphenated 
+non-drying: A ac  hyphenated pt 
+non-ec: A  
+non-electrolyte: N  nc artifact hyphenated 
+non-english: NN  
+non-european: A  
+non-federal: A  
+non-germans: NNS  
+non-gm: A  
+non-god: NN  
+non-greek: A  
+non-hispanic: A  
+non-homogenous: A ac  content hyphenated 
+non-humana: A  
+non-indian: A  
+non-indonesian: A  
+non-japanese: A  
+non-jew: NN nc  hyphenated per 
+non-jewish: A  
+non-jews: NNS  
+non-korean: A  
+non-manpower: A  
+non-mexican: A  
+non-miscible: A ac  hyphenated situation 
+non-money: A  
+non-new: A  
+non-nms: A  
+non-opec: A  
+non-pathogenic: A ac  ebla hyphenated 
+non-pore: A ac  hyphenated pt 
+non-renewable: A ac  ebla hyphenated 
+non-russian: A  
+non-socialist: A  
+non-soviet: A  
+non-swedish: A  
+non-tories: NNS  
+non-toxic: A ac  hyphenated quality 
+non-u: A  
+non-u.s.: A  
+non-western: A  
+non-zero-sum: N  nc hyphenated 
+nonce-word: N  nc count hyphenated 
+nord-aurdal: NNP NE city nc  
+nord-trondelag: NNP NE city nc  
+norten-hardenberg: NNP NE city nc  
+north-central: A  
+nose-wheel: N  nc count hyphenated 
+not-for-profit: A ac  abstract hyphenated 
+notice-board: N  nc count hyphenated 
+nouveau-riche: N  nc hyphenated per 
+novohrad-volynskyi: NNP NE city nc  
+nowra-bomaderry: NNP NE city nc  
+nuclear-free: A ac  hyphenated statePhy 
+nuclear-powered: A ac  hyphenated strength 
+oak-apple: N  nc count hyphenated 
+ober-ramstadt: NNP NE city nc  
+oberhausen-rheinhausen: NNP NE city nc  
+obsessive-compulsive: A NN nc  hyphenated per 
+odd-jobman: N  nc hyphenated per 
+odernheim-am-glan: NNP NE city nc  
+oed-ohling: NNP NE city nc  
+oer-erkenschwick: NNP NE city nc  
+oestrich-winkel: NNP NE city nc  
+off-and-on: A ac  continuity hyphenated 
+off-broadway: A NN nc  hyphenated 
+off-day: NN nc  count hyphenated 
+off-gas: N  nc hyphenated natural 
+off-island: N  nc hyphenated natural 
+off-key: A ac  hyphenated statePhy 
+off-line: A ac  hyphenated performance 
+off-the-shelf: A ac  hyphenated situation 
+off-white: A ac  abstract color hyphenated 
+offenbach-bieber: NNP NE city nc  
+office-block: N  nc count hyphenated 
+office-boy: N  nc count hyphenated 
+office-holder: N  nc count hyphenated 
+oil-burner: N  nc count hyphenated 
+oil-fired: A ac  artifact hyphenated 
+oil-poor: A ac  hyphenated nt 
+oil-slick: N  nc count hyphenated 
+olbia-tempio: NNP NE city nc  
+olbronn-durrn: NNP NE city nc  
+old-fashioned: A ac  hyphenated nt 
+old-fashionedness: NN nc  hyphenated looks ness 
+old-style: A ac  hyphenated looks 
+old-type: A ac  hyphenated looks 
+olive-green: A ac  abstract hyphenated 
+on-going: A ac  continuity hyphenated 
+on-licence: N  nc count hyphenated 
+on-line: A NN ac topN3  hyphenated n performance 
+on-the-scene: A NN ac  hyphenated n positioning 
+on-the-spot: A ac  hyphenated positioning 
+one-dimensional: A ac  hyphenated looks 
+one-eighth: CD  
+one-hundredth: CD  
+one-quarter: CD  
+one-sided: A ac  content hyphenated range 
+one-sidedness: N  nc hyphenated ness range 
+one-sixteenth: CD  
+one-sixth: CD  
+one-step: A ac  abstract count hyphenated 
+one-stop: A ac  hyphenated pt 
+one-tenth: CD  
+one-third: CD  
+one-thousandth: CD  
+one-twentieth: CD  
+one-way: A ac  dir hyphenated 
+onze-lieve-vrouw-waver: NNP NE city nc  
+opa-locka: NNP NE city nc  
+open-adoption: NN  
+open-and-shut: A ac  content hyphenated 
+open-ended: A ac  behavior hyphenated 
+open-heartedly: ac  hyphenated ly pt 
+open-minded: A ac  AitPPforTOrs behavior hyphenated 
+open-pit: N  nc group hyphenated 
+opening-up: N deverbal nc  VerbNom hyphenated 
+opera-house: N  nc count hyphenated 
+operating-profit: NN  
+operating-table: N  nc count hyphenated 
+operating-theatre: N  nc count hyphenated 
+opium-den: N  nc count hyphenated 
+orang-outan: N  nc count hyphenated 
+orang-outang: N  nc count hyphenated 
+orang-utan: N  nc count hyphenated 
+order-book: N  nc count hyphenated 
+order-form: N  nc count hyphenated 
+order-paper: N  nc count hyphenated 
+orekhovo-zuyevo: NNP NE city nc  
+organ-blower: N  nc count hyphenated 
+organ-loft: N  nc count hyphenated 
+ormond-by-the-sea: NNP NE city nc  
+oro-medonte: NNP NE city nc  
+orsingen-nenzingen: NNP NE city nc  
+osier-bed: N  nc hyphenated plant 
+osterholz-scharmbeck: NNP NE city nc  
+ostyak-samoyed: NN nc  hyphenated origin per 
+otc-market: A  
+ottendorf-okrilla: NNP NE city nc  
+oud-heverlee: NNP NE city nc  
+ouija-board: N  nc count hyphenated 
+out-and-out: A ac  content hyphenated 
+out-dated: A ac  hyphenated troubleW 
+out-of-date: A ac  AitPPforTO hyphenated looks 
+out-of-doors: NN NNS nc  hyphenated sgPlu 
+out-of-the-way: A ac  AitPPforTO hyphenated length 
+out-tray: NN nc  count hyphenated tool 
+over-chilling: NN  
+over-exploitation: N  nc chg hyphenated 
+over-the-counter: A NN ac  RB chg hyphenated vac 
+owner-peasant: N  nc hyphenated per 
+oy-mittelberg: NNP NE city nc  
+oyster-bank: N  nc count hyphenated 
+oyster-bar: N  nc count hyphenated 
+oyster-bed: N  nc count hyphenated 
+ozoir-la-ferriere: NNP NE city nc  
+pack-animal: N  nc count hyphenated 
+pack-saddle: N  nc count hyphenated 
+packd-frustrating-anoying: N  nc curse hyphenated 
+packing-case: N  nc count hyphenated 
+paddle-steamer: N  nc count hyphenated 
+pain-killer: N  nc artifact hyphenated 
+painesville-on-the-lake: NNP NE city nc  
+pale-faced: A ac  color hyphenated 
+paleo-american: NN nc  hyphenated origin per 
+paleo-amerind: NN nc  hyphenated origin per 
+paleo-indian: NN nc  hyphenated origin per 
+palermo-on-the-lakes: NNP NE city nc  
+palterndorf-dobermannsdorf: NNP NE city nc  
+pan-american: A  
+pan-european: A  
+pan-pipes: N  nc artifact hyphenated 
+panel-beater: N  nc hyphenated per 
+panic-stricken: A ac  APP ATH hyphenated nt stateMental 
+panic-striken: A ac  hyphenated nt stateMental 
+panic-struck: A ac  hyphenated troubleW 
+pap-pap-pap-hey: UH  
+paper-chase: N  nc count hyphenated 
+paper-cut: N  nc hyphenated info 
+para-: A ac  hyphenated quality 
+pare-pare: NNP NE city nc  
+parents-in-law: N  nc hyphenated per 
+parlor-car: N  nc count hyphenated 
+parlour-car: N  nc count hyphenated 
+part-song: N  nc count hyphenated 
+part-time: A ac idiom topN3  RB dur hyphenated 
+parti-colored: A ac  color hyphenated 
+party-spirit: N  nc count hyphenated 
+party-wall: N  nc count hyphenated 
+passer-by: NN nc  count hyphenated per 
+passion-flower: N  nc count hyphenated 
+past-president: N  nc hyphenated title 
+pastry-cook: N  nc count hyphenated 
+patch-pocket: N  nc count hyphenated 
+path-finder: N  nc count hyphenated 
+pawn-ticket: N  nc count hyphenated 
+pay-as-you-earn: N  nc count hyphenated 
+pay-claim: N  nc count hyphenated 
+pay-packet: N  nc count hyphenated 
+pay-tv: NN  
+pc-magazine: A  
+pea-jacket: N  nc count hyphenated 
+peace-keeping: A NN nc  hyphenated 
+peace-offering: N  nc count hyphenated 
+pearl-diver: N  nc count hyphenated 
+pearl-oyster: N  nc count hyphenated 
+pechora-class: A  
+pen-holder: N  nc artifact component hyphenated 
+pen-knife: N  nc artifact hyphenated 
+pen-name: N  nc count hyphenated 
+pen-pusher: N  nc count hyphenated 
+pencil-case: N  nc artifact hyphenated 
+penny-pinching: A ac  abstract hyphenated 
+people-oriented: A ac  hyphenated suit 
+people-to-people: A ac  attachment hyphenated 
+pepper-and-salt: A ac  color hyphenated 
+pepper-pot: N  nc count hyphenated 
+pepsi-cola: NN com nc 
+pereiaslav-khmelnytskyi: NNP NE city nc  
+pereslavl-zalessky: NNP NE city nc  
+perin-chym: NNP NE city nc  
+perot-eds: A  
+persenbeug-gottsdorf: NNP NE city nc  
+person-portion: N  nc hyphenated quant 
+person-time: N  nc hyphenated quant 
+perth-andover: NNP NE city nc  
+petershagen-eggersdorf: NNP NE city nc  
+petit-bourg: NNP NE city nc  
+petit-rocher: NNP NE city nc  
+petro-chemical: N  nc count hyphenated 
+petronell-carnuntum: NNP NE city nc  
+petropavlovsk-kamchatsky: NNP NE city nc  
+petrovsk-zabaykalsky: NNP NE city nc  
+pew-opener: N  nc count hyphenated 
+phase-3: NN  
+phase-out: A NN deverbal nc  VerbNom hyphenated 
+philippine-studies: NN  
+photo-chemistry: N  nc hyphenated info 
+photo-offset: A ac  abstract hyphenated 
+phrase-book: N  nc count hyphenated 
+piatra-neamt: NNP NE city nc  
+pichl-kainisch: NNP NE city nc  
+pick-up: A NN nc  component hyphenated 
+picture-book: N  nc count hyphenated 
+picture-card: N  nc count hyphenated 
+picture-gallery: N  nc count hyphenated 
+pier-glass: N  nc count hyphenated 
+pierrefitte-sur-seine: NNP NE city nc  
+pig-breeding: N  nc chg hyphenated 
+pile-driver: N  nc count hyphenated 
+pile-dwelling: N  nc count hyphenated 
+pile-up: N  nc count hyphenated 
+pillar-box: N  nc artifact count hyphenated 
+pillow-fight: N  nc count hyphenated 
+pilot-burner: N  nc count hyphenated 
+pilot-engine: N  nc count hyphenated 
+pilot-light: N  nc count hyphenated 
+pin-table: N  nc count hyphenated 
+pin-up: N  nc count hyphenated per 
+pinetop-lakeside: NNP NE city nc  
+pipe-organ: N  nc count hyphenated 
+pipe-rack: N  nc count hyphenated 
+pit-prop: N  nc count hyphenated 
+pitch-black: A ac  color hyphenated 
+pitch-dark: A ac  bright hyphenated 
+pivahn-hon-kya-pi: NNP NE city nc  
+place-bet: N  nc count hyphenated 
+place-kicking: NN nc  abstract hyphenated 
+place-name: A NN nc  count hyphenated 
+plague-spot: N  nc count hyphenated 
+plaster-of-paris: NN  
+plastic-bomb: N  nc count hyphenated 
+plastic-coated: A ac  hyphenated looks 
+plate-rack: N  nc count hyphenated 
+player-piano: N  nc count hyphenated 
+playing-card: N  nc count hyphenated 
+playing-field: N  nc count hyphenated 
+pleasure-craft: N  nc count hyphenated 
+plug-in: A NN nc topN3  hyphenated prod tool 
+plug-ugly: NN nc  hyphenated per 
+plunge-fire: N  nc chg hyphenated 
+plus-sized: A ac  hyphenated size 
+pna-dependent: A  
+pocket-book: N  nc count hyphenated 
+pocket-greenhaven: NNP NE city nc  
+point-blank: A idiom  RB behavior hyphenated 
+point-o-woods: NNP NE city nc  
+pointe-a-pitre: NNP NE city nc  
+pointe-claire: NNP NE city nc  
+pointe-fortune: NNP NE city nc  
+pointe-noire: NNP NE city nc  
+poitou-charentes: NNP NE city nc  
+poker-face: N  nc count hyphenated 
+pole-star: N  nc count hyphenated 
+pole-vault: N  nc count hyphenated 
+police-office: N  nc count hyphenated 
+police-station: N  nc count hyphenated 
+policy-holder: N  nc hyphenated per 
+poll-tax: N  nc count hyphenated 
+polling-booth: N  nc count hyphenated 
+polling-station: N  nc count hyphenated 
+pollution-free: A ac  hyphenated pt 
+pont-a-celles: NNP NE city nc  
+pooh-like: A  
+poor-box: N  nc count hyphenated 
+poor-rate: N  nc count hyphenated 
+poor-spirited: A ac  hyphenated nt stateMental 
+pop-top: N  nc artifact hyphenated 
+pork-barrel: A NN nc  count hyphenated 
+pork-barreling: NN nc  abstract hyphenated 
+pork-butcher: N  nc count hyphenated 
+porn-monger: N  nc hyphenated per 
+porsche-like: A  
+port-au-peck: NNP NE city nc  
+port-au-prince: NNP NE city nc  
+port-cartier: NNP NE city nc  
+port-gentil: NNP NE city nc  
+port-of-spain: NNP NE city nc  
+post-1992: CD  
+post-barre: A  
+post-chaise: N  nc artifact count hyphenated 
+post-deng: A  
+post-hugo: A  
+post-impressionist: N  nc hyphenated per 
+post-inaugural: A  
+post-june: A  
+post-mortem: A NN nc  abstract count hyphenated 
+post-tragedy: RB  
+post-vietnam: A  
+post-war: A NN ac  hyphenated n time 
+post-watergate: A  
+postbauer-heng: NNP NE city nc  
+pot-shot: N  nc count hyphenated 
+poulad-shahr: NNP NE city nc  
+pound-dm: A  
+poverty-stricken: A ac  hyphenated negAdj situation 
+powder-flask: N  nc count hyphenated 
+powder-horn: N  nc count hyphenated 
+powder-magazine: N  nc count hyphenated 
+powder-puff: A ac  count hyphenated 
+powder-room: N  nc count hyphenated 
+power-driven: A ac  hyphenated performance 
+power-operated: A ac  hyphenated performance 
+power-point: N  nc count hyphenated 
+power-seek: NN  
+power-station: N  nc count hyphenated 
+prayer-book: N  nc count hyphenated 
+prayer-meeting: N  nc count hyphenated 
+prayer-wheel: N  nc count hyphenated 
+pre-1975: CD  
+pre-anglo-saxon: A  
+pre-attack: A  
+pre-christmas: A  
+pre-civil: NNP  
+pre-communist: A  
+pre-decoration: NN  
+pre-easter: A  
+pre-emption: A NN deverbal nc  VerbNom hyphenated 
+pre-existence: A NN deverbal nc  VerbNom hyphenated 
+pre-fair: A  
+pre-french: A  
+pre-freudian: A  
+pre-gorbachev: A  
+pre-hugo: A  
+pre-may: A  
+pre-primary: A ac  hyphenated time 
+pre-punic: A  
+pre-raphaelite: N  nc hyphenated per 
+pre-reagan: A  
+pre-rejected: A ac  hyphenated troubleW 
+pre-revolutionary: A  
+pre-sterling: A  
+pre-war: A NN ac  hyphenated n time 
+pre-world-war: A  
+present-day: A ac  hyphenated timing 
+president-u.s.: NN  
+press-box: N  nc count hyphenated 
+press-clipping: N  nc count hyphenated 
+press-cutting: N  nc count hyphenated 
+press-gallery: N  nc count hyphenated 
+press-lord: N  nc count hyphenated 
+press-photographer: N  nc count hyphenated 
+press-stud: N  nc count hyphenated 
+press-up: N  nc count hyphenated 
+pressure-gauge: N  nc count hyphenated 
+price-fixing: A NN nc  abstract hyphenated 
+primorsko-akhtarsk: NNP NE city nc  
+print-seller: N  nc count hyphenated 
+prison-breaking: NN nc  chg hyphenated 
+privacy-invasive: A ac  hyphenated nt 
+private-property: NN  
+prize-fight: A NN nc  count hyphenated 
+prize-ring: N  nc count hyphenated 
+prize-winning: A ac  hyphenated possession 
+pro-actively: A  hyphenated ly pt 
+pro-castro: A  
+pro-consul: N  nc hyphenated per 
+pro-europe: A  
+pro-gorbachev: A  
+pro-hearst: A  
+pro-nato: A  
+pro-noriega: A  
+pro-reagan: A  
+pro-republican: A  
+pro-socialist: A  
+pro-soviet: A  
+pro-trujillo: A  
+pro-u.n.f.p.: A  
+pro-western: A  
+pro-yankee: NN  
+prompt-box: N  nc count hyphenated 
+prompt-copy: N  nc count hyphenated 
+proper-looking: A ac  hyphenated pt 
+property-man: N  nc count hyphenated 
+property-master: N  nc count hyphenated 
+proto-yokuts: NNS  
+prozor-rama: NNP NE city nc  
+pruning-hook: N  nc count hyphenated 
+pruning-saw: N  nc count hyphenated 
+pseudo-ginseng: N  nc hyphenated plant 
+public-spirited: A ac  behavior hyphenated 
+public-tv: NN  
+pug-nose: A ac  count hyphenated 
+pull-off: N  nc artifact count hyphenated 
+pull-through: N  nc count hyphenated tool 
+pull-top: N  nc artifact hyphenated 
+pull-up: N  nc count hyphenated 
+pump-room: N  nc count hyphenated 
+punching-ball: N  nc count hyphenated 
+punt-pole: N  nc artifact hyphenated 
+pure-gold: A ac  hyphenated pt 
+push-down: A ac  chg hyphenated 
+put-down: N  nc count hyphenated 
+putting-iron: N  nc count hyphenated 
+pyt-yakh: NNP NE city nc  
+quarter-century: A NN nc  hyphenated timeUnit 
+quarter-deck: N  nc count hyphenated 
+quartermaster-general: N  nc count hyphenated 
+quasi-: A ac  hyphenated quality 
+quasi-ngo: hyphenated org 
+question-mark: N  nc count hyphenated 
+question-master: N  nc count hyphenated 
+quick-eared: A ac  hyphenated pt 
+quick-lunch: N  nc artifact hyphenated 
+quick-shifting: A ac  hyphenated speed 
+quick-tempered: A ac  behavior hyphenated 
+quick-wittedness: NN nc  ebla hyphenated ness 
+quill-feather: N  nc count hyphenated 
+r-5th: A  
+r-stage: A  
+rabbit-burrow: N  nc count hyphenated 
+rabbit-hole: N  nc count hyphenated 
+rabbit-hutch: N  nc count hyphenated 
+rabbit-punch: N  nc count hyphenated 
+race-meeting: N  nc count hyphenated 
+radiation-proof: A ac  hyphenated pt 
+radio-set: N  nc count hyphenated 
+radio-telescope: N  nc count hyphenated 
+radio-transmitter: NN  
+radio-tv: A NN  
+rail-transit: NN  
+railroad-rate: A  
+ramstein-miesenbach: NNP NE city nc  
+ransbach-baumbach: NNP NE city nc  
+rapides-des-joachims: NNP NE city nc  
+rapier-thrust: N  nc count hyphenated 
+rapperswil-jona: NNP NE city nc  
+rarely-used: A ac  hyphenated role 
+ras-gap: NNP  
+ras-gef: NNP  
+rat-a-tat-tat: A ac  abstract count hyphenated 
+rate-ira: NN  
+ratingen-lintorf: NNP NE city nc  
+rattle-drum: N  nc artifact hyphenated 
+razor-edge: N  nc count hyphenated 
+re-count: N  nc count hyphenated vt 
+re-election: A NN deverbal nc  VerbNom hyphenated 
+re-entry: NN deverbal nc  VerbNom hyphenated 
+re-model: N  nc chg hyphenated 
+re-name: enBe hyphenated 
+read-out: N  nc hyphenated tool 
+ready-made: A ac  APP hyphenated situation 
+ready-to-wear: A ac  hyphenated situation tool 
+reagan-like: A  
+reagan-republican: A  
+real-time: A ac topN3  hyphenated sequence 
+reaping-hook: N  nc count hyphenated 
+rear-projection: N  nc hyphenated 
+recombinant-dna: NN  
+record-player: N  nc count hyphenated 
+red-and-white: A ac  color hyphenated 
+red-blindness: NN nc  hyphenated ness phenomena 
+red-letter: A ac  ebla hyphenated 
+red-pencil: VB vc  chg hyphenated 
+red-spotted: N  nc hyphenated plant 
+reddish-brown: A ac  color hyphenated 
+regis-breitingen: NNP NE city nc  
+rehburg-loccum: NNP NE city nc  
+rehlingen-siersburg: NNP NE city nc  
+remda-teichel: NNP NE city nc  
+remsenburg-speonk: NNP NE city nc  
+renews-cappahayden: NNP NE city nc  
+rent-seeking: N  nc hyphenated 
+research-intensive: A ac  hyphenated property 
+resting-place: N  nc artifact hyphenated 
+rheda-wiedenbruck: NNP NE city nc  
+rhod-ayr: NNP NE city nc  
+ribbon-cutting: N  nc act hyphenated 
+ribnitz-damgarten: NNP NE city nc  
+riding-habit: N  nc count hyphenated 
+rielasingen-worblingen: NNP NE city nc  
+rietheim-weilheim: NNP NE city nc  
+rietzneuendorf-staakow: NNP NE city nc  
+riff-raff: N  nc count hyphenated 
+rifle-shot: N  nc count hyphenated 
+right-to-die: A  
+right-turn: N  nc count hyphenated 
+right-wing: A NN nc  count hyphenated 
+rillieux-la-pape: NNP NE city nc  
+ring-around-a-rosy: NN nc  abstract hyphenated 
+ring-shaped: A ac  hyphenated looks 
+ringelsdorf-niederabsdorf: NNP NE city nc  
+rios-embryos: NNS  
+ris-orangis: NNP NE city nc  
+river-bed: N  nc count hyphenated 
+riviere-du-loup: NNP NE city nc  
+road-book: N  nc count hyphenated 
+rock-firm: A ac  hyphenated situation 
+rock-ribbed: A ac  behavior hyphenated 
+rocket-range: N  nc count hyphenated 
+rocking-horse: N  nc count hyphenated 
+rodersheim-gronau: NNP NE city nc  
+roesbrugge-haringe: NNP NE city nc  
+roley-poley: A ac  count hyphenated 
+rolling-pin: N  nc count hyphenated 
+roly-poly: A ac  count hyphenated 
+roman-camp: NN  
+romans-sur-isere: NNP NE city nc  
+roodbar-e-jonoub: NNP NE city nc  
+roof-tree: N  nc count hyphenated 
+room-mate: N  nc count hyphenated 
+rope-dancer: N  nc count hyphenated per 
+rope-yard: N  nc count hyphenated 
+rose-bed: N  nc count hyphenated 
+rose-gold: NN  
+rose-hill: NNP NE city nc  
+rose-leaf: N  nc count hyphenated 
+rose-mauve: A ac  color hyphenated 
+rose-of-sharon: NN  
+rose-purple: A ac  color hyphenated 
+rose-red: A ac  color hyphenated 
+rosenburg-mold: NNP NE city nc  
+roshni-chu: NNP NE city nc  
+rosny-sous-bois: NNP NE city nc  
+rossatz-arnsdorf: NNP NE city nc  
+rostov-on-don: NNP NE city nc  
+rosy-purple: A ac  color hyphenated 
+rottach-egern: NNP NE city nc  
+rotunda-west: NNP NE city nc  
+rough-and-ready: A ac  behavior hyphenated 
+rough-and-tumble: A ac  abstract count hyphenated 
+rough-tempered: A ac  behavior hyphenated 
+round-backed: A ac  hyphenated statePhy 
+round-off: A ac  Math hyphenated 
+round-shouldered: A ac  hyphenated statePhy 
+round-table: A ac  artifact hyphenated 
+rounding-off: NN  
+rowan-berry: N  nc count hyphenated 
+rub-down: N  nc count hyphenated 
+rub-up: N  nc count hyphenated 
+rubber-necking: VB vc  Ving abstract hyphenated 
+rueil-malmaison: NNP NE city nc  
+rule-based: A ac  hyphenated performance 
+rules-based: A ac  hyphenated performance 
+rum-runner: N  nc count hyphenated 
+rumour-monger: N  nc count hyphenated 
+run-away: VB vc  hyphenated leave 
+run-down: A ac  hyphenated statePhy 
+run-through: N  nc count hyphenated 
+run-time: N  nc hyphenated timeUnit 
+running-board: N  nc count hyphenated 
+rush-plant: VB vc  hyphenated provideFor 
+russian-language: A  
+russo-american: A  
+s-11: NN  
+s-20: NN  
+s-s-sahjunt: NN  
+s&p-down: NN  
+sa-12: NN  
+saalbach-hinterglemm: NNP NE city nc  
+saalburg-ebersdorf: NNP NE city nc  
+saaldorf-surheim: NNP NE city nc  
+saber-rattling: A NN nc  chg hyphenated 
+sack-race: N  nc count hyphenated 
+saddle-shaped: A ac  hyphenated posture 
+sado-masochist: N  nc count hyphenated 
+safe-deposit: A ac  count hyphenated 
+safety-catch: N  nc count hyphenated 
+safety-match: N  nc count hyphenated 
+safety-pin: N  nc count hyphenated 
+sailing-vessel: N  nc count hyphenated 
+saint-alexandre: NNP NE city nc  
+saint-andre: NNP NE city nc  
+saint-augustin-de-desmaures: NNP NE city nc  
+saint-benoit: NNP NE city nc  
+saint-bernard-de-lacolle: NNP NE city nc  
+saint-brieuc: NNP NE city nc  
+saint-bruno-de-montarville: NNP NE city nc  
+saint-chamond: NNP NE city nc  
+saint-chrysostome: NNP NE city nc  
+saint-cloud: NNP NE city nc  
+saint-constant: NNP NE city nc  
+saint-denis: NNP NE city nc  
+saint-die-des-vosges: NNP NE city nc  
+saint-dizier: NNP NE city nc  
+saint-dom: N  nc hyphenated status 
+saint-etienne-du-rouvray: NNP NE city nc  
+saint-etienne: NNP NE city nc  
+saint-eustache: NNP NE city nc  
+saint-georges: NNP NE city nc  
+saint-germain-en-laye: NNP NE city nc  
+saint-gilles: NNP NE city nc  
+saint-herblain: NNP NE city nc  
+saint-hood: N  nc hyphenated status 
+saint-hyacinthe: NNP NE city nc  
+saint-jean-sur-richelieu: NNP NE city nc  
+saint-jerome: NNP NE city nc  
+saint-joseph-de-beauce: NNP NE city nc  
+saint-joseph: NNP NE city nc  
+saint-lambert: NNP NE city nc  
+saint-laurent-du-var: NNP NE city nc  
+saint-lazare: NNP NE city nc  
+saint-leu: NNP NE city nc  
+saint-lin-laurentides: NNP NE city nc  
+saint-lo: NNP NE city nc  
+saint-louis: NNP NE city nc  
+saint-malo: NNP NE city nc  
+saint-martin: NNP NE city nc  
+saint-mathieu-de-beloeil: NNP NE city nc  
+saint-maur-des-fosses: NNP NE city nc  
+saint-michel-sur-orge: NNP NE city nc  
+saint-mihiel: NNP NE city nc  
+saint-nazaire: NNP NE city nc  
+saint-ouen: NNP NE city nc  
+saint-ours: NNP NE city nc  
+saint-patrice-de-sherrington: NNP NE city nc  
+saint-paul: NNP NE city nc  
+saint-pol-sur-mer: NNP NE city nc  
+saint-polycarpe: NNP NE city nc  
+saint-priest: NNP NE city nc  
+saint-quentin: NNP NE city nc  
+saint-raymond: NNP NE city nc  
+saint-robert: NNP NE city nc  
+saint-sauveur: NNP NE city nc  
+saint-sebastien-sur-loire: NNP NE city nc  
+saint-telesphore: NNP NE city nc  
+saint-tite: NNP NE city nc  
+saint-vincent-de-paul: NNP NE city nc  
+saint-zotique: NNP NE city nc  
+sainte-adele: NNP NE city nc  
+sainte-agathe-des-monts: NNP NE city nc  
+sainte-anne-de-beaupre: NNP NE city nc  
+sainte-anne-de-bellevue: NNP NE city nc  
+sainte-anne-des-plaines: NNP NE city nc  
+sainte-anne: NNP NE city nc  
+sainte-catherine: NNP NE city nc  
+sainte-clotilde-de-chateauguay: NNP NE city nc  
+sainte-foy-les-lyon: NNP NE city nc  
+sainte-genevieve-des-bois: NNP NE city nc  
+sainte-julie: NNP NE city nc  
+sainte-marie: NNP NE city nc  
+sainte-ode: NNP NE city nc  
+sainte-therese: NNP NE city nc  
+salaberry-de-valleyfield: NNP NE city nc  
+salon-de-provence: NNP NE city nc  
+salt-and-pepper: A ac  color hyphenated 
+salzgitter-bad: NNP NE city nc  
+salzgitter-ringelheim: NNP NE city nc  
+san-di-gan: NNP NE city nc  
+sand-bar: N  nc count hyphenated 
+sandwich-board: N  nc count hyphenated 
+sangha-mbaere: NNP NE city nc  
+sanyo-onoda: NNP NE city nc  
+sash-line: N  nc count hyphenated 
+sastin-straze: NNP NE city nc  
+satellite-tv: A  
+saturday-night: A  
+sauce-boat: N  nc count hyphenated 
+sausage-dog: N  nc count hyphenated 
+savigny-le-temple: NNP NE city nc  
+savigny-sur-orge: NNP NE city nc  
+saw-pit: N  nc count hyphenated 
+saybrook-on-the-lake: NNP NE city nc  
+scale-up: N  nc chg hyphenated 
+scallop-shell: N  nc count hyphenated 
+scarf-pin: N  nc count hyphenated 
+scenarist-director: N  nc hyphenated per 
+scene-shifter: N  nc count hyphenated 
+schacht-audorf: NNP NE city nc  
+scheiblingkirchen-thernberg: NNP NE city nc  
+scherpenheuvel-zichem: NNP NE city nc  
+schieder-schwalenberg: NNP NE city nc  
+scholar-general: N  nc hyphenated per 
+scholar-physician: N  nc hyphenated per 
+scholar-tyrant: N  nc hyphenated per 
+schonbuhel-aggsbach: NNP NE city nc  
+schonenberg-kubelberg: NNP NE city nc  
+schonkirchen-reyersdorf: NNP NE city nc  
+scissor-cut: N  nc hyphenated info 
+scotch-and-soda: NN  
+scratch-pad: N  nc count hyphenated 
+scratch-race: N  nc count hyphenated 
+screw-driver: N  nc artifact hyphenated 
+scribbling-block: N  nc count hyphenated 
+scrooge-like: A  
+sea-anemone: N  nc count hyphenated 
+sea-cow: N  nc count hyphenated 
+sea-dog: N  nc count hyphenated 
+sea-level: N  nc count hyphenated 
+sea-lion: N  nc count hyphenated 
+sea-road: NN  
+sea-tac: NNP NE city nc  
+sea-urchin: N  nc count hyphenated 
+sea-wall: N  nc count hyphenated 
+seal-engraving: VB vc  express hyphenated 
+seal-ring: N  nc count hyphenated 
+search-party: N  nc count hyphenated 
+search-to-phone: NN com nc 
+search-warrant: N  nc count hyphenated 
+searing-iron: N  nc count hyphenated 
+season-ticket: N  nc count hyphenated 
+second-class: A ac  hyphenated nt 
+second-rate: A ac  hyphenated nt 
+secretary-designate: NNP  
+secretary-general: A NN nc  hyphenated title 
+sedan-chair: N  nc count hyphenated 
+sedge-town: NNP NE city nc  
+sedro-woolley: NNP NE city nc  
+seefeld-kadolz: NNP NE city nc  
+seeheim-jugenheim: NNP NE city nc  
+seine-et-marne: NNP NE city nc  
+seine-saint-denis: NNP NE city nc  
+seitingen-oberflacht: NNP NE city nc  
+selby-on-the-bay: NNP NE city nc  
+self-abased: A ac  behavior hyphenated 
+self-absorbed: A ac  hyphenated nt 
+self-admiring: A ac  behavior hyphenated 
+self-analysis: N  nc hyphenated thinking treatment 
+self-appreciation: N  nc hyphenated stateMental 
+self-assertive: A ac  behavior hyphenated 
+self-assured: A ac  hyphenated pt 
+self-awareness: NN nc  hyphenated ness 
+self-centeredness: NN nc  hyphenated mental ness 
+self-centred: A ac  behavior hyphenated 
+self-collected: A ac  behavior hyphenated 
+self-complacency: NN nc  hyphenated stateMental 
+self-conceited: A ac  hyphenated nt 
+self-confident: A ac  hyphenated stateMental 
+self-conscious: A ac  APP hyphenated nt 
+self-consciousness: NN nc  hyphenated ness 
+self-contented: A ac  hyphenated stateMental 
+self-contradictory: A ac  hyphenated troubleW 
+self-creation: N  nc chg hyphenated 
+self-defense: A NN nc  abstract hyphenated 
+self-discipline: A NN nc  abstract hyphenated 
+self-discovery: NN nc  abstract hyphenated 
+self-educated: A ac  chg hyphenated 
+self-excite: VB vc  enDo hyphenated 
+self-glorification: N  nc chg hyphenated 
+self-governing: A ac  chg hyphenated 
+self-help: A NN nc  abstract hyphenated 
+self-indulgent: A ac  behavior hyphenated 
+self-interest: A NN nc  abstract hyphenated superiority 
+self-made: A ac  act hyphenated 
+self-marketing: N  nc chg hyphenated 
+self-opinionated: A ac  hyphenated nt 
+self-own: VB vc  hyphenated possession 
+self-pity: NN nc  abstract hyphenated stateMental 
+self-possessed: A ac  hyphenated stateMental 
+self-produce: VB vc  create hyphenated 
+self-purification: N  nc chg hyphenated 
+self-question: VB vc  hyphenated tryToKnow 
+self-reliant: A ac  hyphenated pt 
+self-restrain: N  nc chg hyphenated 
+self-restrained: A ac  causeNotDo hyphenated 
+self-sacrificing: A ac  hyphenated pt 
+self-satisfied: A ac  hyphenated stateMental 
+self-seeking: N  nc abstract hyphenated 
+self-service: A NN nc  chg hyphenated 
+self-sown: A ac  chg hyphenated 
+self-sufficiency: NN nc  abstract connective hyphenated 
+self-sufficient: A NN ac  hyphenated quant stateMental 
+self-supporting: A ac  hyphenated quant 
+self-taught: A ac  chg hyphenated 
+self-willed: A ac  hyphenated stateMental 
+semi-automatic: A ac  hyphenated performance 
+semi-colony: N  nc hyphenated natural 
+semi-finals: NNS Xs nc  hyphenated 
+semi-insulator: N  nc artifact hyphenated 
+semi-official: A ac  attachment hyphenated 
+semi-overt: A ac  behavior hyphenated 
+semi-structuralized: A ac  chg hyphenated 
+semi-tropics: N  nc component hyphenated 
+sempeter-vrtojba: NNP NE city nc  
+senate-house: A  
+send-off: N  nc hyphenated info 
+send-up: N  nc count hyphenated 
+sense-organ: N  nc count hyphenated 
+sentence-by-sentence: A ac  content hyphenated 
+sergeant-major: N  nc count hyphenated 
+serious-mindedness: N  nc behavior hyphenated ness 
+servant-girl: N  nc hyphenated per 
+set-square: N  nc artifact count hyphenated 
+seven-eighths: CD  
+seven-eleven: NNP  
+seven-tenths: CD  
+seventy-five: CD  
+seventy-four: CD  
+seventy-seven: A  
+severo-kurilsk: NNP NE city nc  
+sewage-works: N  nc count hyphenated 
+sex-starvation: N  nc hyphenated mental 
+shaft-horse: N  nc animal hyphenated 
+shangri-la: NNP NE city nc  
+shape-up: A ac  abstract hyphenated 
+sharp-eyed: A ac  ebla hyphenated 
+sharp-tongued: A ac  hyphenated nt 
+sharp-witted: A ac  ebla hyphenated 
+sheet-form: A ac  hyphenated looks 
+shefa-'amr: NNP NE city nc  
+shell-proof: A ac  ebla hyphenated 
+shelter-forest: N  nc hyphenated plant 
+shifty-eyed: A ac  hyphenated troubleW 
+shilly-shally: VB vc  hyphenated volition 
+shiny-black: A ac  color hyphenated 
+ship-canal: N  nc count hyphenated 
+shipping-agent: N  nc count hyphenated 
+shipping-office: N  nc count hyphenated 
+shirt-front: N  nc count hyphenated 
+shock-brigade: N  nc count hyphenated 
+shock-worker: N  nc count hyphenated 
+shoe-pad: N  nc component hyphenated 
+shooting-box: N  nc count hyphenated 
+shooting-brake: N  nc count hyphenated 
+shooting-gallery: N  nc count hyphenated 
+shooting-range: N  nc count hyphenated 
+shooting-stick: N  nc count hyphenated 
+shop-assistant: N  nc count hyphenated 
+shop-bell: N  nc count hyphenated 
+shop-boy: N  nc count hyphenated 
+shop-front: N  nc count hyphenated 
+shop-girl: N  nc count hyphenated 
+shop-steward: N  nc count hyphenated 
+shore-based: A ac  hyphenated positioning 
+short-distance: A ac  hyphenated length 
+short-lengthed: A ac  hyphenated length 
+short-range: A ac  hyphenated length 
+short-staffed: A ac  hyphenated nt 
+short-tempered: A ac  behavior hyphenated 
+short-term: A NN ac topN3  dur hyphenated n vac 
+short-weight: VB vc  chgPoss hyphenated 
+short-winded: A ac  hyphenated statePhy 
+shot-put: N  nc count hyphenated 
+shot-tower: N  nc count hyphenated 
+shoulder-flash: N  nc count hyphenated 
+shoulder-strap: N  nc count hyphenated 
+show-off: N  nc count hyphenated per 
+show-window: N  nc count hyphenated 
+shower-bath: N  nc count hyphenated 
+shut-in: A NN nc  hyphenated per 
+sick-abed: A ac  hyphenated nt 
+sick-benefit: N  nc count hyphenated 
+sick-headache: N  nc count hyphenated 
+sick-list: N  nc count hyphenated 
+sick-parade: N  nc count hyphenated 
+sick-room: N  nc count hyphenated 
+side-chapel: N  nc count hyphenated 
+side-drum: N  nc count hyphenated 
+side-road: N  nc count hyphenated 
+side-saddle: N  nc count hyphenated 
+side-slip: VB vc  VPPdir count hyphenated 
+side-stroke: N  nc count hyphenated 
+side-view: N  nc count hyphenated 
+sight-seeing: A NN nc  chg hyphenated 
+sign-painter: N  nc count hyphenated 
+signal-box: N  nc count hyphenated 
+signal-to-noise: A NN nc  abstract hyphenated 
+signet-ring: N  nc count hyphenated 
+silva-de-amor: NNP NE city nc  
+silver-coloured: A ac  color hyphenated 
+silver-fish: N  nc count hyphenated 
+silver-gray: A ac  color hyphenated 
+silver-grey: A ac  color hyphenated 
+silver-inlaid: VB vc  hyphenated moveIn 
+silver-plated: A ac  hyphenated looks 
+silver-tongued: A ac  hyphenated pt 
+silver-worker: N  nc hyphenated job 
+simple-hearted: A ac  hyphenated nt 
+simple-minded: A ac  hyphenated nt 
+single-action: N  nc hyphenated 
+single-b-plus: A  
+single-barreled: A ac  hyphenated looks 
+single-barrelled: A ac  hyphenated looks 
+single-breasted: A ac  hyphenated looks 
+single-color: A  
+single-column: A ac  hyphenated looks 
+single-d: A  
+single-foot: A ac  abstract hyphenated 
+single-hearted: A ac  behavior hyphenated 
+single-line: N  nc artifact hyphenated 
+single-lined: A ac  hyphenated looks 
+single-minded: A ac  hyphenated nt 
+single-mindedness: NN nc  hyphenated ness nt 
+single-sided: A ac  hyphenated looks 
+single-spacing: NN nc  hyphenated length 
+single-subject: A  
+single-track: A ac  dir hyphenated 
+sino-british: A  
+sino-foreign: A  
+sino-soviet: A  
+sint-amands: NNP NE city nc  
+sint-andries: NNP NE city nc  
+sint-genesius-rode: NNP NE city nc  
+sint-goriks-oudenhove: NNP NE city nc  
+sint-jacobskapelle: NNP NE city nc  
+sint-joris-weert: NNP NE city nc  
+sint-joris-winge: NNP NE city nc  
+sint-joris: NNP NE city nc  
+sint-jozef: NNP NE city nc  
+sint-katelijne-waver: NNP NE city nc  
+sint-kruis: NNP NE city nc  
+sint-kwintens-lennik: NNP NE city nc  
+sint-laureins: NNP NE city nc  
+sint-margriete-houtem: NNP NE city nc  
+sint-maria-lierde: NNP NE city nc  
+sint-martens-latem: NNP NE city nc  
+sint-martens-lennik: NNP NE city nc  
+sint-martens-lierde: NNP NE city nc  
+sint-michiels: NNP NE city nc  
+sint-niklaas: NNP NE city nc  
+sint-pieters-kapelle: NNP NE city nc  
+sint-pieters-leeuw: NNP NE city nc  
+sint-pieters-woluwe: NNP NE city nc  
+sint-pieters: NNP NE city nc  
+sint-stevens-woluwe: NNP NE city nc  
+sint-truiden: NNP NE city nc  
+siphon-worm: N  nc animal hyphenated 
+sister-in-law: N  nc hyphenated relatives 
+sit-down: A ac  abstract hyphenated 
+sit-in: A NN nc  count hyphenated 
+sitter-in: N  nc hyphenated per 
+six-four: CD  
+six-fours-les-plages: NNP NE city nc  
+sixty-eight: CD  
+sixty-nine: CD  
+sixty-one: CD  
+sixty-seven: CD  
+sixty-two: CD  
+sketch-block: N  nc count hyphenated 
+sketch-book: N  nc count hyphenated 
+skew-whiff: A ac idiom  RB hyphenated posture 
+ski-bob: N  nc count hyphenated 
+ski-jump: N  nc count hyphenated 
+skin-deep: A ac  content depth hyphenated 
+skin-pop: VB vc  hyphenated whileAway 
+skittle-pin: N  nc count hyphenated 
+sky-borne: A ac  chg hyphenated 
+sky-high: A ac  height hyphenated 
+slag-heap: N  nc count hyphenated 
+slave-driver: N  nc count hyphenated 
+slave-girl: N  nc hyphenated per 
+slavyansk-na-kubani: NNP NE city nc  
+sleep-disorder: A  
+sleep-walking: A ac  hyphenated nt 
+sleeping-draught: N  nc count hyphenated 
+sleepy-head: N  nc count hyphenated 
+sleuth-hound: N  nc count hyphenated 
+slide-rule: N  nc artifact count hyphenated 
+slip-carriage: N  nc count hyphenated 
+slip-coach: N  nc count hyphenated 
+slip-knot: N  nc hyphenated phy 
+slip-up: N  nc count hyphenated 
+slop-basin: N  nc count hyphenated 
+slop-pail: N  nc count hyphenated 
+slop-shop: N  nc count hyphenated 
+slot-machine: N  nc count hyphenated 
+slow-moving: A ac  hyphenated speed 
+slow-poke: N  nc hyphenated per 
+slow-up: N  nc chg hyphenated 
+slow-witted: A ac  behavior hyphenated 
+slow-wittedness: NN nc  hyphenated ness situation 
+slow-worm: N  nc count hyphenated 
+small-breasted: A ac  fat hyphenated 
+small-denomination: A NN ac  hyphenated price 
+small-fry: A ac  hyphenated priority 
+small-minded: A ac  AitPPforTO hyphenated troubleW 
+small-scale: A ac  hyphenated range 
+small-size: A ac  hyphenated size 
+small-sized: A ac  hyphenated size 
+smash-up: N  nc count hyphenated 
+smell-feast: N  nc hyphenated per 
+smooth-faced: A ac  hyphenated looks 
+smooth-going: VB vc  hyphenated succeed 
+smooth-spoken: A ac  hyphenated pt 
+smooth-tongue: N  nc ebla hyphenated 
+smooth-tongued: A ac  behavior hyphenated 
+snack-counter: N  nc count hyphenated 
+snail-slow: A ac  hyphenated speed 
+snarl-up: N  nc count hyphenated 
+sneak-raid: N  nc chg hyphenated 
+sno-cat: N  nc hyphenated tool 
+snow-blind: A ac  hyphenated phenomena 
+snow-broth: N  nc hyphenated natural 
+snow-white: A ac  color hyphenated 
+snub-nose: N  nc component hyphenated 
+snub-nosed: A ac  component hyphenated 
+so-called: A ac topN3  hyphenated quality vac 
+so-so: A NN ac  hyphenated n nt 
+soap-boiler: N  nc hyphenated per 
+soap-opera: N  nc count hyphenated 
+sober-minded: A ac  ebla hyphenated 
+sober-sides: N  nc count hyphenated 
+sober-up: VB vc  beRecovered hyphenated 
+social-chauvinism: N  nc hyphenated mental 
+social-chauvinist: N  nc hyphenated per 
+social-minded: A ac  hyphenated pt 
+soda-fountain: N  nc count hyphenated 
+sodium-vapourlamp: N  nc artifact hyphenated 
+soft-drink: NN  
+soft-packed: A ac  hyphenated looks 
+soft-shoe: A ac  abstract hyphenated 
+soft-soap: VB vc  hyphenated please vt 
+soft-soaper: N  nc hyphenated per 
+soft-spoken: A ac  hyphenated pt 
+sol-fa: N  nc count hyphenated 
+sol-iletsk: NNP NE city nc  
+sold-out: A ac  hyphenated pt 
+solid-state: A ac  hyphenated looks 
+somme-leuze: NNP NE city nc  
+son-in-law: N  nc count hyphenated per 
+song-poem: N  nc hyphenated info 
+song-writter: N  nc hyphenated per 
+sor-trondelag: NNP NE city nc  
+sor-varanger: NNP NE city nc  
+sorel-tracy: NNP NE city nc  
+sorrow-stricken: A ac  hyphenated nt stateMental 
+sotteville-les-rouen: NNP NE city nc  
+soul-searching: NN nc  abstract hyphenated 
+soul-stirring: A ac  hyphenated pt 
+sound-activated: A ac  hyphenated performance 
+sound-controlled: A ac  hyphenated performance 
+sounding-board: N  nc count hyphenated 
+soup-stock: N  nc artifact hyphenated 
+south-asian: A  
+soviet-american: A  
+soviet-bloc: A  
+soviet-israeli: A  
+soviet-korean: A  
+sowme'e-sara: NNP NE city nc  
+sp1-plus: A  
+space-bar: N  nc count hyphenated 
+space-time: A NN nc  abstract hyphenated 
+spare-rib: N  nc count hyphenated 
+spas-demensk: NNP NE city nc  
+spas-klepiki: NNP NE city nc  
+spassk-dalny: NNP NE city nc  
+spassk-ryazansky: NNP NE city nc  
+speaking-tube: N  nc count hyphenated 
+special-election: NN  
+special-purpose: A ac  content hyphenated 
+special-shaped: N  nc hyphenated looks 
+speed-up: A NN nc  count hyphenated 
+spic-and-span: A ac  clean hyphenated newness 
+spick-and-span: A ac  clean hyphenated newness 
+spiesen-elversberg: NNP NE city nc  
+spin-off: A NN nc  component count hyphenated 
+spindle-berry: N  nc count hyphenated 
+spindle-shanks: N  nc count hyphenated 
+spirit-level: N  nc count hyphenated 
+spirit-rapper: N  nc count hyphenated 
+sport-king: NN  
+spot-weld: N  nc hyphenated tool 
+spread-over: N  nc count hyphenated 
+spring-balance: N  nc count hyphenated 
+spring-cleaning: NN nc  count hyphenated 
+spring-gun: N  nc count hyphenated 
+spy-hole: N  nc count hyphenated 
+square-toes: N  nc count hyphenated 
+st-basile-le-grand: NNP NE city nc  
+stadl-paura: NNP NE city nc  
+stake-holder: N  nc count hyphenated 
+stand-alone: A ac  behavior hyphenated 
+stand-to: N  nc count hyphenated 
+star-spangled: A  
+stark-naked: A ac  hyphenated looks 
+starting-post: N  nc count hyphenated 
+state-capitol: NN  
+state-maintained: A ac  attachment hyphenated 
+state-of-the-art: A ac topN3  hyphenated pt vac 
+state-own: A ac  attachment hyphenated 
+state-owned: A ac  attachment hyphenated 
+state-run: A ac  attachment hyphenated 
+stay-at-home: A ac  count hyphenated per 
+stay-down: VB vc  fight hyphenated 
+stay-in: VB vc  fight hyphenated 
+steady-eddies: NNS  
+steady-state: A ac  hyphenated situation 
+steel-smelting: VB vc  chgProperty hyphenated 
+steinbach-hallenberg: NNP NE city nc  
+steinberg-dorfl: NNP NE city nc  
+step-by-step: A ac idiom topN3  RB graduality hyphenated 
+step-down: N  nc chg hyphenated 
+stick-in-the-mud: A NN nc  count hyphenated per 
+stick-up: N  nc count hyphenated 
+sticky-fingered: A ac  behavior hyphenated 
+still-life: N  nc count hyphenated 
+stirrup-cup: N  nc count hyphenated 
+stock-index: NN  
+stock-market: NN  
+stock-price: A NN  
+stock-taking: NN nc  abstract hyphenated 
+stoke-on-trent: NNP NE city nc  
+stony-broke: A ac  hyphenated situation 
+stonybrook-wilshire: NNP NE city nc  
+stool-pigeon: N  nc hyphenated per 
+stop-close-only: A  
+storm-cone: N  nc count hyphenated 
+straight-a: A  
+strasslach-dingharting: NNP NE city nc  
+stratford-on-avon: NNP NE city nc  
+stratford-upon-avon: NNP NE city nc  
+strathroy-caradoc: NNP NE city nc  
+straw-woven: A ac  hyphenated property 
+stress-mark: N  nc count hyphenated 
+strike-leader: N  nc count hyphenated 
+strip-show: N  nc count hyphenated 
+strombeek-bever: NNP NE city nc  
+strong-earnings: NNS  
+stuart-family: NN  
+stuck-up: A NN ac  behavior hyphenated 
+stupid-looking: A ac  hyphenated troubleW 
+sub-agency: N  nc component hyphenated 
+sub-assembly: NN nc  hyphenated tool 
+sub-christian: A  
+sub-health: N  nc hyphenated situation 
+sub-item: N  nc hyphenated 
+sub-landlord: N  nc hyphenated per 
+sub-librarian: N  nc hyphenated per 
+sub-par: A ac  hyphenated nt 
+sub-routine: N  nc artifact hyphenated 
+sub-saharan: A  
+subject-matter: N  nc content hyphenated 
+submarine-based: A ac  hyphenated performance 
+sucking-pig: N  nc count hyphenated 
+sucy-en-brie: NNP NE city nc  
+sugar-coat: N  nc artifact hyphenated 
+sugar-free: A ac  hyphenated pt 
+sugar-refinery: N  nc count hyphenated 
+sulzbach-laufen: NNP NE city nc  
+sulzbach-rosenberg: NNP NE city nc  
+summing-up: N  nc count hyphenated 
+sun-god: N  nc count hyphenated 
+sun-lounge: N  nc count hyphenated 
+sun-parlour: N  nc count hyphenated 
+sun-porch: N  nc count hyphenated 
+sunday-school: A  
+sundern-allendorf: NNP NE city nc  
+sunol-midtown: NNP NE city nc  
+super-herculean: A  
+superior-quality: N  nc hyphenated quality 
+sure-footed: A ac  hyphenated situation 
+surface-to-air: A ac  hyphenated performance 
+swan-song: N  nc count hyphenated 
+sweet-scented: A ac  hyphenated pt 
+sweet-smelling: A ac  hyphenated pt 
+sweet-sounding: A ac  hyphenated pt 
+swimming-bath: N  nc count hyphenated 
+swing-wing: N  nc component hyphenated 
+swiss-cheese: NN  
+swiss-franc: NN  
+swiss-german: A  
+swisttal-essig: NNP NE city nc  
+swizzle-stick: N  nc count hyphenated 
+sword-cane: N  nc count hyphenated 
+sword-dance: N  nc count hyphenated 
+t'ien-ching: NNP NE city nc  
+t-bar: N  nc hyphenated tool 
+t-bill: NN NNP  
+t-bills: NNS  
+t-bond: A NN  
+t-cell: NN  
+t-junction: N  nc hyphenated 
+t-man: NNP nc  hyphenated job 
+t-men: NNP Xs  
+t-network: N  nc hyphenated tool 
+t-square: N  nc hyphenated tool 
+table-knife: N  nc count hyphenated 
+tail-end: N  nc count hyphenated 
+tail-light: N  nc count hyphenated 
+tailor-made: A ac  APP hyphenated situation 
+taipa-mangonui: NNP NE city nc  
+take-away: A ac  artifact hyphenated 
+take-leave: N  nc chg hyphenated 
+tale-bearer: N  nc count hyphenated 
+tale-teller: N  nc count hyphenated 
+talking-to: N  nc count hyphenated 
+tambach-dietharz: NNP NE city nc  
+tariff-walled: A ac  hyphenated thinking 
+tax-dodger: N  nc hyphenated per 
+tax-exempt: A ac  abstract ebla hyphenated 
+tax-free: A ac  ebla hyphenated 
+tay-sachs: NN  
+tea-booth: N  nc group hyphenated 
+tea-kettle: N  nc count hyphenated 
+tea-kiosk: N  nc group hyphenated 
+tea-service: N  nc count hyphenated 
+tea-stall: N  nc group hyphenated 
+tea-things: N  nc artifact hyphenated 
+tear-drop: N  nc count hyphenated 
+tear-jerker: N  nc count hyphenated 
+tear-jerking: A ac  hyphenated nt 
+teary-eyed: A ac  hyphenated nt 
+technical-chart: A  
+technology-intensive: A ac  hyphenated pt 
+ten-fifty-five: CD  
+ten-thousand-dollar: A  
+ten-twelve: CD  
+tenant-peasant: N  nc hyphenated per 
+terror-stricken: A ac  ATO hyphenated nt stateMental 
+terror-struck: A ac  hyphenated nt stateMental 
+text-matching: NN nc  hyphenated tool 
+thai-cambodian: A  
+thaleischweiler-froschen: NNP NE city nc  
+that-a-way: RB  
+thick-skinned: A ac  hyphenated stateMental 
+thick-witted: A ac  behavior hyphenated 
+thievish-looking: A ac  hyphenated troubleW 
+thin-skinned: A ac  hyphenated stateMental 
+thirty-eight: CD  
+thirty-eighth: CD  
+thirty-four: CD  
+thirty-nine: CD  
+thirty-ninth: CD  
+thirty-one: CD  
+thirty-seven: CD  
+thirty-six: CD  
+thirty-sixth: CD  
+thirty-something: NN nc  age hyphenated 
+thirty-three: CD  
+thonon-les-bains: NNP NE city nc  
+thought-provoking: A ac  hyphenated pt 
+three-D: N  nc hyphenated looks 
+three-dimension: N  nc hyphenated phy 
+three-dimensional: A ac topN3  hyphenated looks 
+three-dimensionality: NN nc  abstract hyphenated 
+three-dimentional: A ac  hyphenated looks 
+three-fifths: CD  
+three-fourths: A NNS nc  CD abstract fraction hyphenated 
+three-in-one: A ac  hyphenated property 
+three-round: A ac  hyphenated quant 
+three-sevenths: CD  
+tick-tock: N  nc count hyphenated 
+tielt-winge: NNP NE city nc  
+tight-knit: A ac  comfortW hyphenated 
+tight-lipped: A ac  behavior hyphenated 
+tight-wad: N  nc count hyphenated 
+time-consuming: A ac  hyphenated nt 
+time-tested: A ac  content hyphenated 
+timor-leste: NNP NE city nc  
+tip-and-run: A ac  chg hyphenated 
+tip-top: A ac idiom  RB hyphenated pt 
+tithe-barn: N  nc count hyphenated 
+titisee-neustadt: NNP NE city nc  
+tittle-tattle: VB vc  VI VPP count hyphenated vi 
+to-and-from: A ac  dir hyphenated 
+to-nad-frill: A ac  chg hyphenated 
+toad-cake: N  nc artifact hyphenated 
+toilet-table: N  nc count hyphenated 
+toll-free: A topN3  
+tone-poem: N  nc count hyphenated 
+tongue-and-groove: N  nc component hyphenated 
+too-greedy: A ac  behavior hyphenated 
+toot-toot: UH  
+top-20: A  
+top-boot: N  nc count hyphenated 
+top-class: A ac  hyphenated pt 
+top-grade: A ac  hyphenated quality 
+top-notch: A ac  coolC emph hyphenated intensifier quality 
+top-quality: A ac  hyphenated quality 
+top-secret: A ac  content hyphenated 
+topsy-turvydom: N  nc hyphenated 
+topsy-turvyness: N  nc hyphenated ness 
+torch-race: N  nc count hyphenated 
+torch-singer: N  nc count hyphenated 
+torpedo-boat: N  nc count hyphenated 
+torpedo-tube: N  nc count hyphenated 
+torrio-capone: A  
+tortoise-shell: N  nc component hyphenated 
+totem-pole: N  nc count hyphenated 
+towel-horse: N  nc count hyphenated 
+towel-rail: N  nc count hyphenated 
+tower-block: N  nc count hyphenated 
+tower-shaped: A ac  hyphenated looks 
+town-crier: N  nc count hyphenated 
+traben-trarbach: NNP NE city nc  
+tracadie-sheila: NNP NE city nc  
+traction-engine: N  nc count hyphenated 
+tractor-ploughing: VB vc  chgForm hyphenated 
+trade-unionist: N  nc count hyphenated 
+trade-wind: N  nc count hyphenated 
+train-staff: N  nc hyphenated info 
+tram-car: N  nc count hyphenated 
+tramp-steamer: N  nc count hyphenated 
+trans-canadian: A  
+trans-pacific: A  
+trans-panama: A  
+transmitter-receiver: N  nc artifact hyphenated 
+transom-window: N  nc count hyphenated 
+trap-door: N  nc count hyphenated 
+travel-stained: A ac  hyphenated statePhy 
+travel-worn: A ac  hyphenated statePhy 
+trawl-net: N  nc count hyphenated 
+tray-cloth: N  nc count hyphenated 
+treasure-box: N  nc artifact hyphenated 
+treasure-house: N  nc artifact count hyphenated 
+treasury-bill: NN  
+treasury-bond: A  
+treis-karden: NNP NE city nc  
+tremblay-en-france: NNP NE city nc  
+trestle-bridge: N  nc count hyphenated 
+trestle-table: N  nc count hyphenated 
+tri-woods: NNP NE city nc  
+trial-manufacture: VB vc  create hyphenated 
+trial-produce: N  nc chg hyphenated 
+trick-cycling: N  nc hyphenated info 
+triple-digit: A ac  hyphenated pt 
+triple-spacing: NN nc  hyphenated length 
+triple-win: VB vc  hyphenated succeed 
+trois-pistoles: NNP NE city nc  
+trois-rivieres: NNP NE city nc  
+trolley-car: N  nc count hyphenated 
+trouble-free: A  
+trouble-taken: A ac  behavior hyphenated 
+truckle-bed: N  nc count hyphenated 
+trump-watchers: NNS  
+trumped-up: A ac  hyphenated nt 
+trunk-call: N  nc count hyphenated 
+trunk-road: N  nc count hyphenated 
+try-out: N deverbal nc  count hyphenated 
+tsaryovo-zaimishche: NNP NE city nc  
+tsetse-fly: N  nc count hyphenated 
+tube-well: N  nc count hyphenated 
+tuck-in: N  nc count hyphenated 
+tuck-shop: N  nc count hyphenated 
+tumacacori-carmen: NNP NE city nc  
+tummy-button: N  nc component hyphenated 
+tune-up: N  nc chg hyphenated 
+tuning-fork: N  nc count hyphenated 
+turbo-prop: N  nc count hyphenated 
+turn-off: N  nc count hyphenated 
+turn-out: A NN nc  count hyphenated 
+turn-round: N  nc count hyphenated 
+turn-up: N  nc count hyphenated 
+turnpike-widening: A  
+tv-production: A  
+twenty-eighth: CD  
+twenty-four: A CD  
+twenty-nine: CD  
+twenty-one: CD  
+twenty-seven: CD  
+twenty-three: CD  
+two-dimensional: A ac  hyphenated looks 
+two-dozen: CD  
+two-faced: A ac  AitPPforTOomit behavior hyphenated 
+two-hundredths: CD  
+two-in-one: A ac  hyphenated property 
+two-piece: A NN nc  count hyphenated 
+two-seater: A NN nc  count hyphenated tool 
+two-sevenths: CD  
+two-step: A ac  abstract count hyphenated 
+two-thirds: NNS RB  
+type-casting: N  nc chg hyphenated 
+type-o: A  
+tyson-spinks: A  
+u-boat: N  nc hyphenated tool 
+u-joint: N  nc hyphenated tool 
+u-turn: NN  
+u.s.-canada: NNP  
+u.s.-canadian: A  
+u.s.-czech: A  
+u.s.-dollar: NN  
+u.s.-european: A  
+u.s.-german: A  
+u.s.-japan: A  
+u.s.-japanese: A  
+u.s.-korean: A  
+u.s.-mexican: A  
+u.s.-mexico: A  
+u.s.-philippine: A  
+u.s.-u.k.: A  
+ubach-palenberg: NNP NE city nc  
+ubstadt-weiher: NNP NE city nc  
+uebigau-wahrenbruck: NNP NE city nc  
+uh-huh: UH  
+uh-uh: UH  
+uhldingen-muhlhofen: NNP NE city nc  
+uhlingen-birkendorf: NNP NE city nc  
+ulan-ude: NNP NE city nc  
+ulrichskirchen-schleinbach: NNP NE city nc  
+ultra-Left: A ac  hyphenated positioning 
+ultra-Right: A ac  hyphenated positioning 
+umbrella-shaped: A ac  hyphenated looks 
+umpire-in-chief: N  nc hyphenated per 
+un-american: A  
+un-christian: A  
+un-come-at-able: A ac  easiness hyphenated 
+un-get-at-able: A ac  easiness hyphenated 
+un-swiss: A  
+un-westernizable: A  
+unbusiness-like: A ac  hyphenated nt 
+uncared-for: A ac  hyphenated statePhy 
+uncommonly-used: A ac  hyphenated role 
+under-performing: A ac  hyphenated nt 
+under-secretary-general: NN nc  hyphenated title 
+under-staffed: A ac  hyphenated negAdj quant 
+underwood-petersville: NNP NE city nc  
+unheard-of: A ac  AitPPforTO hyphenated kind 
+unserfrau-altweitra: NNP NE city nc  
+unterrabnitz-schwendgraben: NNP NE city nc  
+up-beat: N  nc count hyphenated 
+up-to-date: A ac topN3  hyphenated timing 
+up-to-dateness: NN nc  hyphenated ness timing 
+up-to-the-minute: A ac  hyphenated timing 
+upper-case: A ac  hyphenated looks 
+upper-class: A ac  hyphenated pt 
+upper-level: A ac  hyphenated standard 
+upper-ranking: A ac  hyphenated standard 
+urine-smelling: A ac  hyphenated nt 
+urus-martan: NNP NE city nc  
+used-car: A NN nc  hyphenated tool 
+usolye-sibirskoye: NNP NE city nc  
+ust-dzheguta: NNP NE city nc  
+ust-ilimsk: NNP NE city nc  
+ust-katav: NNP NE city nc  
+ust-kut: NNP NE city nc  
+ust-labinsk: NNP NE city nc  
+ust-ordynsky: NNP NE city nc  
+ust-srednekan: NNP NE city nc  
+uzi-model: A  
+v-day: NNP nc  hyphenated timeUnit 
+vacoas-phoenix: NNP NE city nc  
+vacuum-packed: A ac  hyphenated looks 
+vade-mecum: N  nc count hyphenated 
+val-d'oise: NNP NE city nc  
+val-de-marne: NNP NE city nc  
+valley-hi: NNP NE city nc  
+vandoeuvre-les-nancy: NNP NE city nc  
+vapour-bath: N  nc count hyphenated 
+vaudreuil-dorion: NNP NE city nc  
+vaulting-horse: N  nc count hyphenated 
+vaulx-en-velin: NNP NE city nc  
+vaux-sur-sure: NNP NE city nc  
+vehicle-mounted: A ac  hyphenated performance 
+velizy-villacoublay: NNP NE city nc  
+velm-gotzendorf: NNP NE city nc  
+venezia-euganea: NNP NE city nc  
+verbano-cusio-ossola: NNP NE city nc  
+vermilion-on-the-lake: NNP NE city nc  
+vest-agder: NNP NE city nc  
+vice-: A ac  hyphenated priority 
+vice-consul: N  nc hyphenated per 
+vice-presidency: NN nc  dur hyphenated 
+vice-regent: A NN nc  hyphenated title 
+viereth-trunstadt: NNP NE city nc  
+vietnam-veteran: A  
+vigneux-sur-seine: NNP NE city nc  
+villefranche-sur-saone: NNP NE city nc  
+villenave-d'ornon: NNP NE city nc  
+villeneuve-la-garenne: NNP NE city nc  
+villeneuve-saint-georges: NNP NE city nc  
+villeneuve-sur-lot: NNP NE city nc  
+villers-le-bouillet: NNP NE city nc  
+villiers-le-bel: NNP NE city nc  
+villingen-schwenningen: NNP NE city nc  
+viry-chatillon: NNP NE city nc  
+vitoria-gasteiz: NNP NE city nc  
+vitry-sur-seine: NNP NE city nc  
+volodymyr-volynskyi: NNP NE city nc  
+volte-face: N  nc count hyphenated 
+vresse-sur-semois: NNP NE city nc  
+w-region: NN  
+wage-claim: N  nc count hyphenated 
+wage-freeze: N  nc count hyphenated 
+waist-down: A ac  component hyphenated 
+waist-high: A ac  RB depth hyphenated 
+wait-and-see: A ac  act hyphenated 
+waiting-list: N  nc count hyphenated 
+waiting-room: N  nc count hyphenated 
+wal-mart: NN com nc 
+wald-michelbach: NNP NE city nc  
+waldfischbach-burgalben: NNP NE city nc  
+waldshut-tiengen: NNP NE city nc  
+walk-in: A NN nc  hyphenated per 
+walk-through: A NN nc  abstract hyphenated 
+wall-painting: N  nc count hyphenated 
+wallsee-sindelburg: NNP NE city nc  
+wanaque-midvale: NNP NE city nc  
+want-ad: N  nc count hyphenated 
+war-cloud: N  nc count hyphenated 
+war-cry: N  nc count hyphenated 
+war-dance: N  nc count hyphenated 
+war-god: N  nc count hyphenated 
+war-horse: N  nc animal hyphenated 
+war-ridden: A ac  hyphenated nt 
+war-torn: A ac  hyphenated negAdj situation 
+war-worn: A ac  hyphenated troubleW 
+warming-pan: N  nc count hyphenated 
+wash-drawing: N  nc count hyphenated 
+wash-hand-basin: N  nc count hyphenated 
+wash-hand-stand: N  nc count hyphenated 
+wash-house: N  nc count hyphenated 
+washed-out: A ac  hyphenated negAdj 
+washed-up: A ac  hyphenated negAdj 
+washington-on-the-brazos: NNP NE city nc  
+waste-disposal: A NN  
+waste-paper-basket: N  nc count hyphenated 
+watch-guard: N  nc count hyphenated 
+watch-key: N  nc count hyphenated 
+water-blister: N  nc count hyphenated 
+water-buffalo: N  nc count hyphenated 
+water-butt: N  nc count hyphenated 
+water-cart: N  nc count hyphenated 
+water-closet: N  nc count hyphenated 
+water-finder: N  nc count hyphenated 
+water-hole: N  nc count hyphenated 
+water-jacket: N  nc count hyphenated 
+water-level: N  nc count hyphenated 
+water-main: N  nc count hyphenated 
+water-skiing: NN nc  hyphenated 
+water-skin: N  nc count hyphenated 
+water-tower: N  nc count hyphenated 
+water-vole: N  nc count hyphenated 
+water-waggon: N  nc count hyphenated 
+water-wagon: N  nc count hyphenated 
+watered-down: A ac  concentration hyphenated 
+watering-can: N  nc count hyphenated 
+watering-cart: N  nc count hyphenated 
+wax-apple: N  nc hyphenated plant 
+wax-chandler: N  nc count hyphenated job 
+wax-jambo: N  nc hyphenated plant 
+weak-hearing: A ac  hyphenated statePhy 
+weak-kneed: A ac  APP behavior hyphenated 
+weak-sighted: A ac  hyphenated nt 
+weaker-than-expected: A ac  hyphenated troubleW 
+wear-resisting: A ac  ebla hyphenated 
+weather-chart: N  nc count hyphenated 
+weather-glass: N  nc count hyphenated 
+weather-map: N  nc count hyphenated 
+weather-vane: N  nc count hyphenated 
+wedding-ring: N  nc count hyphenated 
+wee-wee: VB vc  hyphenated metabolize 
+weighing-machine: N  nc count hyphenated 
+weiler-simmerberg: NNP NE city nc  
+weissenborn-luderode: NNP NE city nc  
+well-advised: A ac  ATO ebla hyphenated 
+well-appointed: A ac  hyphenated pt 
+well-arranged: A ac  comfortW hyphenated 
+well-balanced: A ac  hyphenated pt 
+well-behaved: A ac  comfortW hyphenated 
+well-being: A NN nc topN3  abstract hyphenated situation 
+well-beloved: A ac  comfortW hyphenated 
+well-born: A ac  comfortW hyphenated 
+well-bred: A ac  hyphenated pt 
+well-bucket: N  nc artifact hyphenated 
+well-built: A ac  hyphenated pt 
+well-cared-for: A ac  hyphenated statePhy 
+well-chosen: A ac  hyphenated pt 
+well-conducted: A ac  hyphenated pt 
+well-connected: A ac  APP hyphenated pt 
+well-content: A ac  hyphenated pt 
+well-defined: A ac  hyphenated pt vac 
+well-developed: A ac  hyphenated pt 
+well-disciplined: A ac  hyphenated pt 
+well-disposed: A ac  APP hyphenated pt 
+well-distributed: A ac  content hyphenated 
+well-doer: N  nc count hyphenated 
+well-doing: N  nc hyphenated 
+well-done: A ac  hyphenated pt 
+well-drilled: A ac  hyphenated pt 
+well-earned: A ac  behavior hyphenated 
+well-equipped: A ac  hyphenated pt 
+well-experienced: A ac  ebla hyphenated pro 
+well-fixed: A ac  comfortW hyphenated 
+well-formed: A ac  hyphenated pt 
+well-found: A ac  hyphenated pt 
+well-founded: A ac  hyphenated pt 
+well-furnished: A ac  hyphenated situation 
+well-grounded: A ac  hyphenated pt 
+well-handled: A ac  hyphenated pt 
+well-heeled: A ac  hyphenated pt 
+well-illuminated: A ac  bright hyphenated 
+well-informed: A ac  APP comfortW hyphenated 
+well-intentioned: A ac  behavior hyphenated 
+well-ironed: A ac  hyphenated pt 
+well-judged: A ac  hyphenated pt 
+well-knit: A ac  content hyphenated quality 
+well-known: A NN ac topN3  APP ASS hyphenated reputation v vac 
+well-liking: A ac  hyphenated pt 
+well-lit: A ac  bright hyphenated 
+well-looking: A ac  comfortW hyphenated 
+well-lubricated: A ac  hyphenated pt 
+well-made: A ac  hyphenated pt 
+well-mannered: A ac  behavior hyphenated 
+well-marked: A ac  content hyphenated 
+well-meaning: A ac  behavior hyphenated 
+well-meant: A ac  behavior hyphenated 
+well-measured: A ac  hyphenated pt 
+well-nigh: RB hyphenated situation 
+well-off: A ac  easiness hyphenated situation 
+well-oiled: A ac  hyphenated info 
+well-ordered: A ac  hyphenated pt 
+well-paying: A ac  easiness ebla hyphenated 
+well-pleasing: A ac  comfortW hyphenated 
+well-preserved: A ac  hyphenated situation 
+well-proportioned: A ac  hyphenated pt 
+well-read: A ac  APP ebla hyphenated 
+well-regulated: A ac  content hyphenated 
+well-remembered: A ac  hyphenated stateMental 
+well-reputed: A ac  hyphenated pt 
+well-rounded: A ac  hyphenated range up 
+well-set: A ac  hyphenated pt 
+well-situated: A ac  hyphenated pt 
+well-spent: A ac  hyphenated pt 
+well-thought-of: A ac  hyphenated pt 
+well-to-do: A NN ac  hyphenated n situation 
+well-trained: A ac  hyphenated pt 
+well-treat: VB vc  hyphenated pEmo 
+well-versed: A ac  ebla hyphenated 
+well-wired: A ac  hyphenated stateMental 
+well-wished: N  nc hyphenated per 
+well-wishing: A NN nc  abstract hyphenated info 
+well-worn: A ac  hyphenated nt 
+wernberg-koblitz: NNP NE city nc  
+wesleyan-methodist: N  nc hyphenated per 
+west-german: A  
+west-sider: N  nc hyphenated per 
+western-central: A  
+westhaven-moonstone: NNP NE city nc  
+wezembeek-oppem: NNP NE city nc  
+whaling-gun: N  nc count hyphenated 
+wheat-germ: NN  
+whipping-post: N  nc count hyphenated 
+whipping-top: N  nc count hyphenated 
+whispering-gallery: N  nc count hyphenated 
+whist-drive: N  nc count hyphenated 
+whistle-stop: A NN nc  count hyphenated 
+white-haired: A ac  color hyphenated 
+white-length: A ac  hyphenated length 
+white-shirted: A  
+white-souled: A ac  behavior hyphenated 
+whitesboro-burleigh: NNP NE city nc  
+whiz-bang: UH  
+whole-coloured: A ac  color hyphenated 
+whole-length: A ac  hyphenated length 
+whole-souled: A ac  hyphenated pt 
+whole-wheat: A ac  artifact hyphenated 
+wi-fi: N nc topN3  hyphenated tech 
+wic-a-te-wah: NNP NE city nc  
+wicket-door: N  nc count hyphenated 
+wicket-gate: N  nc count hyphenated 
+wide-angle: A ac  hyphenated looks 
+wide-body: A ac  hyphenated tool 
+wide-ranging: A ac  hyphenated range 
+wide-spread: A ac  hyphenated range 
+wiesbaden-biebrich: NNP NE city nc  
+wil-e-lew: NNP NE city nc  
+wilbur-by-the-sea: NNP NE city nc  
+wilkau-hasslau: NNP NE city nc  
+wilkes-barre: NNP NE city nc  
+will-o-wick: NNP NE city nc  
+williamsburg-on-the-river: NNP NE city nc  
+willow-tree: N  nc count hyphenated 
+willy-nilly: A idiom  RB behavior hyphenated 
+win-lose: VB vc  fail hyphenated 
+wind-bell: N  nc artifact hyphenated 
+wind-driven: A ac  hyphenated performance 
+wind-powered: A ac  hyphenated performance 
+wind-tunnel: N  nc count hyphenated 
+winding-clothes: NNS Xs nc  hyphenated tool 
+window-washing: NN nc  abstract hyphenated 
+wing-commander: N  nc count hyphenated 
+wing-room: N  nc artifact hyphenated 
+wing-rooms: N  nc artifact hyphenated 
+wing-screw: N  nc count hyphenated 
+winning-post: N  nc count hyphenated 
+winston-salem: NNP NE city nc  
+wishing-cap: N  nc count hyphenated 
+wishy-washy: A ac  APP hyphenated nt 
+witch-doctor: N  nc count hyphenated 
+witness-box: N  nc count hyphenated 
+witness-stand: N  nc count hyphenated 
+witten-hohenstein: NNP NE city nc  
+wittlich-land: NNP NE city nc  
+wolframs-eschenbach: NNP NE city nc  
+woluwe-saint-lambert: NNP NE city nc  
+woluwe-saint-pierre: NNP NE city nc  
+wongan-ballidu: NNP NE city nc  
+wood-block: N  nc count hyphenated 
+wood-gigeon: N  nc animal hyphenated 
+wood-lynne: NNP NE city nc  
+wood-ridge: NNP NE city nc  
+word-for-word: A ac  content hyphenated 
+word-picture: N  nc count hyphenated 
+work-clothes: NN nc  hyphenated tool 
+work-clothing: NN nc  hyphenated tool 
+work-out: A NN nc  count hyphenated 
+world-class: A ac  hyphenated pt 
+world-shaking: A ac  ebla hyphenated importance 
+world-shattering: A ac  ebla hyphenated 
+world-weariness: NN nc  hyphenated ness stateMental 
+world-weary: A ac  hyphenated nt stateMental 
+worldly-wise: A ac  hyphenated pt 
+worn-down: A ac  hyphenated negAdj 
+worn-out: A ac  hyphenated negAdj quality sequence statePhy 
+would-be: A NN ac  chg hyphenated n 
+writing-table: N  nc artifact hyphenated 
+x-chromosome: NN  
+x-linked: A  
+x-marked: A  
+x-rated: A  
+x-ray: NN nc topN3  hyphenated natural 
+x-region: NN  
+x-scid: NNP  
+x-telnet: NN com nc 
+x-tend: NN  
+xai-xai: NNP NE city nc  
+xxy-syndrome: N  nc hyphenated nt 
+y-cells: NNS  
+y-gyro: NN  
+y-linked: A  
+y-region: NN  
+y-regions: NNS  
+yacht-race: N  nc hyphenated 
+yacht-racing: N  nc hyphenated 
+yankee-come-lately: A  
+yankee-doodle: NN nc  hyphenated origin per 
+yankee-hatred: NN  
+yankees-mets: A  
+yard-measure: N  nc count hyphenated 
+yardville-groveville: NNP NE city nc  
+year-around: A  
+year-before: A  
+year-book: N  nc hyphenated info 
+year-end: A NN nc  RB hyphenated timeUnit vac 
+year-round: A ac idiom  RB dur hyphenated 
+yehud-monosson: NNP NE city nc  
+yellow-dog: A ac  behavior hyphenated 
+yellowish-brown: A ac  color hyphenated 
+yerwa-maiduguri: NNP NE city nc  
+yet-another: DT  
+yew-tree: N  nc count hyphenated 
+yin-yang: N  nc hyphenated property 
+yo-ho: N  nc hyphenated natural 
+yolk-yellow: A ac  color hyphenated 
+yoshkar-ola: NNP NE city nc  
+yule-log: N  nc count hyphenated 
+yuryev-polsky: NNP NE city nc  
+yuzhno-sakhalinsk: NNP NE city nc  
+yuzhno-sukhokumsk: NNP NE city nc  
+yverdon-les-bains: NNP NE city nc  
+z-not: RB  
+zamyn-uud: NNP NE city nc  
+zealand-dollar: NN  
+zelking-matzleinsdorf: NNP NE city nc  
+zella-mehlis: NNP NE city nc  
+zemendorf-stottera: NNP NE city nc  
+zen-like: A  
+zeulenroda-triebes: NNP NE city nc  
+zhana-ozen: NNP NE city nc  
+zheleznogorsk-ilimsky: NNP NE city nc  
+zip-fastener: N  nc count hyphenated
+10th: CD ordinal topN3 
+1920s: DE Xs nc  plu date
+1930s: DE Xs nc  plu date
+1940s: DE Xs nc  plu date
+1950s: DE Xs nc  plu date
+1960s: DE Xs nc  plu date
+1970s: DE Xs nc  plu date
+1980s: DE Xs nc  plu date
+1990s: DE Xs nc  plu date
+1st: CD ordinal topN2 
+1st/premium: NN ordinal 
+2day: N0  RB todayC vac
+2gether: RB advX behavior vac
+2moro: N0 nc  BR RB todayC 'tomorrow'
+2morro: N0 nc  BR RB todayC 'tomorrow'
+2morrow: N0 nc  BR RB todayC 'tomorrow'
+2mrw: N0 nc  BR RB todayC 'tomorrow'
+2nd: CD topN2  ordinal
+24/7: A NN RB nc  timeUnit vac 
+3d: N nc topN2  stopN
+3rd: CD topN3  ordinal
+4ad: NN com nc
+4eva: RB advX dur freq
+4ever: RB advX dur freq
+4homemedia: NN com nc
+4wd: N  nc tool
+a+: A n ac good 'a-plus'  
+'ll: MD 'will'
+'s: POS xC VBZ hasS beC haveC
+'n: CC
+a'ight: A ac RB xC UH pt 'alright' 
+2night: NN nc RB morningC 'tonight'
+2NITE: NN nc RB morningC 'tonight'
+4get: VB vc VHOWSS VI VNG VNPNGoc VPP VPhisNG VSS VWHSS noKnowledge perV vt vtoV 'forget'

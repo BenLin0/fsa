@@ -1,0 +1,6 @@
+a590Graph ==
+
+['remind' hasO !hasC|hasoCL] [^.next 'of':^.next-] [^1.next CL:^.oCL ^1.next-] 
+
+['ask'] [^.O per|org:^.toC ^.O-] 
+

@@ -1,0 +1,40 @@
+a600Graph ==
+
+[N:^2.S]++['that':^2.synS] [^Q.next Ved|VB|finite] 
+[] [^.purposeR infinitive:^.purposeR- ^2.mCL] [^.O N VPPforTO]  
+[beC] [^.Z "there"] [^.Arg NC:^.S]++[Ved|Ven:^2.mCL] 
+
+[vV passive !hasObj] [^.synS !O:^.O] 
+[passive !hasS] [^.R !S|time PP:^.S ^.R-] [^Q.Z "by"] 
+[] [^.Subj nN] [^.Kid "both|all" !equivM:^.Kid- ^Q.equivM] 
+
+
+[hasObj|hasC hassynS !hasS|passive] [^.synS+!^.O:^.S] 
+[linkV !hasS] [^.synS:^.S ^2.S2] [^.C !PP] 
+[linkV !hasS] [^.synS:^.S ^2.S2] [^.C infinitive] 
+[VNPTO] [^.O nN:^2.S2] [^.oCL|^.oVP V !passive !hasSubj] 
+[beC !Obj] [^.next:^.oCL ^.next-] [^Q.synS] [^Q.Z>>^ "that":^2.Z-] 
+
+[beC] [^.~mCL NC:^3.S2] [^.synS "which|that":Done] [^.C PP !hasSubj] 
+[beC]  [^.~mCL NC:^3.S2] [^.synS "which|that":Done] [^.O NP !hasSubj] 
+[beC] [^.Subj NC !PP:^2.equiv Done] [^.O NP !hasSubj] 
+[beC] [^.Subj NC:^2.S2 Done] [^.C A !hasSubj] 
+[Ving] [^.~mVP NC:^.S2] 
+
+[] [^.Kid SC !hasKid|Z]~~[^.next CL:^1.xCL ^.next-]>  
+
+
+['let_us'] [^.~Kid: imperative hasSubj CL] 
+[V]~~[^.Arg N] [^.R PP:^Q.M ^.R-] [^Q.Z>>^1 'of'] 
+
+
+[NC|'that']++["which"] [^Q.~Kid|^Q.next CL:^.mCL]  
+["those"]++["who|whom|whose"] [^1.~Kid CL:^.mCL]  
+["those"]++["whose":X] [^1.~Kid.~Kid CL:^.mCL]  
+
+
+[NC !PRP]++[idiomPP '-which']~~[^Q.~Kid CL:^.mCL] 
+[help]++[Ving !hasSubj:^.mVP] [^Q.~next:^Q.~next-] 
+[VNPSS !hasoCL] [^.Arg per:^.toC ^.Arg-]++['that':X] [^Q.xCL:^.oCL ^Q.xCL-]  
+["whoever|whomever":^1.S2] [^.~Subj:^.mCL ^.~Subj-] [^Q.next V !hasSubj:^.S ^Q.next-] 
+

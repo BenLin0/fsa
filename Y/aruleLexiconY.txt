@@ -1,0 +1,367 @@
+
+stop ["carrying":useW]
+[cool:pW-] part
+no [confirmation|reply|response:comfortW] to me
+[take:useW] chemicalN|drugN for diseaseN
+[give:pW-] me the? [] "reading"
+[apply:pW-] !for
+please do not [nW:comfortW nW-]
+["stolen":nW-] by
+
+[do:comfortW] [] what ?? 'claim>
+<'lose:FEATURE-nW+pt ?? 'weight|pound|stone|lbs>
+<'hard to resist:comfortW-nW>
+<'!i promised:troubleW but not>
+<keep:comfortW doing>
+<'be 'sell_out:troubleW of>
+<'stop being cheap:troubleW-pW>
+<same ?? 'go_for:FEATURE-useW>
+<'produce:pW '!no? 'result>
+<'produce:troubleW 'no|little|few 'result>
+<'rock ?? 'hard:FEATURE-nW>
+<'help arrest:FEATURE-nW>
+<'test my patience:FEATURE-pW>
+<slower|slow NN|JJ design:NP> 
+<across PRPP back:RP idiomPP>
+<across PRPP bow:RP idiomPP>
+<after PRPP own heart: RP idiomPP>
+<against PRPP better judgment:RP idiomPP>
+<against PRPP will:RP idiomPP>
+<ahead of PRPP time:RP idiomPP>
+<at PRPP A leisure:RP idiomPP>
+<at PRPP beck and call:RP idiomPP>
+<at PRPP best:RP idiomPP> !NN|NNS
+<at PRPP convenience:RP idiomPP>
+<at PRPP doorstep:RP idiomPP>
+<at PRPP door:RP idiomPP>
+<at PRPP ease:RP idiomPP>
+<at PRPP elbow:RP idiomPP>
+<at PRPP expense:RP idiomPP>
+<at PRPP feet:RP idiomPP>
+<at PRPP fingertips:RP idiomPP>
+<at PRPP heels:RP idiomPP>
+<at PRPP mercy:RP idiomPP,predicative>
+<at PRPP own expense:RP idiomPP>
+<at PRPP request:RP idiomPP>
+<at PRPP wit's end:RP idiomPP>
+<at PRPP word:RP idiomPP>
+<at PRPP worst:RP idiomPP> !NN|NNS
+<at the end of PRPP rope:RP idiomPP>
+<at the height of PRPP career:RP idiomPP>
+<at the peak of PRPP career:RP idiomPP>
+<at the top of PRPP class:RP idiomPP>
+<at the top of PRPP game:RP idiomPP>
+<at the top of PRPP lungs:RP idiomPP>
+<at the top of PRPP voice:RP idiomPP>
+<at the top of the class:RP idiomPP>
+
+<at the BWORD:very? lastest:RP idiomPP> !NN|NNS
+<at the ? least:RP idiomPP> !NN|NNS
+<at the ? most:RP idiomPP> !NN|NNS
+<at the ? worst:RP idiomPP> !NN|NNS
+<at the ? best:RP idiomPP> !NN|NNS
+<at the ? outside:RP idiomPP>
+<behind PRPP back:RP idiomPP>
+<by PRPP bootstraps:RP idiomPP>
+<by PRPP wits:RP idiomPP>
+<by heart:RP idiomPP> !NN|NNS
+<by hand:RP idiomPP> !NN|NNS
+<by choice:RP idiomPP> !NN|NNS
+
+<by weight:RP idiomPP>
+<by the seat of PRPP pants:RP idiomPP>
+<by the skin of PRPP teeth:RP idiomPP>
+<by the sweat of PRPP brow:RP idiomPP>
+<close to PRPP chest:RP idiomPP>
+<close to PRPP vest:RP idiomPP>
+<coming out of PRPP ears:RP idiomPP>
+<conspicuous by PRPP absence:RP idiomPP>
+<dead in PRPP tracks:RP idiomPP>
+<dead on PRPP feet:RP idiomPP>
+<down PRPP alley:RP idiomPP>
+<down PRPP neck:RP idiomPP>
+<down PRPP nose:RP idiomPP>
+<down PRPP throat:RP idiomPP>
+<down on PRPP luck:RP idiomPP>
+<flat on PRPP back:RP idiomPP>
+<following PRPP lead:RP idiomPP>
+<for PRPP pains:RP idiomPP>
+<for PRPP part:RP idiomPP>
+<for PRPP sake:RP idiomPP>
+<from the bottom of PRPP heart:RP idiomPP>
+<for free:RP idiomPP> !NN|NNS|NNP
+<for certain:RP idiomPP> !NN|NNS|NNP|JJ|JJR|JJS
+<for sure:RP idiomPP>
+<in PRPP JJ hands:RP idiomPP>
+<in PRPP behalf:RP idiomPP>
+
+
+
+<in contrast:RP idiomPP>
+<in the :RP idiomPP> !NN|NNS|JJ
+<in the running:RP idiomPP> !NN|NNS
+<in PRPP element:RP idiomPP>
+<in PRPP face:RP idiomPP>
+<in PRPP favor:RP idiomPP>
+<in PRPP good graces:RP idiomPP>
+<in PRPP hair:RP idiomPP>
+<in PRPP hands:RP idiomPP>
+<in PRPP heart of hearts:RP idiomPP>
+<in PRPP interest:RP idiomPP>
+<in PRPP light:RP idiomPP> !NN|NNS
+<in PRPP midst:RP idiomPP>
+<in PRPP mind's eye:RP idiomPP>
+<in PRPP name:RP idiomPP>
+<in PRPP opinion:RP idiomPP>
+<in PRPP own back yard:RP idiomPP>
+<in PRPP own interest:RP idiomPP>
+<in PRPP own right:RP idiomPP>
+<in PRPP own time:RP idiomPP>
+<in PRPP own unique way:RP idiomPP>
+<in PRPP own world:RP idiomPP>
+<in PRPP pocket:RP idiomPP>
+<in PRPP prime:RP idiomPP>
+<in PRPP right mind:RP idiomPP>
+<in PRPP shadow:RP idiomPP>
+<in PRPP shell:RP idiomPP>
+<in PRPP shoes:RP idiomPP>
+<in PRPP stead:RP idiomPP>
+
+<into PRPP shell:RP idiomPP>
+<near to PRPP heart:RP idiomPP>
+<of PRPP own accord:RP idiomPP>
+<of PRPP own free will:RP idiomPP>
+<off PRPP back:RP idiomPP>
+<off PRPP chest:RP idiomPP>
+<off PRPP feed:RP idiomPP>
+<off PRPP feet:RP idiomPP>
+<off PRPP guard:RP idiomPP>
+<off PRPP hands:RP idiomPP>
+<off PRPP head:RP idiomPP>
+<off PRPP rocker:RP idiomPP>
+<off PRPP shoulders:RP idiomPP>
+<off the top of PRPP head:RP idiomPP>
+<on the whole:RP idiomPP> !NN|NNS|JJ|JJR|JJS
+<on the defensive:RP idiomPP> !NN|NNS
+<on PRPP JJ list:RP idiomPP>
+<on PRPP JJ merits:RP idiomPP>
+<on PRPP JJ shoulders:RP idiomPP>
+<on PRPP JJ way:RP idiomPP>
+<on PRPP account:RP idiomPP>
+<on PRPP ass:RP idiomPP>
+
+<on PRPP behalf:RP idiomPP>
+<on PRPP best behavior:RP idiomPP>
+<on PRPP butt:RP idiomPP>
+<on PRPP coattails:RP idiomPP>
+<on PRPP doorstep:RP idiomPP>
+<on PRPP feet:RP idiomPP>
+<on PRPP guard:RP idiomPP>
+<on PRPP hands:RP idiomPP>
+<on PRPP heels:RP idiomPP>
+<on PRPP home ground:RP idiomPP>
+<on PRPP honor:RP idiomPP>
+<on PRPP last legs:RP idiomPP>
+<on PRPP list:RP idiomPP>
+<on PRPP merits:RP idiomPP>
+<on PRPP mind:RP idiomPP>
+<on PRPP nerves:RP idiomPP>
+<on PRPP own acount:RP idiomPP>
+<on PRPP own behalf:RP idiomPP>
+<on PRPP own time:RP idiomPP>
+<on PRPP own:RP idiomPP> !NN|NNS
+<on PRPP say-so:RP idiomPP>
+<on PRPP shoulders:RP idiomPP>
+<on PRPP side:RP idiomPP>
+<on PRPP tail:RP idiomPP>
+<on PRPP toes:RP idiomPP>
+<on PRPP way home?:RP idiomPP>
+<on the tip of PRPP tongue:RP idiomPP>
+<on top of PRPP game:RP idiomPP>
+<out of PRPP JJ head:RP idiomPP>
+<out of PRPP JJ mind:RP idiomPP>
+<out of PRPP depth:RP idiomPP>
+<out of PRPP element:RP idiomPP>
+<out of PRPP hat:RP idiomPP>
+<out of PRPP head:RP idiomPP>
+<out of PRPP league:RP idiomPP>
+<out of PRPP mind:RP idiomPP]
+<out of PRPP shell:RP idiomPP>
+
+<out of PRPP way:RP idiomPP>
+<out of the corner of PRPP eye:RP idiomPP>
+<out on PRPP ear:RP idiomPP>
+<over PRPP dead body:RP idiomPP>
+<over PRPP heads:RP idiomPP>
+<over PRPP head:RP idiomPP>
+<past PRPP prime:RP idiomPP>
+<sick to PRPP stomach< AP
+<through PRPP hat:RP idiomPP>
+<through PRPP head:RP idiomPP>
+<through PRPP mind:RP idiomPP>
+<to PRPP  JJ relief:RP idiomPP>
+<to PRPP JJ surprise:RP idiomPP>
+
+<to PRPP heart's content:RP idiomPP>
+<to PRPP relief:RP idiomPP>
+<to PRPP surprise:RP idiomPP>
+<under PRPP belt:RP idiomPP>
+<under PRPP breath:RP idiomPP>
+<under PRPP feet:RP idiomPP>
+<under PRPP hat:RP idiomPP>
+<under PRPP nose:RP idiomPP>
+<under PRPP own steam:RP idiomPP>
+<under PRPP skin:RP idiomPP>
+<under PRPP spell:RP idiomPP>
+<under PRPP thumb:RP idiomPP>
+<under PRPP wing:RP idiomPP>
+<up PRPP alley:RP idiomPP>
+<up PRPP sleeve:RP idiomPP>
+<up PRPP street:RP idiomPP>
+<up to PRPP ears:RP idiomPP>
+<up to PRPP eyeballs:RP idiomPP>
+<up to PRPP necks:RP idiomPP>
+<up to PRPP neck:RP idiomPP>
+
+<with PRPP eyes wide? open:RP idiomPP>
+<with PRPP pants down:RP idiomPP>
+<with one arm tied behind PRPP back:RP idiomPP>
+<within an inch of PRPP JJ life:RP idiomPP>
+<within an inch of PRPP life:RP idiomPP>
+<worth PRPP keep:RP idiomPP>
+<worth PRPP salt:RP idiomPP>
+<worth PRPP weight in gold:RP idiomPP>
+<worth PRPP while:RP idiomPP>
+<than PRP expected:RP idiomPP>
+<as PRP expected:RP idiomPP>
+<NN wise:RP idiomPP>
+<all_but CD:DE>
+
+
+<in whole:RP idiomPP> !NN|NNS:RP idiomPP
+<over the counter:AP> NN
+<DT times:RP> IN|SCONJ|EOS
+<as_far_as []? []? 'be' 'concern':RP nt->
+<in way:RP>
+<in principle:RP idiomPP>
+<like PRP said:RP idiomPP>
+<like crap:RP curseW,antagonistAdv 
+<where appropriate:RP
+
+
+
+<important:FEATURE-pW to remember>
+<'would like:FEATURE-pW ?? NN|NNP|NNS|PRP to>
+<'account ?? suspended:troubleW>
+<'sing about nW:FEATURE-nW>
+<give:comfortW it time>
+<unrelated:troubleW to my question>
+<'get:comfortW the job|work done>
+<'stop:pW-eliminateW being ?? ?? pW>
+<'be nothing:pW special>
+<'go:comfortW a long way>
+<'do|deal:troubleW 'drug>
+<'i 'go:troubleW 'insane>
+<'healthy ?? bacteria:FEATURE-nW+pW>
+<, well:FEATURE-pW ,>
+<be really? honest:FEATURE-pW>
+<'resist:FEATURE-nW the urge>
+<'go:nt to jail|prison>
+<'die:FEATURE-nW of thirst>
+<'participation is ?? high:pW>
+<that|this 'be fine|ok:FEATURE-pW>
+<loaded:troubleW with ?? nW>
+<does:improveW squat>
+<'potential:FEATURE-pW+troubleW to be? nt>
+<'reinforce:FEATURE-pW ?? notion>
+<'i am hooked:happy on>
+<does not treat:FEATURE-pW>
+<competing:FEATURE-pW NN|NNS|NNP>
+<effective:FEATURE-pW immediately>
+<'hold:comfortW ?? ?? 'lead>
+<'break:comfortW-nW ?? 'ground>
+<'vote:troubleW with ?? feet>
+<'goal 'be ?? profit:FEATURE-pW>
+<'sing loudly:FEATURE-nW>
+<'treat:FEATURE-pW ?? 'us|employee|people|me>
+<'try to fix:troubleW>
+<'try:troubleW ?? hard>
+<'try:troubleW to causeV>
+<'understand:pt ?? 'concern:FEATURE-nW>
+<'receive a? low price:nW-pW>
+<'be|become a? leader:pW>
+<'get:comfortW your pW>
+<'give:comfortW me? a? free:comfortW>
+<'die so|too? fast|quick:FEATURE-pW>
+<'have|buy|purchase|get|watch|drink this shit:curseW>
+<'better:FEATURE-pW to VB>
+<nW:FEATURE-nW ?? 'management>
+<'disrupt:pt-nW ?? 'market>
+<'rain:troubleW on me|you|her|him|us>
+<'be just|all gravy:coolW>
+<'where 'appropriate:FEATURE-pW>
+<'delay:FEATURE-nW+pW 'come in ?? below>
+<'take:troubleW 'forever>
+<'pure:FEATURE-pW 'ignorance>
+<!nW 'be ?? down:nW '!to>
+<'i ?? visit:useW >
+<'have a weakness:love-nW for>
+<previously worked:FEATURE-pW>
+<'work:comfortW together>
+<share_price 'be ?? high:pW>
+<share_price 'be ?? low:nW>
+<'get:comfortW me !VBG|VB|TO|IN|JJ|JJR|JJS|RB>
+<'feel:annoy ?? sick>
+<'get:annoy me 'sick>
+<'be ?? banging:coolW>
+
+<'appear|look gay:troubleW>
+<'i|he|she ?? miss:love>
+<would be ?? grateful|thankful|appreciative:FEATURE-pW for>
+<interested:FEATURE-pW NN|NNP|NNS>
+<'be not|never 'ok:protagonistN>
+<'interesting:FEATURE-pW to see|wait>
+<'not|never|rarely 'give a|one|two 'shit:curseW>
+<'!not|never|rarely 'give me 'shit:curseW>
+<'not|never|rarely 'give me 'shit:coolW-nW>
+<'fuck:curseW 'off>
+<'get|become|be pissed:annoy>
+<'get|become sick:annoy>
+<'blow:annoy me|her|him>
+<'disable:troubleW ?? 'service|contract|account>
+<'surprise:troubleW with a? loss>
+<companyPN|productPN|personPN 'robbery:troubleW>
+<'robbery:troubleW at>
+<'miss:troubleW ?? 'subscriber|revenue>
+<a|an ?? blast:good>
+<those interested:FEATURE-pW>
+<'interesting:FEATURE-pW ?? discussion|article|study|research|talk>
+<'refuse|request:troubleW ?? 'refund>
+<'i|she|we|he|you 'crash:FEATURE-nW>
+<'crash:FEATURE-nW PRPP>
+<'prove:linkV ? JJ|JJR>
+<'cool ? shit:FEATURE-nW+good>
+<'cut:troubleW ? 'job>
+<'charge:troubleW a 'fee>
+<'win:FEATURE-pW+troubleW 'zero|nothing>
+<'kill:pt antagonistN>
+<'stay|keep quiet:FEATURE-pW>
+<'a|an|the ? disrupted:FEATURE-pW+troubleW>
+<'make ? 'stride:protagonistN>
+<'give a full 'refund:pW-nW>
+<will|would not|never touch:useW>
+<STRT 'do? 'not touch:useW>
+<'never 'touch the 'brake|pedal>
+<'never 'touch:useW>
+<impossible to avoid:pt-eliminateW>
+<pleasantly VBN:happy>
+<shatters|beats|smashes ? 'estimate|expectation:pW>
+<'be ?? ?? responsible:FEATURE-pW>
+<'conduct|issue:troubleW ? recall>
+<PRPP fair:FEATURE-pW share of> AP 
+<'explain:pW everything>
+<unavailable:FEATURE-nW for comment>
+<would|will RB? never|not? rent|book:useW+ptV from|with|here|again>
+<would|will RB? never|not? use|consider:useW+ptV>
+<would|will never do:useW+ptV business w|with>
+<so|very clutch:good+predicative> AP
