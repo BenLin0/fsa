@@ -14,7 +14,7 @@ CASES
 Lookup Compound: aLEXICON_2.txt, acompoundY_forms.txt, acompoundY_3colons.txt  
 
 Lookup defLex: alexControl.txt
-Lookup defLex: lexHyphen.txt
+Lookup defLex: alexHyphen.txt
 
 FSA a1preProcess.txt
 
@@ -33,7 +33,7 @@ FSA a12-concatenate.txt
 FSA a20MeasureY.txt 
 
 FSA aruleLexiconY.txt
-FSA ExpertLexY.txt  
+FSA aExpertLexY.txt  
 
 FSA a28ExpertY.txt 
 FSA a28GrammarY.txt 
